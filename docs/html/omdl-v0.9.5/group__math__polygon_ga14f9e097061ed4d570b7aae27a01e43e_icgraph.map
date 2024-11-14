@@ -1,0 +1,4 @@
+<map id="polygon_regular_perimeter" name="polygon_regular_perimeter">
+<area shape="rect" id="node1" title="Compute the perimeter of an n&#45;sided regular polygon in 2D." alt="" coords="220,5,419,32"/>
+<area shape="rect" id="node2" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="5,5,172,32"/>
+</map>

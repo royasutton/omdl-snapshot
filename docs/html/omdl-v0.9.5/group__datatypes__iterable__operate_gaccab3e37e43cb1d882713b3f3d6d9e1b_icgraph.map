@@ -1,0 +1,20 @@
+<map id="first" name="first">
+<area shape="rect" id="node1" title="Return the first element of an iterable value." alt="" coords="633,309,680,336"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="468,5,557,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="457,56,568,83"/>
+<area shape="rect" id="node4" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="241,157,391,184"/>
+<area shape="rect" id="node6" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="51,107,147,133"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="15,208,182,235"/>
+<area shape="rect" id="node8" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="440,208,585,235"/>
+<area shape="rect" id="node9" href="$group__datatypes__map.html#ga4a3d0704d80be0d9e8bae1fcb3ab7958" title="Perform basic format checks on a map and output errors to console." alt="" coords="465,309,561,336"/>
+<area shape="rect" id="node11" href="$group__datatypes__map.html#ga1ee3a7b76638ba11f1420da1dec59c8d" title="Write formatted map entries to the console." alt="" coords="467,360,558,387"/>
+<area shape="rect" id="node12" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="450,411,575,437"/>
+<area shape="rect" id="node13" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="445,461,581,488"/>
+<area shape="rect" id="node14" href="$group__datatypes__table.html#ga8a4429649e8b06d9f492e1a0d2653656" title="Perform basic format checks on a table and output errors to console." alt="" coords="463,512,563,539"/>
+<area shape="rect" id="node17" href="$group__datatypes__table.html#gaafc45abc1b8026ee1518fad87a042be3" title="Dump a table to the console." alt="" coords="463,563,562,589"/>
+<area shape="rect" id="node18" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="465,613,560,640"/>
+<area shape="rect" id="node5" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,157,192,184"/>
+<area shape="rect" id="node10" href="$group__common__validation.html#ga3afe594ef417bc40429be81e044d29bc" title="Test data structure db and output the start of test to the test log." alt="" coords="242,309,390,336"/>
+<area shape="rect" id="node15" href="$group__datatypes__table.html#ga7a45ee72b36421f4e73cfba4488f14be" title="Dump table getter functions to the console." alt="" coords="240,537,392,564"/>
+<area shape="rect" id="node16" href="$group__common__validation.html#ga19d0234700fba9de9fb0cba52a3d8e17" title="Test data structure db and output the start of test to the test log." alt="" coords="240,487,392,513"/>
+</map>

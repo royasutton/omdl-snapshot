@@ -1,0 +1,14 @@
+<map id="draft_make_3d_if_configured" name="draft_make_3d_if_configured">
+<area shape="rect" id="node1" title="Extrude 2D drafted constructions to 3D if configured." alt="" coords="540,208,749,235"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="381,5,471,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="8,63,135,89"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga4866c090b81b437e2f1f707d28ad8ec7" title="Construct a center mark dimension cross." alt="" coords="360,309,492,336"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="5,139,137,165"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="14,201,129,228"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="6,259,137,285"/>
+<area shape="rect" id="node8" href="$group__tools__drafting__operation.html#ga49aac81a903cd453ea9cadc85e84e414" title="Construct a drafting sheet ruler." alt="" coords="381,360,471,387"/>
+<area shape="rect" id="node9" href="$group__tools__drafting__operation.html#gaae4b7ed59444eb6f6c0ae47bd36e1e9b" title="Construct a text table that is populated by rows and columns." alt="" coords="380,157,472,184"/>
+<area shape="rect" id="node11" href="$group__tools__drafting__operation.html#gabd9d0d4e3819d3bdec5e3649c8ad2c79" title="Construct a text table that is populated by predefined zones." alt="" coords="377,411,475,437"/>
+<area shape="rect" id="node10" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="205,157,293,184"/>
+<area shape="rect" id="node12" href="$group__tools__drafting__operation.html#ga172b76b2027c863e672bc7a84dabea5e" title="Construct a sheet title block." alt="" coords="185,411,312,437"/>
+</map>

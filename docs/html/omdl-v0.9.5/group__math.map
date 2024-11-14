@@ -1,0 +1,9 @@
+<map id="Math" name="Math">
+<area shape="rect" id="node1" title="Mathematical functions and operations." alt="" coords="5,213,60,238"/>
+<area shape="rect" id="node2" href="$group__math__polyhedron.html" title="Polyhedron mathematical functions; 3&#45;polytope." alt="" coords="243,24,345,49"/>
+<area shape="rect" id="node3" href="$group__math__utility.html" title="Miscellaneous mathematical utilities." alt="" coords="257,88,331,113"/>
+<area shape="rect" id="node4" href="$group__math__linear__algebra.html" title="Euclidean linear algebra functions." alt="" coords="236,173,352,198"/>
+<area shape="rect" id="node5" href="$group__math__polytope.html" title="Polytope mathematical functions." alt="" coords="251,252,337,277"/>
+<area shape="rect" id="node6" href="$group__math__polygon.html" title="Polygon mathematical functions; 2&#45;polytope." alt="" coords="253,330,335,356"/>
+<area shape="rect" id="node7" href="$group__math__triangle.html" title="Triangle mathematical functions." alt="" coords="254,409,334,434"/>
+</map>

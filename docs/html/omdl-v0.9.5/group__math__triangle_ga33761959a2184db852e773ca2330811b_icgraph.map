@@ -1,0 +1,5 @@
+<map id="triangle_sas2sss" name="triangle_sas2sss">
+<area shape="rect" id="node1" title="Compute the side lengths of a triangle given two sides and the included angle." alt="" coords="392,5,523,32"/>
+<area shape="rect" id="node2" href="$group__shapes__polygon.html#ga24be160074502dce7ff8a78361d4b074" title="A polygon triangle specified by size&#45;angle&#45;size with vertex rounding." alt="" coords="220,5,344,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="5,5,172,32"/>
+</map>

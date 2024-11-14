@@ -1,0 +1,9 @@
+<map id="triangle_circumcenter" name="triangle_circumcenter">
+<area shape="rect" id="node1" title="Compute the coordinate of a triangle&#39;s circumcenter." alt="" coords="568,81,732,108"/>
+<area shape="rect" id="node2" href="$group__shapes__polygon.html#gac7e2c70b3428b729efd86a675df794e6" title="A polygon triangle specified by three coordinate points with vertex rounding." alt="" coords="393,81,520,108"/>
+<area shape="rect" id="node3" href="$group__shapes__polygon.html#gad85d14f73179499777da1e9297fbcae8" title="A polygon triangle specified by angle&#45;angle&#45;size with vertex rounding." alt="" coords="220,5,345,32"/>
+<area shape="rect" id="node4" href="$group__shapes__polygon.html#ga45e8a17aef3dd6755f833f25a8937cf7" title="A polygon triangle specified by angle&#45;size&#45;angle with vertex rounding." alt="" coords="220,56,345,83"/>
+<area shape="rect" id="node5" href="$group__shapes__polygon.html#ga24be160074502dce7ff8a78361d4b074" title="A polygon triangle specified by size&#45;angle&#45;size with vertex rounding." alt="" coords="221,107,345,133"/>
+<area shape="rect" id="node7" href="$group__shapes__polygon.html#gab9843df753e0537b490ac67cec6e31a9" title="A polygon triangle specified by three side lengths with vertex rounding." alt="" coords="221,157,344,184"/>
+<area shape="rect" id="node6" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="5,107,172,133"/>
+</map>

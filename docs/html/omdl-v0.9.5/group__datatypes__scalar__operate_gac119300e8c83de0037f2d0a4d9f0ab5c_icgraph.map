@@ -1,0 +1,19 @@
+<map id="defined_or" name="defined_or">
+<area shape="rect" id="node1" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="405,360,496,387"/>
+<area shape="rect" id="node2" href="$group__shapes__basic__3d.html#ga66f0c4a748f33cc1fff3343655b17f45" title="A cone." alt="" coords="247,5,301,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="11,63,137,89"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="8,120,140,147"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="17,183,131,209"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="9,233,139,260"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__operation.html#ga6273cb44e3132783d3714375c9fb1e4b" title="Move one or more child objects to sheet a reference zone." alt="" coords="226,309,322,336"/>
+<area shape="rect" id="node8" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="230,157,318,184"/>
+<area shape="rect" id="node9" href="$group__tools__drafting__primitive.html#gaf5c23ddb3b38a362eaece312029bcedd" title="Add text to table cell at a given a column and row." alt="" coords="211,360,337,387"/>
+<area shape="rect" id="node10" href="$group__tools__drafting__primitive.html#gaace78d1d977ad068ab277e50a591fde8" title="Add text to ztable at a given zone index." alt="" coords="208,411,340,437"/>
+<area shape="rect" id="node11" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="226,461,322,488"/>
+<area shape="rect" id="node12" href="$group__shapes__polygon.html#ga22a29774c22e5cc9f3101ed0a0ed307a" title="A polygon rectangle with side rounding." alt="" coords="211,512,337,539"/>
+<area shape="rect" id="node13" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="211,563,337,589"/>
+<area shape="rect" id="node14" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="206,613,342,640"/>
+<area shape="rect" id="node15" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="191,664,357,691"/>
+<area shape="rect" id="node16" href="$group__shapes__basic__2d.html#ga803b8196745be0e3a338def3c58e3b2b" title="A rectangle with a removed rectangular core." alt="" coords="225,715,323,741"/>
+<area shape="rect" id="node17" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="5,715,143,741"/>
+</map>

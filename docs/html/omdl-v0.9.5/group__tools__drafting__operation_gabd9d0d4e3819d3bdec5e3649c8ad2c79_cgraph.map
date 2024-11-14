@@ -1,0 +1,9 @@
+<map id="draft_ztable" name="draft_ztable">
+<area shape="rect" id="node1" title="Construct a text table that is populated by predefined zones." alt="" coords="5,107,104,133"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="204,5,309,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__primitive.html#ga9e80066573c9e9b2b1cf6af71cf453b0" title="Check if any identified layers are active." alt="" coords="168,56,345,83"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__primitive.html#ga9a4b6eb4b387537f7bc1cc6c4d8f4449" title="Extrude 2D drafted constructions to 3D if configured." alt="" coords="152,107,361,133"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__primitive.html#ga38f380c0ebc432c475fc6217a41496df" title="Get ztable zone coordinates given a zone index." alt="" coords="174,157,339,184"/>
+<area shape="rect" id="node7" href="$group__datatypes__map.html#ga18d78aec6f24969b9ad51595533f78b2" title="Get the map value associated with a key." alt="" coords="195,208,318,235"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__config.html#gabb4fa7092928ba8803b550ac6d733f64" title="Get drafting configuration default helper function." alt="" coords="409,107,536,133"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="map_get_value" name="map_get_value">
+<area shape="rect" id="node1" title="Get the map value associated with a key." alt="" coords="507,157,629,184"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html#gaae4b7ed59444eb6f6c0ae47bd36e1e9b" title="Construct a text table that is populated by rows and columns." alt="" coords="363,81,455,108"/>
+<area shape="rect" id="node8" href="$group__tools__drafting__operation.html#gabd9d0d4e3819d3bdec5e3649c8ad2c79" title="Construct a text table that is populated by predefined zones." alt="" coords="360,132,459,159"/>
+<area shape="rect" id="node10" href="$group__datatypes__map.html#ga680cb75c8d9f3769064128e9c3d5800e" title="Dump each map entry to the console." alt="" coords="362,183,457,209"/>
+<area shape="rect" id="node11" href="$group__datatypes__map.html#ga1ee3a7b76638ba11f1420da1dec59c8d" title="Write formatted map entries to the console." alt="" coords="364,233,455,260"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="205,81,293,108"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="8,5,135,32"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="14,107,129,133"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="6,157,137,184"/>
+<area shape="rect" id="node9" href="$group__tools__drafting__operation.html#ga172b76b2027c863e672bc7a84dabea5e" title="Construct a sheet title block." alt="" coords="185,132,312,159"/>
+</map>

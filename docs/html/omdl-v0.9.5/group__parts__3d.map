@@ -1,0 +1,7 @@
+<map id="3d Parts" name="3d Parts">
+<area shape="rect" id="node1" href="$group__parts__3d__enclosure.html" title="Project boxes, housings and enclosures." alt="" coords="231,5,317,31"/>
+<area shape="rect" id="node2" title="3d parts, part generators, and small assemblies." alt="" coords="108,55,183,80"/>
+<area shape="rect" id="node4" href="$group__parts__3d__bearing.html" title="Mechanical motion bearings." alt="" coords="238,55,310,80"/>
+<area shape="rect" id="node5" href="$group__parts__3d__computer.html" title="Mechanical computer parts." alt="" coords="231,104,317,129"/>
+<area shape="rect" id="node3" href="$group__parts.html" title="Design parts, generators, and small assemblies." alt="" coords="5,55,60,80"/>
+</map>

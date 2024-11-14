@@ -1,0 +1,6 @@
+<map id="extrude_linear_mss" name="extrude_linear_mss">
+<area shape="rect" id="node1" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="240,56,391,83"/>
+<area shape="rect" id="node2" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="51,56,147,83"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="15,107,182,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Enclosure" name="Enclosure">
+<area shape="rect" id="node1" title="Project boxes, housings and enclosures." alt="" coords="129,5,215,31"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__project__box__rectangle.html" title="Rectangular prism project box generator." alt="" coords="441,5,619,31"/>
+<area shape="rect" id="node2" href="$group__parts__3d.html" title="3d parts, part generators, and small assemblies." alt="" coords="5,5,80,31"/>
+</map>

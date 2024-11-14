@@ -1,0 +1,5 @@
+<map id="polygon_trapezoid_p" name="polygon_trapezoid_p">
+<area shape="rect" id="node1" title="Compute the coordinates for a rounded trapezoid in 2D space." alt="" coords="355,5,512,32"/>
+<area shape="rect" id="node2" href="$group__shapes__polygon.html#ga155ae943a1aa91432b1992fd1de364c2" title="A polygon trapezoid with individual vertex rounding and arc facets." alt="" coords="200,5,307,32"/>
+<area shape="rect" id="node3" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="5,5,152,32"/>
+</map>

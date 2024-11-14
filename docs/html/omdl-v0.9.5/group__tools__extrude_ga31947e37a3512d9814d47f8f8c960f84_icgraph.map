@@ -1,0 +1,9 @@
+<map id="extrude_rotate_tr" name="extrude_rotate_tr">
+<area shape="rect" id="node1" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="431,107,565,133"/>
+<area shape="rect" id="node2" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="242,69,381,96"/>
+<area shape="rect" id="node6" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="240,132,383,159"/>
+<area shape="rect" id="node3" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="35,5,162,32"/>
+<area shape="rect" id="node4" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="25,56,172,83"/>
+<area shape="rect" id="node5" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="30,107,167,133"/>
+<area shape="rect" id="node7" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,157,192,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Tools" name="Tools">
+<area shape="rect" id="node1" href="$group__tools__drafting.html" title="Drafting and drawing tools." alt="" coords="273,6,348,32"/>
+<area shape="rect" id="node2" href="$group__tools__extrude.html" title="Shape extrusion tools." alt="" coords="275,65,347,90"/>
+<area shape="rect" id="node3" href="$group__tools__polytope.html" title="Polygon and polyhedron tools." alt="" coords="271,136,350,161"/>
+<area shape="rect" id="node4" href="$group__tools__align.html" title="Shape alignment tools." alt="" coords="266,214,355,240"/>
+<area shape="rect" id="node5" href="$group__tools__repeat.html" title="Shape repetition tools." alt="" coords="277,293,345,318"/>
+<area shape="rect" id="node6" href="$group__tools__operation__cs.html" title="Conditional transformations and operations." alt="" coords="225,372,396,397"/>
+<area shape="rect" id="node7" title="Tools and design components." alt="" coords="5,197,60,222"/>
+</map>

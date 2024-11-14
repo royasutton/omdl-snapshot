@@ -1,0 +1,6 @@
+<map id="pg_ngon" name="pg_ngon">
+<area shape="rect" id="node1" title="A n&#45;sided regular polygon with vertex rounding." alt="" coords="5,56,83,83"/>
+<area shape="rect" id="node2" href="$group__math__polygon.html#ga6aea22d31f8f086c44c7241eee3ab4c2" title="Compute coordinates for an n&#45;sided regular polygon in 2D." alt="" coords="153,5,295,32"/>
+<area shape="rect" id="node3" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="131,56,317,83"/>
+<area shape="rect" id="node4" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="177,107,271,133"/>
+</map>

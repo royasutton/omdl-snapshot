@@ -1,0 +1,9 @@
+
+    docs_install_id = omdl-v0.9.5
+    docs_group_id = omdl
+    library_install_subdir = omdl-v0.9.5/
+    date = 241114
+    project_name = omdl
+    project_version = v0.9.5
+    project_brief = OpenSCAD Mechanical Design Library
+  

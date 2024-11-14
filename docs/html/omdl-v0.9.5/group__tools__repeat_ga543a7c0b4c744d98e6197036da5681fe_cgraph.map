@@ -1,0 +1,6 @@
+<map id="repeat_radial" name="repeat_radial">
+<area shape="rect" id="node1" title="Distribute copies of a 2d or 3d shape equally about a z&#45;axis radius." alt="" coords="5,56,113,83"/>
+<area shape="rect" id="node2" href="$group__units__angle.html#ga06a917b77748dfb74e765bcd7c4c0219" title="Convert an angle from some units to another." alt="" coords="203,5,262,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__euclidean.html#ga3d5c07c70f271bcf9144f50ce8620a89" title="Compute the angle between two lines or vectors in a 3d or 2d&#45;space." alt="" coords="196,56,269,83"/>
+<area shape="rect" id="node4" href="$group__math__polygon.html#ga6aea22d31f8f086c44c7241eee3ab4c2" title="Compute coordinates for an n&#45;sided regular polygon in 2D." alt="" coords="161,107,304,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Screws" name="Screws">
+<area shape="rect" id="node1" href="$group__database__component__fastener__ansi__b18__3__5m.html" title="[metric/screws] Flat head socket cap screws; ANSI B18.3.5M; ASME." alt="" coords="232,5,351,31"/>
+<area shape="rect" id="node2" href="$group__database__component__fastener__iso__7380.html" title="[metric/screws] Button head socket cap screws; ISO 7380; DIN EN ISO 7380&#45;1." alt="" coords="251,55,331,80"/>
+<area shape="rect" id="node3" href="$group__database__component__fastener__Metric.html" title=" " alt="" coords="5,104,68,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="116,104,184,129"/>
+<area shape="rect" id="node5" href="$group__database__component__fastener__iso__4762.html" title="[metric/screws] Socket cap screws; ISO 4762; DIN 912." alt="" coords="251,104,331,129"/>
+<area shape="rect" id="node6" href="$group__database__component__fastener__iso__7046__1p.html" title="[metric/screws] Phillips flat head machine screws; ISO 7046&#45;1p; DIN 965." alt="" coords="241,153,342,179"/>
+<area shape="rect" id="node7" href="$group__database__component__fastener__iso__7046__1s.html" title="[metric/screws] Slotted flat head machine screws; ISO 7046&#45;1s; DIN 965." alt="" coords="241,203,341,228"/>
+</map>

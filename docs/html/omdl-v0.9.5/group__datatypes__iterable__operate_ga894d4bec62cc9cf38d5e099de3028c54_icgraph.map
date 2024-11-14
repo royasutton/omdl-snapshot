@@ -1,0 +1,17 @@
+<map id="second" name="second">
+<area shape="rect" id="node1" title="Return the second element of an iterable value." alt="" coords="639,284,707,311"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="470,5,559,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="451,56,578,83"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="457,107,572,133"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="449,157,580,184"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="459,208,570,235"/>
+<area shape="rect" id="node7" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="442,309,587,336"/>
+<area shape="rect" id="node10" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="51,233,147,260"/>
+<area shape="rect" id="node11" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="15,335,182,361"/>
+<area shape="rect" id="node12" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="452,411,577,437"/>
+<area shape="rect" id="node13" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="447,461,583,488"/>
+<area shape="rect" id="node14" href="$group__datatypes__table.html#ga7a45ee72b36421f4e73cfba4488f14be" title="Dump table getter functions to the console." alt="" coords="439,512,591,539"/>
+<area shape="rect" id="node15" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="467,563,562,589"/>
+<area shape="rect" id="node8" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="240,284,391,311"/>
+<area shape="rect" id="node9" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,284,192,311"/>
+</map>

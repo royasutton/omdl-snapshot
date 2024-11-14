@@ -1,0 +1,7 @@
+<map id="tools/drafting/draft&#45;base.scad" name="tools/drafting/draft&#45;base.scad">
+<area shape="rect" id="node1" title="Drafting include wrapper." alt="" coords="181,5,324,47"/>
+<area shape="rect" id="node2" href="$config_8scad.html" title="Drafting defaults and configurations." alt="" coords="5,95,100,121"/>
+<area shape="rect" id="node3" href="$primitive_8scad.html" title="Drafting base functions and primitives." alt="" coords="125,95,239,121"/>
+<area shape="rect" id="node4" href="$operation_8scad.html" title="Drafting tools and general operations." alt="" coords="264,95,383,121"/>
+<area shape="rect" id="node5" href="$dimension_8scad.html" title="Drafting dimension operations." alt="" coords="407,95,531,121"/>
+</map>

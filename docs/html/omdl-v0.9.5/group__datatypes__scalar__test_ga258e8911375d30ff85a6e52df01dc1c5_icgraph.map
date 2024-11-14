@@ -1,0 +1,17 @@
+<map id="is_scalar" name="is_scalar">
+<area shape="rect" id="node1" title="Test if a value is a single non&#45;iterable value." alt="" coords="632,183,711,209"/>
+<area shape="rect" id="node2" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="240,56,391,83"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="15,107,182,133"/>
+<area shape="rect" id="node6" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="439,107,584,133"/>
+<area shape="rect" id="node7" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="442,284,581,311"/>
+<area shape="rect" id="node11" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="244,5,387,32"/>
+<area shape="rect" id="node12" href="$group__shapes__basic__2d.html#ga9f679c29426c44ee83b4a13b5dd47138" title="A rectangle with corner rounds or chamfers." alt="" coords="470,208,553,235"/>
+<area shape="rect" id="node14" href="$group__tools__repeat.html#gad3a61508128c356ec1348225ec9b3ce0" title="Distribute copies of 2d or 3d shapes about Cartesian grid." alt="" coords="463,335,559,361"/>
+<area shape="rect" id="node15" href="$group__shapes__basic__2d.html#ga89c8cb6f39cf9b045091f8b0434b25d0" title="A rhombus." alt="" coords="472,385,551,412"/>
+<area shape="rect" id="node3" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,31,192,57"/>
+<area shape="rect" id="node4" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="51,183,147,209"/>
+<area shape="rect" id="node8" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="252,411,379,437"/>
+<area shape="rect" id="node9" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="242,360,389,387"/>
+<area shape="rect" id="node10" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="30,284,167,311"/>
+<area shape="rect" id="node13" href="$group__shapes__basic__2d.html#ga803b8196745be0e3a338def3c58e3b2b" title="A rectangle with a removed rectangular core." alt="" coords="267,259,364,285"/>
+</map>

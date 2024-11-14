@@ -1,0 +1,6 @@
+<map id="repeat_radial" name="repeat_radial">
+<area shape="rect" id="node1" title="Distribute copies of a 2d or 3d shape equally about a z&#45;axis radius." alt="" coords="240,56,348,83"/>
+<area shape="rect" id="node2" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node3" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="67,56,130,83"/>
+<area shape="rect" id="node4" href="$group__shapes__basic__3d.html#gab99dacd3036b965579d68b1d3b7ee2d8" title="A three&#45;dimensional star." alt="" coords="67,107,130,133"/>
+</map>

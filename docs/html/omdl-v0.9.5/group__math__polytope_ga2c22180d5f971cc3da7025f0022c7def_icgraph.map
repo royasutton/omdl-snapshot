@@ -1,0 +1,4 @@
+<map id="polytope_edge_normal" name="polytope_edge_normal">
+<area shape="rect" id="node1" title="Get a normal vector for a polytope edge." alt="" coords="189,5,360,32"/>
+<area shape="rect" id="node2" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="5,5,141,32"/>
+</map>

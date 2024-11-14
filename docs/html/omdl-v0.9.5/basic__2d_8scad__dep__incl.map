@@ -1,0 +1,4 @@
+<map id="shapes/basic_2d.scad" name="shapes/basic_2d.scad">
+<area shape="rect" id="node1" title="Basic 2D shapes." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$omdl-base_8scad.html" title="Include wrapper of base library components." alt="" coords="24,80,149,107"/>
+</map>

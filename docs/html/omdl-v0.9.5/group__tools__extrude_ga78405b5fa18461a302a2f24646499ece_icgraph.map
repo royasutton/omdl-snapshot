@@ -1,0 +1,6 @@
+<map id="extrude_rotate_trl" name="extrude_rotate_trl">
+<area shape="rect" id="node1" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="200,56,339,83"/>
+<area shape="rect" id="node2" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="15,5,142,32"/>
+<area shape="rect" id="node3" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node4" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="10,107,147,133"/>
+</map>

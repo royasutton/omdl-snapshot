@@ -1,0 +1,15 @@
+<map id="angle" name="angle">
+<area shape="rect" id="node1" title="Convert an angle from some units to another." alt="" coords="613,183,672,209"/>
+<area shape="rect" id="node2" href="$group__shapes__basic__3d.html#ga66f0c4a748f33cc1fff3343655b17f45" title="A cone." alt="" coords="471,5,525,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="435,56,561,83"/>
+<area shape="rect" id="node4" href="$group__tools__extrude.html#ga31947e37a3512d9814d47f8f8c960f84" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="431,107,565,133"/>
+<area shape="rect" id="node9" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="240,157,383,184"/>
+<area shape="rect" id="node10" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,208,192,235"/>
+<area shape="rect" id="node11" href="$group__tools__repeat.html#ga543a7c0b4c744d98e6197036da5681fe" title="Distribute copies of a 2d or 3d shape equally about a z&#45;axis radius." alt="" coords="444,309,552,336"/>
+<area shape="rect" id="node12" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="280,259,343,285"/>
+<area shape="rect" id="node13" href="$group__shapes__basic__3d.html#gab99dacd3036b965579d68b1d3b7ee2d8" title="A three&#45;dimensional star." alt="" coords="280,360,343,387"/>
+<area shape="rect" id="node5" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="242,107,381,133"/>
+<area shape="rect" id="node6" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="35,107,162,133"/>
+<area shape="rect" id="node7" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="25,157,172,184"/>
+<area shape="rect" id="node8" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="30,56,167,83"/>
+</map>

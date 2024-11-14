@@ -1,0 +1,10 @@
+<map id="triangle2d_sss2ppp" name="triangle2d_sss2ppp">
+<area shape="rect" id="node1" title="Compute a set of vertex coordinates for a triangle given its side lengths in 2D." alt="" coords="393,132,541,159"/>
+<area shape="rect" id="node2" href="$group__shapes__basic__3d.html#ga66f0c4a748f33cc1fff3343655b17f45" title="A cone." alt="" coords="256,5,309,32"/>
+<area shape="rect" id="node3" href="$group__shapes__polygon.html#gad85d14f73179499777da1e9297fbcae8" title="A polygon triangle specified by angle&#45;angle&#45;size with vertex rounding." alt="" coords="220,56,345,83"/>
+<area shape="rect" id="node4" href="$group__shapes__polygon.html#ga45e8a17aef3dd6755f833f25a8937cf7" title="A polygon triangle specified by angle&#45;size&#45;angle with vertex rounding." alt="" coords="220,107,345,133"/>
+<area shape="rect" id="node5" href="$group__shapes__polygon.html#ga24be160074502dce7ff8a78361d4b074" title="A polygon triangle specified by size&#45;angle&#45;size with vertex rounding." alt="" coords="221,157,345,184"/>
+<area shape="rect" id="node7" href="$group__shapes__polygon.html#gab9843df753e0537b490ac67cec6e31a9" title="A polygon triangle specified by three side lengths with vertex rounding." alt="" coords="221,208,344,235"/>
+<area shape="rect" id="node8" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="251,259,314,285"/>
+<area shape="rect" id="node6" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="5,157,172,184"/>
+</map>

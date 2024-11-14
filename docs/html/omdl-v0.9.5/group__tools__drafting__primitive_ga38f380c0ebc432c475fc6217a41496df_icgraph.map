@@ -1,0 +1,6 @@
+<map id="draft_ztable_get_zone" name="draft_ztable_get_zone">
+<area shape="rect" id="node1" title="Get ztable zone coordinates given a zone index." alt="" coords="360,31,525,57"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html#gabd9d0d4e3819d3bdec5e3649c8ad2c79" title="Construct a text table that is populated by predefined zones." alt="" coords="197,5,295,32"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__primitive.html#gaace78d1d977ad068ab277e50a591fde8" title="Add text to ztable at a given zone index." alt="" coords="180,56,312,83"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__operation.html#ga172b76b2027c863e672bc7a84dabea5e" title="Construct a sheet title block." alt="" coords="5,5,132,32"/>
+</map>

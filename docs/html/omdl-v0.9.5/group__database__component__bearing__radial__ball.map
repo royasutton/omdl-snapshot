@@ -1,0 +1,5 @@
+<map id="ball" name="ball">
+<area shape="rect" id="node1" href="$group__database__component__bearing.html" title="Mechanical bearing specifications." alt="" coords="315,7,387,33"/>
+<area shape="rect" id="node2" title="[radial] Radial ball bearing; ball; rbb." alt="" coords="117,7,164,33"/>
+<area shape="rect" id="node3" href="$group__database__component__bearing__Radial.html" title=" " alt="" coords="5,7,68,33"/>
+</map>

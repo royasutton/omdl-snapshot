@@ -1,0 +1,4 @@
+<map id="extrude_rotate_tr" name="extrude_rotate_tr">
+<area shape="rect" id="node1" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$group__units__angle.html#ga06a917b77748dfb74e765bcd7c4c0219" title="Convert an angle from some units to another." alt="" coords="188,5,247,32"/>
+</map>

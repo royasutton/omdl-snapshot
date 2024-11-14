@@ -1,0 +1,9 @@
+<map id="log_type" name="log_type">
+<area shape="rect" id="node1" title="Output diagnostic message to console." alt="" coords="356,107,435,133"/>
+<area shape="rect" id="node2" href="$group__common__validation.html#ga780cead3c65c9c5eb9fa4a588291d583" title="Output text t to the test log." alt="" coords="205,107,308,133"/>
+<area shape="rect" id="node3" href="$group__common__validation.html#gab5d4efd9133d3aa8f9d1091b0c33a5c5" title="Validate and log a test function return value against its expected value." alt="" coords="26,5,137,32"/>
+<area shape="rect" id="node4" href="$group__common__validation.html#ga3afe594ef417bc40429be81e044d29bc" title="Test data structure db and output the start of test to the test log." alt="" coords="7,56,155,83"/>
+<area shape="rect" id="node5" href="$group__common__validation.html#gab512c6c508c6b3f1dd4495709017b8e1" title="Validate and log a test function return value against its expected value." alt="" coords="24,107,139,133"/>
+<area shape="rect" id="node6" href="$group__common__validation.html#ga19d0234700fba9de9fb0cba52a3d8e17" title="Test data structure db and output the start of test to the test log." alt="" coords="5,157,157,184"/>
+<area shape="rect" id="node7" href="$group__common__validation.html#ga2733f6ad8e8d2307c92bdd779744bbf8" title="Output that function named fn has been skipped to the test log." alt="" coords="27,208,136,235"/>
+</map>

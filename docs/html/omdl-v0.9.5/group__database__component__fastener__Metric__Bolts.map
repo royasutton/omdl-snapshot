@@ -1,0 +1,8 @@
+<map id="Bolts" name="Bolts">
+<area shape="rect" id="node1" title=" " alt="" coords="116,80,171,105"/>
+<area shape="rect" id="node2" href="$group__database__component__fastener__iso__4014a.html" title="[metric/bolts] Hexagon head bolt a; ISO 4014a; DIN 931." alt="" coords="219,5,307,31"/>
+<area shape="rect" id="node3" href="$group__database__component__fastener__iso__4014b.html" title="[metric/bolts] Hexagon head bolt b; ISO 4014b; DIN 931." alt="" coords="219,55,307,80"/>
+<area shape="rect" id="node5" href="$group__database__component__fastener__iso__8677.html" title="[metric/bolts] Carriage bolts; ISO 8677; DIN 603." alt="" coords="223,104,303,129"/>
+<area shape="rect" id="node6" href="$group__database__component__fastener__iso__8678.html" title="[metric/bolts] Carriage bolts, short neck; ISO 8678; DIN 603." alt="" coords="223,153,303,179"/>
+<area shape="rect" id="node4" href="$group__database__component__fastener__Metric.html" title=" " alt="" coords="5,80,68,105"/>
+</map>

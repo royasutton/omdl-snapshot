@@ -1,0 +1,9 @@
+<map id="draft_table" name="draft_table">
+<area shape="rect" id="node1" title="Construct a text table that is populated by rows and columns." alt="" coords="5,114,97,141"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__config.html#gabb4fa7092928ba8803b550ac6d733f64" title="Get drafting configuration default helper function." alt="" coords="403,38,529,65"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__primitive.html#ga9e80066573c9e9b2b1cf6af71cf453b0" title="Check if any identified layers are active." alt="" coords="161,38,339,65"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__primitive.html#ga9a4b6eb4b387537f7bc1cc6c4d8f4449" title="Extrude 2D drafted constructions to 3D if configured." alt="" coords="145,89,355,116"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__primitive.html#ga86b6eb63073241bfdfb18ba221fd3ec2" title="Get table cell coordinates given a column and row." alt="" coords="175,140,325,166"/>
+<area shape="rect" id="node6" href="$group__datatypes__map.html#ga87e9b731478958b17b012e11d8ce818f" title="Get the the first value associated with an existing key in one of two maps." alt="" coords="174,190,326,217"/>
+<area shape="rect" id="node7" href="$group__datatypes__map.html#ga18d78aec6f24969b9ad51595533f78b2" title="Get the map value associated with a key." alt="" coords="189,241,311,268"/>
+</map>

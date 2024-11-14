@@ -1,0 +1,5 @@
+<map id="polytope_vertex_normal" name="polytope_vertex_normal">
+<area shape="rect" id="node1" title="Get a normal vector for a polytope vertex." alt="" coords="189,31,371,57"/>
+<area shape="rect" id="node2" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="11,5,136,32"/>
+<area shape="rect" id="node3" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="5,56,141,83"/>
+</map>

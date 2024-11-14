@@ -1,0 +1,27 @@
+<map id="Fastener" name="Fastener">
+<area shape="rect" id="node1" href="$group__database__component__fastener__din__982__hp.html" title="[metric/nuts] Hexagon nylon insert stop nuts, heavy pattern; DIN 982 hp; ISO 7040." alt="" coords="425,17,520,42"/>
+<area shape="rect" id="node2" href="$group__database__component__fastener__iso__4014a.html" title="[metric/bolts] Hexagon head bolt a; ISO 4014a; DIN 931." alt="" coords="429,66,517,91"/>
+<area shape="rect" id="node3" href="$group__database__component__fastener__iso__4014b.html" title="[metric/bolts] Hexagon head bolt b; ISO 4014b; DIN 931." alt="" coords="429,115,517,141"/>
+<area shape="rect" id="node4" href="$group__database__component__fastener__ansi__b18__3__5m.html" title="[metric/screws] Flat head socket cap screws; ANSI B18.3.5M; ASME." alt="" coords="413,165,532,190"/>
+<area shape="rect" id="node5" href="$group__database__component__fastener__iso__7089.html" title="[metric/washers] Standard flat washer; ISO 7089; DIN 125 A." alt="" coords="433,214,513,239"/>
+<area shape="rect" id="node6" href="$group__database__component__fastener__din__982__rp.html" title="[metric/nuts] Hexagon nylon insert stop nuts, regular pattern; DIN 982 rp; ISO 7040." alt="" coords="427,263,518,289"/>
+<area shape="rect" id="node7" href="$group__database__component__fastener__iso__4161.html" title="[metric/nuts] Hexagon flange nut, style 1; ISO 4161." alt="" coords="433,313,513,338"/>
+<area shape="rect" id="node8" href="$group__database__component__fastener__din__985.html" title="[metric/nuts] Hexagon nylon insert stop nuts, regular pattern; DIN 985; ISO 10511." alt="" coords="435,362,510,387"/>
+<area shape="rect" id="node9" href="$group__database__component__fastener__iso__7091.html" title="[metric/washers] Standard flat washer, wider inner diameter; ISO 7091; DIN 126." alt="" coords="433,411,513,437"/>
+<area shape="rect" id="node10" href="$group__database__component__fastener__iso__7092.html" title="[metric/washers] Standard flat washer, small outer diameter; ISO 7092; DIN 433." alt="" coords="433,461,513,486"/>
+<area shape="rect" id="node11" href="$group__database__component__fastener__iso__7093.html" title="[metric/washers] Standard flat washer, wider outer diameter; ISO 7093; DIN 9021." alt="" coords="433,510,513,535"/>
+<area shape="rect" id="node12" href="$group__database__component__fastener__iso__4032.html" title="[metric/nuts] Hexagon nuts style 1; ISO 4032; DIN EN ISO." alt="" coords="433,559,513,585"/>
+<area shape="rect" id="node13" href="$group__database__component__fastener__iso__4033.html" title="[metric/nuts] Hexagon nuts style 2; ISO 4033; DIN EN ISO." alt="" coords="433,609,513,634"/>
+<area shape="rect" id="node14" href="$group__database__component__fastener__iso__4035.html" title="[metric/nuts] Hexagon jam nut; ISO 4035; DIN 439 B, CSN 021403, UNI 5589, EU 24035." alt="" coords="433,658,513,683"/>
+<area shape="rect" id="node15" href="$group__database__component__fastener__Imperial.html" title=" " alt="" coords="435,707,511,733"/>
+<area shape="rect" id="node16" href="$group__database__component__fastener__iso__7380.html" title="[metric/screws] Button head socket cap screws; ISO 7380; DIN EN ISO 7380&#45;1." alt="" coords="433,757,513,782"/>
+<area shape="rect" id="node17" href="$group__database__component__fastener__Metric.html" title=" " alt="" coords="441,806,504,831"/>
+<area shape="rect" id="node18" href="$group__database__component__fastener__din__125a.html" title="[metric/washers] Flat washers; DIN 125A; ISO 7089." alt="" coords="431,855,514,881"/>
+<area shape="rect" id="node19" href="$group__database__component.html" title="Design component specifications." alt="" coords="5,559,103,585"/>
+<area shape="rect" id="node22" title="Mechanical fastener specifications." alt="" coords="152,559,229,585"/>
+<area shape="rect" id="node20" href="$group__database__component__fastener__iso__8677.html" title="[metric/bolts] Carriage bolts; ISO 8677; DIN 603." alt="" coords="433,905,513,930"/>
+<area shape="rect" id="node21" href="$group__database__component__fastener__iso__8678.html" title="[metric/bolts] Carriage bolts, short neck; ISO 8678; DIN 603." alt="" coords="433,954,513,979"/>
+<area shape="rect" id="node23" href="$group__database__component__fastener__iso__4762.html" title="[metric/screws] Socket cap screws; ISO 4762; DIN 912." alt="" coords="433,1003,513,1029"/>
+<area shape="rect" id="node24" href="$group__database__component__fastener__iso__7046__1p.html" title="[metric/screws] Phillips flat head machine screws; ISO 7046&#45;1p; DIN 965." alt="" coords="422,1053,523,1078"/>
+<area shape="rect" id="node25" href="$group__database__component__fastener__iso__7046__1s.html" title="[metric/screws] Slotted flat head machine screws; ISO 7046&#45;1s; DIN 965." alt="" coords="423,1102,523,1127"/>
+</map>
