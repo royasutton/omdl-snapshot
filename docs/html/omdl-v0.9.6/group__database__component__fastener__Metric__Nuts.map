@@ -1,0 +1,11 @@
+<map id="Nuts" name="Nuts">
+<area shape="rect" id="node1" href="$group__database__component__fastener__din__982__hp.html" title="[metric/nuts] Hexagon nylon insert stop nuts, heavy pattern; DIN 982 hp; ISO 7040." alt="" coords="216,5,311,31"/>
+<area shape="rect" id="node2" href="$group__database__component__fastener__din__982__rp.html" title="[metric/nuts] Hexagon nylon insert stop nuts, regular pattern; DIN 982 rp; ISO 7040." alt="" coords="218,55,309,80"/>
+<area shape="rect" id="node3" href="$group__database__component__fastener__iso__4161.html" title="[metric/nuts] Hexagon flange nut, style 1; ISO 4161." alt="" coords="223,104,303,129"/>
+<area shape="rect" id="node4" href="$group__database__component__fastener__din__985.html" title="[metric/nuts] Hexagon nylon insert stop nuts, regular pattern; DIN 985; ISO 10511." alt="" coords="226,153,301,179"/>
+<area shape="rect" id="node5" title=" " alt="" coords="116,153,168,179"/>
+<area shape="rect" id="node6" href="$group__database__component__fastener__iso__4032.html" title="[metric/nuts] Hexagon nuts style 1; ISO 4032; DIN EN ISO." alt="" coords="223,203,303,228"/>
+<area shape="rect" id="node7" href="$group__database__component__fastener__iso__4033.html" title="[metric/nuts] Hexagon nuts style 2; ISO 4033; DIN EN ISO." alt="" coords="223,252,303,277"/>
+<area shape="rect" id="node8" href="$group__database__component__fastener__iso__4035.html" title="[metric/nuts] Hexagon jam nut; ISO 4035; DIN 439 B, CSN 021403, UNI 5589, EU 24035." alt="" coords="223,301,303,327"/>
+<area shape="rect" id="node9" href="$group__database__component__fastener__Metric.html" title=" " alt="" coords="5,153,68,179"/>
+</map>

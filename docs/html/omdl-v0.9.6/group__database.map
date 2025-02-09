@@ -1,0 +1,5 @@
+<map id="Database" name="Database">
+<area shape="rect" id="node1" title="Design data and specifications." alt="" coords="5,31,89,56"/>
+<area shape="rect" id="node2" href="$group__database__component.html" title="Design component specifications." alt="" coords="137,5,235,31"/>
+<area shape="rect" id="node3" href="$group__database__geometry.html" title="Geometric shape specifications." alt="" coords="143,55,229,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pg_corner_round" name="pg_corner_round">
+<area shape="rect" id="node1" title="A polygon edge round with constant radius between two vectors." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$group__math__polygon.html#gac2b098c0b90c6e760bfef9ac718e4499" title="Compute coordinates for a constant radius vertex round between two edge vectors in 2D." alt="" coords="184,5,348,32"/>
+</map>

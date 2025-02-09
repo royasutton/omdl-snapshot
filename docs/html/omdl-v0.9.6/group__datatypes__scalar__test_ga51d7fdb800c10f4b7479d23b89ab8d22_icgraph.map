@@ -1,0 +1,36 @@
+<map id="is_defined" name="is_defined">
+<area shape="rect" id="node1" title="Test if a value is defined." alt="" coords="772,689,860,716"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__catch__latch.html#gaa90b197081dba0e1fbe7c92aa4079279" title="A catch latch generator." alt="" coords="608,5,704,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="405,208,489,235"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="185,259,305,285"/>
+<area shape="rect" id="node5" href="$group__shapes__basic__3d.html#ga8a71b8cd52ae5ef7a2510ff579734108" title="A cone." alt="" coords="629,259,683,285"/>
+<area shape="rect" id="node6" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="401,309,492,336"/>
+<area shape="rect" id="node7" href="$group__tools__operation__cs.html#ga3900ae7c9ca268f0224a65f56387059f" title="Conditionally apply the difference boolean operation." alt="" coords="602,461,710,488"/>
+<area shape="rect" id="node8" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="353,512,540,539"/>
+<area shape="rect" id="node9" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="363,411,530,437"/>
+<area shape="rect" id="node10" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="27,563,116,589"/>
+<area shape="rect" id="node11" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="8,613,135,640"/>
+<area shape="rect" id="node12" href="$group__tools__drafting__dimension.html#ga4866c090b81b437e2f1f707d28ad8ec7" title="Construct a center mark dimension cross." alt="" coords="5,929,137,956"/>
+<area shape="rect" id="node13" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="5,765,137,792"/>
+<area shape="rect" id="node14" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="14,816,129,843"/>
+<area shape="rect" id="node15" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="6,867,137,893"/>
+<area shape="rect" id="node16" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="201,816,289,843"/>
+<area shape="rect" id="node17" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="16,1005,127,1032"/>
+<area shape="rect" id="node18" href="$group__shapes__basic__2d.html#ga9f2b6ba2562760853dd998b0086736a3" title="An ellipse with a removed elliptical core." alt="" coords="617,1069,695,1096"/>
+<area shape="rect" id="node19" href="$group__shapes__basic__2d.html#ga3e186b32450bffe183da7422f0b19f95" title="A sector of an ellipse with a removed elliptical core." alt="" coords="613,1120,699,1147"/>
+<area shape="rect" id="node21" href="$group__tools__operation__cs.html#gafa05aca176d441020de53da835e3dd60" title="Conditionally apply the convex hull transformation." alt="" coords="623,715,689,741"/>
+<area shape="rect" id="node27" href="$group__tools__operation__cs.html#gaa90356c8ee306403464fe2b03ad7849c" title="Conditionally apply the difference intersection operation." alt="" coords="596,1171,716,1197"/>
+<area shape="rect" id="node28" href="$group__tools__operation__cs.html#ga6cbb2e4048fbe2f9e4e44431ae045520" title="Conditionally apply the minkowski sum transformation." alt="" coords="599,1221,713,1248"/>
+<area shape="rect" id="node29" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="593,1272,719,1299"/>
+<area shape="rect" id="node30" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="588,1323,724,1349"/>
+<area shape="rect" id="node31" href="$group__shapes__basic__2d.html#ga803b8196745be0e3a338def3c58e3b2b" title="A rectangle with a removed rectangular core." alt="" coords="607,157,705,184"/>
+<area shape="rect" id="node33" href="$group__parts__3d__enclosure__mounts.html#gacac878eda32a71cb3b1b174c9aebb56c" title="A mount tab with screw hole and support brace." alt="" coords="378,360,515,387"/>
+<area shape="rect" id="node34" href="$group__tools__operation__cs.html#ga69935df4a2195011bf7f4a7499de1128" title="Conditionally apply the union boolean operation." alt="" coords="617,563,695,589"/>
+<area shape="rect" id="node20" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="383,1120,510,1147"/>
+<area shape="rect" id="node22" href="$group__tools__drafting__primitive.html#ga6f12ccd4c9de0a8ab887184911f39c8f" title="Draft an arrowhead at the terminal point of a line." alt="" coords="399,715,495,741"/>
+<area shape="rect" id="node23" href="$group__tools__drafting__primitive.html#gaeb2a388d77f8e435b02c4235e7791eda" title="Draft an arc with configurable style and optional arrowheads." alt="" coords="206,664,285,691"/>
+<area shape="rect" id="node24" href="$group__tools__drafting__primitive.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="204,715,287,741"/>
+<area shape="rect" id="node25" href="$group__tools__drafting__primitive.html#ga20eb57e9d25186784df7428089e3a2ae" title="Draft a rectangle with configurable style." alt="" coords="11,715,131,741"/>
+<area shape="rect" id="node26" href="$group__tools__drafting__operation.html#ga49aac81a903cd453ea9cadc85e84e414" title="Construct a drafting sheet ruler." alt="" coords="27,664,116,691"/>
+<area shape="rect" id="node32" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="378,107,515,133"/>
+</map>

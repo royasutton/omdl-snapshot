@@ -1,0 +1,10 @@
+<map id="extrude_linear_mss" name="extrude_linear_mss">
+<area shape="rect" id="node1" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="408,132,559,159"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__catch__latch.html#gaa90b197081dba0e1fbe7c92aa4079279" title="A catch latch generator." alt="" coords="219,5,315,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="225,56,309,83"/>
+<area shape="rect" id="node5" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="173,107,360,133"/>
+<area shape="rect" id="node6" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="221,157,312,184"/>
+<area shape="rect" id="node7" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="219,208,315,235"/>
+<area shape="rect" id="node8" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="183,259,350,285"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,157,125,184"/>
+</map>

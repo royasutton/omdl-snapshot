@@ -1,0 +1,14 @@
+<map id="torus_pg_trapezoid" name="torus_pg_trapezoid">
+<area shape="rect" id="node1" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="5,183,152,209"/>
+<area shape="rect" id="node2" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="200,107,339,133"/>
+<area shape="rect" id="node8" href="$group__shapes__polygon.html#ga155ae943a1aa91432b1992fd1de364c2" title="A polygon trapezoid with individual vertex rounding and arc facets." alt="" coords="216,259,323,285"/>
+<area shape="rect" id="node3" href="$group__datatypes__binary.html#ga7ce4ed94d9b389ff817ea219918b8732" title="Test if a binary bit position of an integer value equals a test bit." alt="" coords="427,5,533,32"/>
+<area shape="rect" id="node4" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="427,56,533,83"/>
+<area shape="rect" id="node5" href="$group__tools__extrude.html#ga31947e37a3512d9814d47f8f8c960f84" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="413,107,547,133"/>
+<area shape="rect" id="node7" href="$group__datatypes__scalar__test.html#ga258e8911375d30ff85a6e52df01dc1c5" title="Test if a value is a single non&#45;iterable value." alt="" coords="441,157,519,184"/>
+<area shape="rect" id="node6" href="$group__units__angle.html#ga06a917b77748dfb74e765bcd7c4c0219" title="Convert an angle from some units to another." alt="" coords="621,107,680,133"/>
+<area shape="rect" id="node9" href="$group__math__polygon.html#gadd2e4f80e8c8f0aafa04f9a70a7c617e" title="Compute the center of mass of a polygon in a Euclidean 2d&#45;space." alt="" coords="413,208,547,235"/>
+<area shape="rect" id="node10" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="387,259,573,285"/>
+<area shape="rect" id="node11" href="$group__math__polygon.html#ga45b00b87d541c116f7d4a403f5fcd2f5" title="Compute the coordinates for a rounded trapezoid in 2D space." alt="" coords="401,309,559,336"/>
+<area shape="rect" id="node12" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="433,360,527,387"/>
+</map>

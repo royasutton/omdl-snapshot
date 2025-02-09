@@ -1,0 +1,22 @@
+<map id="is_scalar" name="is_scalar">
+<area shape="rect" id="node1" title="Test if a value is a single non&#45;iterable value." alt="" coords="817,436,896,463"/>
+<area shape="rect" id="node2" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="425,461,576,488"/>
+<area shape="rect" id="node9" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="201,563,367,589"/>
+<area shape="rect" id="node10" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="624,563,769,589"/>
+<area shape="rect" id="node12" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="431,132,570,159"/>
+<area shape="rect" id="node16" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="625,411,768,437"/>
+<area shape="rect" id="node17" href="$group__shapes__basic__2d.html#ga9f679c29426c44ee83b4a13b5dd47138" title="A rectangle with corner rounds or chamfers." alt="" coords="459,360,542,387"/>
+<area shape="rect" id="node19" href="$group__tools__repeat.html#gad3a61508128c356ec1348225ec9b3ce0" title="Repeat copies of child objects about a Cartesian grid." alt="" coords="649,613,745,640"/>
+<area shape="rect" id="node20" href="$group__shapes__basic__2d.html#ga89c8cb6f39cf9b045091f8b0434b25d0" title="A rhombus." alt="" coords="657,297,736,324"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__catch__latch.html#gaa90b197081dba0e1fbe7c92aa4079279" title="A catch latch generator." alt="" coords="236,512,332,539"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="242,259,326,285"/>
+<area shape="rect" id="node6" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="191,411,377,437"/>
+<area shape="rect" id="node7" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="239,461,329,488"/>
+<area shape="rect" id="node8" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="236,360,332,387"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="14,385,134,412"/>
+<area shape="rect" id="node11" href="$group__parts__3d__enclosure__mounts.html#gacac878eda32a71cb3b1b174c9aebb56c" title="A mount tab with screw hole and support brace." alt="" coords="432,613,569,640"/>
+<area shape="rect" id="node13" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="221,107,347,133"/>
+<area shape="rect" id="node14" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="211,5,357,32"/>
+<area shape="rect" id="node15" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="5,132,143,159"/>
+<area shape="rect" id="node18" href="$group__shapes__basic__2d.html#ga803b8196745be0e3a338def3c58e3b2b" title="A rectangle with a removed rectangular core." alt="" coords="235,208,333,235"/>
+</map>

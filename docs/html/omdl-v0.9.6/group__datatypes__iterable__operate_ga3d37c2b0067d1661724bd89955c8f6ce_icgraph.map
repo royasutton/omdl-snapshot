@@ -1,0 +1,52 @@
+<map id="defined_e_or" name="defined_e_or">
+<area shape="rect" id="node1" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="807,1020,912,1046"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__catch__latch.html#gaa90b197081dba0e1fbe7c92aa4079279" title="A catch latch generator." alt="" coords="225,1450,321,1477"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="231,1400,315,1426"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="9,1349,129,1376"/>
+<area shape="rect" id="node5" href="$group__shapes__basic__3d.html#ga8a71b8cd52ae5ef7a2510ff579734108" title="A cone." alt="" coords="463,1248,517,1274"/>
+<area shape="rect" id="node7" href="$group__shapes__basic__3d.html#gaf1d71183e9f3fb9a5e48b8c9a67085d6" title="A cuboid with edge, round, or chamfer corners." alt="" coords="653,234,719,261"/>
+<area shape="rect" id="node8" href="$group__tools__drafting__primitive.html#gaeb2a388d77f8e435b02c4235e7791eda" title="Draft an arc with configurable style and optional arrowheads." alt="" coords="451,234,529,261"/>
+<area shape="rect" id="node9" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="210,234,337,261"/>
+<area shape="rect" id="node10" href="$group__tools__drafting__primitive.html#ga6f12ccd4c9de0a8ab887184911f39c8f" title="Draft an arrowhead at the terminal point of a line." alt="" coords="638,437,734,464"/>
+<area shape="rect" id="node11" href="$group__tools__drafting__primitive.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="449,437,531,464"/>
+<area shape="rect" id="node12" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="229,285,318,312"/>
+<area shape="rect" id="node13" href="$group__tools__drafting__dimension.html#ga4866c090b81b437e2f1f707d28ad8ec7" title="Construct a center mark dimension cross." alt="" coords="207,336,339,362"/>
+<area shape="rect" id="node15" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="216,437,331,464"/>
+<area shape="rect" id="node16" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="208,488,339,514"/>
+<area shape="rect" id="node18" href="$group__tools__drafting__primitive.html#ga20eb57e9d25186784df7428089e3a2ae" title="Draft a rectangle with configurable style." alt="" coords="213,601,333,628"/>
+<area shape="rect" id="node19" href="$group__tools__drafting__operation.html#ga49aac81a903cd453ea9cadc85e84e414" title="Construct a drafting sheet ruler." alt="" coords="229,677,318,704"/>
+<area shape="rect" id="node20" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="446,386,534,413"/>
+<area shape="rect" id="node21" href="$group__tools__drafting__operation.html#gabd9d0d4e3819d3bdec5e3649c8ad2c79" title="Construct a text table that is populated by predefined zones." alt="" coords="637,792,735,818"/>
+<area shape="rect" id="node23" href="$group__shapes__basic__2d.html#ga7d62c56f88b839dc7e879ff16f968ea2" title="An ellipse." alt="" coords="653,133,719,160"/>
+<area shape="rect" id="node27" href="$group__shapes__basic__2d.html#ga8925cd75276266667fbc1f0896482a7a" title="An ellipse sector." alt="" coords="451,82,529,109"/>
+<area shape="rect" id="node28" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="225,842,321,869"/>
+<area shape="rect" id="node29" href="$group__shapes__basic__3d.html#gae55c3490ba068ba5713b3de4302315de" title="An ellipsoid." alt="" coords="647,842,725,869"/>
+<area shape="rect" id="node30" href="$group__shapes__basic__3d.html#ga842bd62179b57e3d01ea32b64614f543" title="A sector of an ellipsoid." alt="" coords="445,893,535,920"/>
+<area shape="rect" id="node31" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="613,1704,759,1730"/>
+<area shape="rect" id="node33" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="180,1045,367,1072"/>
+<area shape="rect" id="node34" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="190,1501,357,1528"/>
+<area shape="rect" id="node35" href="$group__parts__3d__enclosure__mounts.html#gacac878eda32a71cb3b1b174c9aebb56c" title="A mount tab with screw hole and support brace." alt="" coords="205,1704,342,1730"/>
+<area shape="rect" id="node36" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="421,1197,559,1224"/>
+<area shape="rect" id="node38" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="615,1096,757,1122"/>
+<area shape="rect" id="node39" href="$group__shapes__polygon.html#ga9c1bd914355d92f9d66ba0e5c2d9dbac" title="A polygon rectangle with vertex rounding." alt="" coords="437,1501,543,1528"/>
+<area shape="rect" id="node40" href="$group__shapes__polygon.html#ga22a29774c22e5cc9f3101ed0a0ed307a" title="A polygon rectangle with side rounding." alt="" coords="623,1501,749,1528"/>
+<area shape="rect" id="node41" href="$group__shapes__polygon.html#ga2ca38d6942a8955d3b483d1a60bf7ec3" title="A polygon rhombus with vertex rounding." alt="" coords="635,1552,737,1578"/>
+<area shape="rect" id="node42" href="$group__shapes__polyhedron__db.html#gaae64c8fb78026896742050d14a5e8911" title="Construct a named polyhedron." alt="" coords="615,1602,757,1629"/>
+<area shape="rect" id="node43" href="$group__shapes__basic__3d.html#gaaf63049f5c83cbb3b1f349b0a7a350e9" title="A pyramid with quadrilateral base." alt="" coords="641,1754,731,1781"/>
+<area shape="rect" id="node44" href="$group__shapes__basic__3d.html#gab99dacd3036b965579d68b1d3b7ee2d8" title="A three&#45;dimensional star." alt="" coords="459,1754,521,1781"/>
+<area shape="rect" id="node45" href="$group__shapes__basic__2d.html#ga9f679c29426c44ee83b4a13b5dd47138" title="A rectangle with corner rounds or chamfers." alt="" coords="449,944,531,970"/>
+<area shape="rect" id="node46" href="$group__shapes__basic__2d.html#ga803b8196745be0e3a338def3c58e3b2b" title="A rectangle with a removed rectangular core." alt="" coords="225,994,322,1021"/>
+<area shape="rect" id="node47" href="$group__tools__repeat.html#gad3a61508128c356ec1348225ec9b3ce0" title="Repeat copies of child objects about a Cartesian grid." alt="" coords="638,1856,734,1882"/>
+<area shape="rect" id="node48" href="$group__shapes__basic__2d.html#ga89c8cb6f39cf9b045091f8b0434b25d0" title="A rhombus." alt="" coords="647,1653,725,1680"/>
+<area shape="rect" id="node49" href="$group__models__3d__fastener__screws.html#ga316ccd977e13f1f12ecb057a6466374b" title="Flat and beveled&#45;head screw bore with nut, nut slot, and bore tolerance." alt="" coords="442,1805,538,1832"/>
+<area shape="rect" id="node50" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="655,2008,717,2034"/>
+<area shape="rect" id="node6" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="228,1349,319,1376"/>
+<area shape="rect" id="node14" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="207,386,339,413"/>
+<area shape="rect" id="node17" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="218,538,329,565"/>
+<area shape="rect" id="node22" href="$group__tools__drafting__operation.html#ga172b76b2027c863e672bc7a84dabea5e" title="Construct a sheet title block." alt="" coords="427,792,553,818"/>
+<area shape="rect" id="node24" href="$group__shapes__basic__2d.html#ga9f2b6ba2562760853dd998b0086736a3" title="An ellipse with a removed elliptical core." alt="" coords="451,184,529,210"/>
+<area shape="rect" id="node25" href="$group__shapes__basic__2d.html#ga3e186b32450bffe183da7422f0b19f95" title="A sector of an ellipse with a removed elliptical core." alt="" coords="230,133,317,160"/>
+<area shape="rect" id="node26" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="5,614,132,641"/>
+<area shape="rect" id="node32" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="415,1349,565,1376"/>
+<area shape="rect" id="node37" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="200,1248,347,1274"/>
+</map>

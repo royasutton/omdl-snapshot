@@ -1,0 +1,7 @@
+<map id="get_fn" name="get_fn">
+<area shape="rect" id="node1" title="Return facets number for the given arc radius." alt="" coords="455,31,517,57"/>
+<area shape="rect" id="node2" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="252,5,395,32"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="240,56,407,83"/>
+<area shape="rect" id="node3" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="39,56,159,83"/>
+</map>

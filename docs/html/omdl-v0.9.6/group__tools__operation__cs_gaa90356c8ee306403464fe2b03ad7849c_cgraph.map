@@ -1,0 +1,4 @@
+<map id="intersection_cs" name="intersection_cs">
+<area shape="rect" id="node1" title="Conditionally apply the difference intersection operation." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="173,5,261,32"/>
+</map>

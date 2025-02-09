@@ -1,0 +1,23 @@
+<map id="polygon_regular_p" name="polygon_regular_p">
+<area shape="rect" id="node1" title="Compute coordinates for an n&#45;sided regular polygon in 2D." alt="" coords="564,487,707,513"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__primitive.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="421,233,503,260"/>
+<area shape="rect" id="node12" href="$group__shapes__basic__2d.html#ga523675020d361e525669de448e17cfd7" title="An n&#45;sided equiangular/equilateral regular polygon." alt="" coords="435,461,489,488"/>
+<area shape="rect" id="node14" href="$group__shapes__polygon.html#ga1151092c15142c227983e6bd481872b3" title="A n&#45;sided regular polygon with vertex rounding." alt="" coords="423,512,501,539"/>
+<area shape="rect" id="node15" href="$group__tools__repeat.html#ga543a7c0b4c744d98e6197036da5681fe" title="Radially repeat copies of child objects about a z&#45;axis radius." alt="" coords="408,588,516,615"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="222,5,311,32"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="203,56,330,83"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#ga4866c090b81b437e2f1f707d28ad8ec7" title="Construct a center mark dimension cross." alt="" coords="201,107,333,133"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="201,157,333,184"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="209,208,324,235"/>
+<area shape="rect" id="node8" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="201,259,332,285"/>
+<area shape="rect" id="node9" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="211,309,322,336"/>
+<area shape="rect" id="node10" href="$group__tools__drafting__primitive.html#ga20eb57e9d25186784df7428089e3a2ae" title="Draft a rectangle with configurable style." alt="" coords="207,360,327,387"/>
+<area shape="rect" id="node11" href="$group__tools__drafting__operation.html#ga49aac81a903cd453ea9cadc85e84e414" title="Construct a drafting sheet ruler." alt="" coords="222,411,311,437"/>
+<area shape="rect" id="node13" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="219,461,315,488"/>
+<area shape="rect" id="node16" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="225,512,309,539"/>
+<area shape="rect" id="node18" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="173,563,360,589"/>
+<area shape="rect" id="node19" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="221,613,312,640"/>
+<area shape="rect" id="node20" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="235,664,298,691"/>
+<area shape="rect" id="node21" href="$group__shapes__basic__3d.html#gab99dacd3036b965579d68b1d3b7ee2d8" title="A three&#45;dimensional star." alt="" coords="235,715,298,741"/>
+<area shape="rect" id="node17" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,563,125,589"/>
+</map>

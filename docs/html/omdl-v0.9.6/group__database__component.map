@@ -1,0 +1,8 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" href="$group__database__component__bearing.html" title="Mechanical bearing specifications." alt="" coords="289,5,361,31"/>
+<area shape="rect" id="node2" href="$group__database.html" title="Design data and specifications." alt="" coords="5,80,89,105"/>
+<area shape="rect" id="node4" title="Design component specifications." alt="" coords="137,80,235,105"/>
+<area shape="rect" id="node3" href="$group__database__component__battery.html" title="Electric battery specifications." alt="" coords="290,55,361,80"/>
+<area shape="rect" id="node5" href="$group__database__component__fastener.html" title="Mechanical fastener specifications." alt="" coords="287,104,364,129"/>
+<area shape="rect" id="node6" href="$group__database__component__structural.html" title="Structural component specifications." alt="" coords="283,153,368,179"/>
+</map>

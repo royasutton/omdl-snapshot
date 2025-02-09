@@ -1,0 +1,14 @@
+<map id="table_write" name="table_write">
+<area shape="rect" id="node1" title="Write formatted map entries to the console." alt="" coords="5,259,100,285"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#gaccab3e37e43cb1d882713b3f3d6d9e1b" title="Return the first element of an iterable value." alt="" coords="203,5,250,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__operate.html#ga00726e9fc8df22b5fde111e335b266f8" title="Return a list containing all but the last n elements of an iterable value." alt="" coords="195,56,258,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__scalar__test.html#gac47a7785d144083733c43327ea092e1d" title="Test if a value is a number." alt="" coords="181,107,272,133"/>
+<area shape="rect" id="node5" href="$group__datatypes__iterable__operate.html#ga4f04409e3fce7bf8226e4fde98f514c0" title="Return the last element of an iterable value." alt="" coords="203,157,250,184"/>
+<area shape="rect" id="node6" href="$group__common__console.html#ga2565219688decee9515f527f4553044a" title="Output message to console." alt="" coords="187,208,267,235"/>
+<area shape="rect" id="node7" href="$group__datatypes__iterable__operate.html#ga894d4bec62cc9cf38d5e099de3028c54" title="Return the second element of an iterable value." alt="" coords="193,259,261,285"/>
+<area shape="rect" id="node8" href="$group__datatypes__list__operate.html#gab842ea235bf5fc40a14512083b49c8d2" title="Convert a list of values to a concatenated string." alt="" coords="205,309,248,336"/>
+<area shape="rect" id="node9" href="$group__datatypes__list__operate.html#gac68d885cc15339910c08a9094bcacfc7" title="Convert a list of values to a concatenated HTML&#45;formatted string." alt="" coords="187,360,267,387"/>
+<area shape="rect" id="node10" href="$group__datatypes__table.html#ga81a0c09664cc9d9123fb2aa4a0a143c4" title="Get the table row index that matches a table row identifier." alt="" coords="148,411,305,437"/>
+<area shape="rect" id="node11" href="$group__datatypes__table.html#gaff59353c2a35021843d7a7f34d34eac9" title="Get the table cell value for a specified row and column identifier." alt="" coords="163,461,290,488"/>
+<area shape="rect" id="node12" href="$group__datatypes__iterable__operate.html#gafacf0ab6a646e99fcf55351ca693823f" title="Return a list containing all but the first n elements of an iterable value." alt="" coords="201,512,252,539"/>
+</map>

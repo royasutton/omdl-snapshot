@@ -1,0 +1,11 @@
+<map id="is_number" name="is_number">
+<area shape="rect" id="node1" title="Test if a value is a number." alt="" coords="185,183,276,209"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="8,5,135,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__dimension.html#ga4866c090b81b437e2f1f707d28ad8ec7" title="Construct a center mark dimension cross." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="5,107,137,133"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="14,157,129,184"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="6,208,137,235"/>
+<area shape="rect" id="node7" href="$group__datatypes__map.html#ga1ee3a7b76638ba11f1420da1dec59c8d" title="Write formatted map entries to the console." alt="" coords="26,259,117,285"/>
+<area shape="rect" id="node8" href="$group__datatypes__table.html#gaafc45abc1b8026ee1518fad87a042be3" title="Dump a table to the console." alt="" coords="22,309,121,336"/>
+<area shape="rect" id="node9" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="24,360,119,387"/>
+</map>

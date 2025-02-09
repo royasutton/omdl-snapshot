@@ -1,0 +1,5 @@
+<map id="screw_bore" name="screw_bore">
+<area shape="rect" id="node1" title="Flat and beveled&#45;head screw bore with nut, nut slot, and bore tolerance." alt="" coords="5,31,101,57"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="149,5,255,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__list__operate.html#ga7b8e6f2bbfa72ae61e39377e5ca6b5be" title="Select specified element from list or return a default." alt="" coords="163,56,241,83"/>
+</map>

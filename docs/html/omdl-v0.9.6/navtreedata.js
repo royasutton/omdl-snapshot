@@ -1,0 +1,64 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
+var NAVTREE =
+[
+  [ "omdl", "index.html", [
+    [ "Introduction", "index.html", [
+      [ "Getting Started", "index.html#starting", null ],
+      [ "Contributing", "index.html#contributing", null ],
+      [ "Support", "index.html#support", null ]
+    ] ],
+    [ "Building and installing", "lb.html", null ],
+    [ "How to use library modules", "lu.html", null ],
+    [ "Development conventions", "conventions.html", "conventions" ],
+    [ "Auto-tests and validation", "tv.html", "tv" ],
+    [ "Build information", "bi.html", null ],
+    [ "Copyright notice", "Copyright.html", null ],
+    [ "Todo List", "todo.html", null ],
+    [ "Library Modules", "modules.html", "modules" ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ],
+      [ "Globals", "globals.html", [
+        [ "All", "globals.html", "globals_dup" ],
+        [ "Functions", "globals_func.html", "globals_func" ],
+        [ "Variables", "globals_vars.html", null ]
+      ] ]
+    ] ]
+  ] ]
+];
+
+var NAVTREEINDEX =
+[
+"Copyright.html",
+"group__common__constants__system.html#gaf17c674764fbcf8fd4c43a92d98f801a",
+"group__database__geometry__polyhedra.html#gaaa9fd529c9a581399b75e8aec801a949",
+"group__datatypes__map.html#gaca8f75d5b124f26ea647d5ba147f7067",
+"group__parts__3d__enclosure__power__strip.html#ga05dc6ee813264fe414c13b6ebf343729",
+"group__units__angle.html#gae442774384e3397d2f6979be5eb4e39e",
+"tv_warn.html"
+];
+
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';

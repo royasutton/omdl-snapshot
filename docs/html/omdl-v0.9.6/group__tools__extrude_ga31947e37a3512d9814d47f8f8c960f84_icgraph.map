@@ -1,0 +1,12 @@
+<map id="extrude_rotate_tr" name="extrude_rotate_tr">
+<area shape="rect" id="node1" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="599,132,733,159"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__catch__latch.html#gaa90b197081dba0e1fbe7c92aa4079279" title="A catch latch generator." alt="" coords="431,81,527,108"/>
+<area shape="rect" id="node3" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="410,132,549,159"/>
+<area shape="rect" id="node9" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="408,208,551,235"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="225,5,309,32"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,31,125,57"/>
+<area shape="rect" id="node6" href="$group__shapes__revolved.html#ga58a3e713a904c96b69ddd8f87f7f3bb1" title="An elliptical cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="203,107,330,133"/>
+<area shape="rect" id="node7" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="193,157,340,184"/>
+<area shape="rect" id="node8" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="198,208,335,235"/>
+<area shape="rect" id="node10" href="$group__parts__3d__bearing__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="173,259,360,285"/>
+</map>

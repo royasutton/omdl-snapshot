@@ -1,0 +1,8 @@
+<map id="Drafting" name="Drafting">
+<area shape="rect" id="node1" href="$group__tools__drafting__primitive.html" title="Drafting base functions and primitives." alt="" coords="233,5,321,31"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html" title="Drafting tools and general operations." alt="" coords="231,55,324,80"/>
+<area shape="rect" id="node3" title="Drafting and drawing tools." alt="" coords="108,80,183,105"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__config.html" title="Drafting defaults and configurations." alt="" coords="246,104,309,129"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html" title="Drafting dimension operations." alt="" coords="231,153,323,179"/>
+<area shape="rect" id="node6" href="$group__tools.html" title="Tools and design components." alt="" coords="5,80,60,105"/>
+</map>

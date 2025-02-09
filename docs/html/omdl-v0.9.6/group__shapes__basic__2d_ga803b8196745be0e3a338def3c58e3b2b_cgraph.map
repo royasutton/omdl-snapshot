@@ -1,0 +1,10 @@
+<map id="rectangle_c" name="rectangle_c">
+<area shape="rect" id="node1" title="A rectangle with a removed rectangular core." alt="" coords="5,107,103,133"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__test.html#ga3fa2b76e04a4c8bba633d9e5e08004e8" title="Test if no element of an iterable value has an undefined value." alt="" coords="151,5,244,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="292,95,397,121"/>
+<area shape="rect" id="node4" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="152,107,243,133"/>
+<area shape="rect" id="node5" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="153,157,241,184"/>
+<area shape="rect" id="node6" href="$group__shapes__basic__2d.html#ga9f679c29426c44ee83b4a13b5dd47138" title="A rectangle with corner rounds or chamfers." alt="" coords="156,208,239,235"/>
+<area shape="rect" id="node7" href="$group__datatypes__binary.html#ga7ce4ed94d9b389ff817ea219918b8732" title="Test if a binary bit position of an integer value equals a test bit." alt="" coords="292,183,397,209"/>
+<area shape="rect" id="node8" href="$group__datatypes__scalar__test.html#ga258e8911375d30ff85a6e52df01dc1c5" title="Test if a value is a single non&#45;iterable value." alt="" coords="305,233,384,260"/>
+</map>
