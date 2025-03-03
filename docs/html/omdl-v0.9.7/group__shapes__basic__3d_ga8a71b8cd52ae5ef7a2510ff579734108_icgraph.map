@@ -1,0 +1,8 @@
+<map id="cone" name="cone">
+<area shape="rect" id="node1" title="A cone." alt="" coords="312,81,365,108"/>
+<area shape="rect" id="node2" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="177,5,261,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,56,125,83"/>
+<area shape="rect" id="node4" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="180,157,257,184"/>
+<area shape="rect" id="node6" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="173,107,264,133"/>
+<area shape="rect" id="node5" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="26,157,105,184"/>
+</map>

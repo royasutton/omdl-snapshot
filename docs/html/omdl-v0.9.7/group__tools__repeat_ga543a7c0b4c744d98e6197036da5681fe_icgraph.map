@@ -1,0 +1,9 @@
+<map id="repeat_radial" name="repeat_radial">
+<area shape="rect" id="node1" title="Radially repeat copies of child objects about a z&#45;axis radius." alt="" coords="408,107,516,133"/>
+<area shape="rect" id="node2" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="225,5,309,32"/>
+<area shape="rect" id="node4" href="$group__parts__3d__motion__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="173,56,360,83"/>
+<area shape="rect" id="node5" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="221,107,312,133"/>
+<area shape="rect" id="node6" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="235,157,298,184"/>
+<area shape="rect" id="node7" href="$group__shapes__basic__3d.html#gab99dacd3036b965579d68b1d3b7ee2d8" title="A three&#45;dimensional star." alt="" coords="235,208,298,235"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,56,125,83"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="first" name="first">
+<area shape="rect" id="node1" title="Return the first element of an iterable value." alt="" coords="825,519,872,545"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="243,12,339,39"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="660,113,749,140"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="649,164,760,191"/>
+<area shape="rect" id="node5" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="433,265,583,292"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="17,392,137,419"/>
+<area shape="rect" id="node11" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="243,63,339,89"/>
+<area shape="rect" id="node12" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="207,468,374,495"/>
+<area shape="rect" id="node14" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="632,392,777,419"/>
+<area shape="rect" id="node15" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="469,519,547,545"/>
+<area shape="rect" id="node17" href="$group__parts__3d__enclosure__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="439,316,577,343"/>
+<area shape="rect" id="node18" href="$group__datatypes__map.html#ga4a3d0704d80be0d9e8bae1fcb3ab7958" title="Perform basic format checks on a map and output errors to console." alt="" coords="657,620,753,647"/>
+<area shape="rect" id="node20" href="$group__datatypes__map.html#ga1ee3a7b76638ba11f1420da1dec59c8d" title="Write formatted map entries to the console." alt="" coords="659,671,750,697"/>
+<area shape="rect" id="node21" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="642,721,767,748"/>
+<area shape="rect" id="node22" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="637,772,773,799"/>
+<area shape="rect" id="node23" href="$group__datatypes__table.html#ga8a4429649e8b06d9f492e1a0d2653656" title="Perform basic format checks on a table and output errors to console." alt="" coords="655,823,755,849"/>
+<area shape="rect" id="node26" href="$group__datatypes__table.html#gaafc45abc1b8026ee1518fad87a042be3" title="Dump a table to the console." alt="" coords="655,873,754,900"/>
+<area shape="rect" id="node27" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="657,924,752,951"/>
+<area shape="rect" id="node6" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="249,265,333,292"/>
+<area shape="rect" id="node8" href="$group__parts__3d__motion__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="197,316,384,343"/>
+<area shape="rect" id="node9" href="$group__parts__3d__enclosure__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="5,139,149,165"/>
+<area shape="rect" id="node10" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="245,215,336,241"/>
+<area shape="rect" id="node13" href="$group__models__3d__fastener__screws.html#gaad990187680f7ac947e555483d854bfa" title="Gapped fastener bore with engagement cylinders for self&#45;forming threads." alt="" coords="231,164,351,191"/>
+<area shape="rect" id="node16" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="251,519,330,545"/>
+<area shape="rect" id="node19" href="$group__common__validation.html#ga3afe594ef417bc40429be81e044d29bc" title="Test data structure db and output the start of test to the test log." alt="" coords="434,620,582,647"/>
+<area shape="rect" id="node24" href="$group__datatypes__table.html#ga7a45ee72b36421f4e73cfba4488f14be" title="Dump table getter functions to the console." alt="" coords="432,797,584,824"/>
+<area shape="rect" id="node25" href="$group__common__validation.html#ga19d0234700fba9de9fb0cba52a3d8e17" title="Test data structure db and output the start of test to the test log." alt="" coords="432,848,584,875"/>
+</map>

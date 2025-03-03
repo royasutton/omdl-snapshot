@@ -1,0 +1,6 @@
+<map id="Common" name="Common">
+<area shape="rect" id="node1" href="$group__common__console.html" title="Console message logging." alt="" coords="251,15,373,40"/>
+<area shape="rect" id="node2" href="$group__common__constants.html" title="Common mechanical design constants." alt="" coords="235,79,389,104"/>
+<area shape="rect" id="node3" title="Rudimentary library components." alt="" coords="5,85,87,111"/>
+<area shape="rect" id="node4" href="$group__common__validation.html" title="Run&#45;time test and validation functions." alt="" coords="235,164,389,189"/>
+</map>

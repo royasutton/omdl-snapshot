@@ -1,0 +1,7 @@
+<map id="3d Models" name="3d Models">
+<area shape="rect" id="node1" href="$group__models__3d__fastener.html" title="Fasteners, connectors, latches, and hinges." alt="" coords="279,5,356,31"/>
+<area shape="rect" id="node2" href="$group__models.html" title="Black&#45;box models of commodity components." alt="" coords="5,55,75,80"/>
+<area shape="rect" id="node3" title="3d black&#45;box models of commodity components." alt="" coords="123,55,212,80"/>
+<area shape="rect" id="node4" href="$group__models__3d__motion.html" title="Building blocks for basic mechanical motion." alt="" coords="284,55,351,80"/>
+<area shape="rect" id="node5" href="$group__models__3d__misc.html" title="Miscellaneous auxiliary design models." alt="" coords="260,104,375,129"/>
+</map>

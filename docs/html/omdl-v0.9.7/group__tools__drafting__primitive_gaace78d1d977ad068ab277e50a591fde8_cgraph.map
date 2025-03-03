@@ -1,0 +1,5 @@
+<map id="draft_ztable_text" name="draft_ztable_text">
+<area shape="rect" id="node1" title="Add text to ztable at a given zone index." alt="" coords="5,31,137,57"/>
+<area shape="rect" id="node2" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="223,5,313,32"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__primitive.html#ga38f380c0ebc432c475fc6217a41496df" title="Get ztable zone coordinates given a zone index." alt="" coords="185,56,351,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="point_closest_pl" name="point_closest_pl">
+<area shape="rect" id="node1" title="Compute the coordinates of the closest point on a line to a given point." alt="" coords="168,5,295,32"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="5,5,120,32"/>
+</map>

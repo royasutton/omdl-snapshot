@@ -1,0 +1,11 @@
+<map id="pg_triangle_ppp" name="pg_triangle_ppp">
+<area shape="rect" id="node1" title="A polygon triangle specified by three coordinate points with vertex rounding." alt="" coords="561,81,688,108"/>
+<area shape="rect" id="node2" href="$group__shapes__polygon.html#gad85d14f73179499777da1e9297fbcae8" title="A polygon triangle specified by angle&#45;angle&#45;size with vertex rounding." alt="" coords="388,5,513,32"/>
+<area shape="rect" id="node3" href="$group__shapes__polygon.html#ga45e8a17aef3dd6755f833f25a8937cf7" title="A polygon triangle specified by angle&#45;size&#45;angle with vertex rounding." alt="" coords="388,56,513,83"/>
+<area shape="rect" id="node4" href="$group__shapes__polygon.html#ga24be160074502dce7ff8a78361d4b074" title="A polygon triangle specified by size&#45;angle&#45;size with vertex rounding." alt="" coords="389,107,513,133"/>
+<area shape="rect" id="node9" href="$group__shapes__polygon.html#gab9843df753e0537b490ac67cec6e31a9" title="A polygon triangle specified by three side lengths with vertex rounding." alt="" coords="389,157,512,184"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="185,56,329,83"/>
+<area shape="rect" id="node6" href="$group__parts__3d__enclosure__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="188,107,325,133"/>
+<area shape="rect" id="node8" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="173,157,340,184"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,132,125,159"/>
+</map>

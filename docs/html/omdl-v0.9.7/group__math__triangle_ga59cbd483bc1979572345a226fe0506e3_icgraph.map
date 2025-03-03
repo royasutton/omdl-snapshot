@@ -1,0 +1,4 @@
+<map id="triangle_aas2sss" name="triangle_aas2sss">
+<area shape="rect" id="node1" title="Compute the side lengths of a triangle given a side, one adjacent and the opposite angle." alt="" coords="179,5,309,32"/>
+<area shape="rect" id="node2" href="$group__shapes__polygon.html#gad85d14f73179499777da1e9297fbcae8" title="A polygon triangle specified by angle&#45;angle&#45;size with vertex rounding." alt="" coords="5,5,131,32"/>
+</map>

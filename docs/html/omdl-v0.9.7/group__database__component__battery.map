@@ -1,0 +1,6 @@
+<map id="Battery" name="Battery">
+<area shape="rect" id="node1" href="$group__database__component__battery__cylindrical.html" title="Cylindrical batteries data table." alt="" coords="373,8,463,33"/>
+<area shape="rect" id="node2" title="Electric battery specifications." alt="" coords="152,40,223,65"/>
+<area shape="rect" id="node4" href="$group__database__component__battery__button.html" title="Button cell batteries data table." alt="" coords="372,72,464,97"/>
+<area shape="rect" id="node3" href="$group__database__component.html" title="Design component specifications." alt="" coords="5,40,103,65"/>
+</map>

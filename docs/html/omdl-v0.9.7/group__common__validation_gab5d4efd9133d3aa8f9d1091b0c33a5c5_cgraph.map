@@ -1,0 +1,12 @@
+<map id="map_validate" name="map_validate">
+<area shape="rect" id="node1" title="Validate and log a test function return value against its expected value." alt="" coords="5,183,116,209"/>
+<area shape="rect" id="node2" href="$group__common__validation.html#gaab76a0ed98eb882a8ab0a9d5a6e3432d" title="Return the expected value." alt="" coords="164,5,327,32"/>
+<area shape="rect" id="node3" href="$group__common__validation.html#ga03cdbb6f098e52e5be847e474d600a1f" title="Return the test function name." alt="" coords="166,56,325,83"/>
+<area shape="rect" id="node4" href="$group__common__validation.html#gaa3a24feffad819c4de2c3a09104289a0" title="Return the test description." alt="" coords="166,107,325,133"/>
+<area shape="rect" id="node5" href="$group__common__validation.html#gadd315d73f4efd469ec1ac5ad523df719" title="Return the test argument value 1." alt="" coords="164,157,327,184"/>
+<area shape="rect" id="node6" href="$group__common__validation.html#ga705c3adcfbc3c0eafc1c3998f2d9245b" title="Return the test argument value 2." alt="" coords="164,208,327,235"/>
+<area shape="rect" id="node7" href="$group__common__validation.html#gac1fc8a2639c7e5e66e9ab70e5e4a8639" title="Return the test argument value 3." alt="" coords="164,259,327,285"/>
+<area shape="rect" id="node8" href="$group__common__validation.html#ga0d2b2e012e358967b524ad7289a5e099" title="Compare a computed test value with an known good result." alt="" coords="208,309,283,336"/>
+<area shape="rect" id="node9" href="$group__common__validation.html#ga780cead3c65c9c5eb9fa4a588291d583" title="Output text t to the test log." alt="" coords="194,360,297,387"/>
+<area shape="rect" id="node10" href="$group__common__console.html#ga6f133d3deda0bab6975bd2106a1a23c6" title="Output diagnostic message to console." alt="" coords="375,360,453,387"/>
+</map>

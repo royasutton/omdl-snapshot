@@ -1,0 +1,5 @@
+<map id="Geometry" name="Geometry">
+<area shape="rect" id="node1" href="$group__database.html" title="Design data and specifications." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node3" title="Geometric shape specifications." alt="" coords="137,5,224,31"/>
+<area shape="rect" id="node2" href="$group__database__geometry__polyhedra.html" title="Tables of polyhedra vertices, faces, and edges." alt="" coords="272,5,359,31"/>
+</map>

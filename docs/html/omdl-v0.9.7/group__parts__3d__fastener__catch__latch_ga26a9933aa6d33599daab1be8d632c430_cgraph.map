@@ -1,0 +1,25 @@
+<map id="catch_latch" name="catch_latch">
+<area shape="rect" id="node1" title="A catch latch generator with configurable profile." alt="" coords="5,580,101,607"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="583,428,688,455"/>
+<area shape="rect" id="node3" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="179,605,270,632"/>
+<area shape="rect" id="node4" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="149,149,300,176"/>
+<area shape="rect" id="node6" href="$group__datatypes__iterable__operate.html#gaccab3e37e43cb1d882713b3f3d6d9e1b" title="Return the first element of an iterable value." alt="" coords="612,99,659,125"/>
+<area shape="rect" id="node8" href="$group__datatypes__iterable__operate.html#ga894d4bec62cc9cf38d5e099de3028c54" title="Return the second element of an iterable value." alt="" coords="601,237,669,264"/>
+<area shape="rect" id="node10" href="$group__tools__extrude.html#ga31947e37a3512d9814d47f8f8c960f84" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="157,656,292,683"/>
+<area shape="rect" id="node12" href="$group__datatypes__iterable__operate.html#ga00726e9fc8df22b5fde111e335b266f8" title="Return a list containing all but the last n elements of an iterable value." alt="" coords="193,707,256,733"/>
+<area shape="rect" id="node13" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="181,757,269,784"/>
+<area shape="rect" id="node14" href="$group__shapes__polygon.html#ga9c1bd914355d92f9d66ba0e5c2d9dbac" title="A polygon rectangle with vertex rounding." alt="" coords="171,389,278,416"/>
+<area shape="rect" id="node15" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="348,301,535,328"/>
+<area shape="rect" id="node17" href="$group__datatypes__iterable__operate.html#gafb1f112a3ab162d589c49d1b2de21b9e" title="Reverse the elements of an iterable value." alt="" coords="189,808,260,835"/>
+<area shape="rect" id="node18" href="$group__models__3d__fastener__screws.html#ga57dcfe1241e15eaa58ccd08891504a93" title="Flat and beveled&#45;head fastener bore with nut, nut slot, and bore tolerance." alt="" coords="177,504,273,531"/>
+<area shape="rect" id="node20" href="$group__datatypes__list__operate.html#ga7b8e6f2bbfa72ae61e39377e5ca6b5be" title="Select specified element from list or return a default." alt="" coords="402,605,481,632"/>
+<area shape="rect" id="node21" href="$group__datatypes__list__operate.html#gab842ea235bf5fc40a14512083b49c8d2" title="Convert a list of values to a concatenated string." alt="" coords="203,859,246,885"/>
+<area shape="rect" id="node22" href="$group__datatypes__iterable__operate.html#gafacf0ab6a646e99fcf55351ca693823f" title="Return a list containing all but the first n elements of an iterable value." alt="" coords="199,909,250,936"/>
+<area shape="rect" id="node23" href="$group__datatypes__iterable__operate.html#ga4a000b3543933067bb00c6950e9122b3" title="Return the third element of an iterable value." alt="" coords="199,960,251,987"/>
+<area shape="rect" id="node5" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="369,200,514,227"/>
+<area shape="rect" id="node7" href="$group__datatypes__scalar__test.html#ga258e8911375d30ff85a6e52df01dc1c5" title="Test if a value is a single non&#45;iterable value." alt="" coords="596,161,675,188"/>
+<area shape="rect" id="node9" href="$group__datatypes__list__operate.html#gae12565005038993506dc37249e32766d" title="Compute the sum of a list of numbers." alt="" coords="416,48,467,75"/>
+<area shape="rect" id="node11" href="$group__units__angle.html#ga06a917b77748dfb74e765bcd7c4c0219" title="Convert an angle from some units to another." alt="" coords="412,656,471,683"/>
+<area shape="rect" id="node16" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="394,352,489,379"/>
+<area shape="rect" id="node19" href="$group__datatypes__iterable__operate.html#gaa10da05023bd79eec85459298bc937c2" title="Return the list element or scalar numeric value, if either is defined, otherwise the default value." alt="" coords="381,555,502,581"/>
+</map>

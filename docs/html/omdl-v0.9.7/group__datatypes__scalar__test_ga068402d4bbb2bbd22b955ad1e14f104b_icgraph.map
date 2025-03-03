@@ -1,0 +1,5 @@
+<map id="is_nan" name="is_nan">
+<area shape="rect" id="node1" title="Test if a numerical value is &#39;nan&#39; (not a number)." alt="" coords="189,31,253,57"/>
+<area shape="rect" id="node2" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="11,5,136,32"/>
+<area shape="rect" id="node3" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="5,56,141,83"/>
+</map>

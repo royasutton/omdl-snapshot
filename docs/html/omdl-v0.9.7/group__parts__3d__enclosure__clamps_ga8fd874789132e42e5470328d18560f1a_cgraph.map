@@ -1,0 +1,26 @@
+<map id="clamp_cg" name="clamp_cg">
+<area shape="rect" id="node1" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="5,537,89,564"/>
+<area shape="rect" id="node2" href="$group__datatypes__binary.html#ga7ce4ed94d9b389ff817ea219918b8732" title="Test if a binary bit position of an integer value equals a test bit." alt="" coords="377,461,482,488"/>
+<area shape="rect" id="node3" href="$group__shapes__basic__3d.html#ga8a71b8cd52ae5ef7a2510ff579734108" title="A cone." alt="" coords="186,335,239,361"/>
+<area shape="rect" id="node5" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="589,588,695,615"/>
+<area shape="rect" id="node6" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="385,208,473,235"/>
+<area shape="rect" id="node7" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="336,259,523,285"/>
+<area shape="rect" id="node9" href="$group__tools__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="137,107,288,133"/>
+<area shape="rect" id="node15" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="143,537,282,564"/>
+<area shape="rect" id="node17" href="$group__tools__repeat.html#ga543a7c0b4c744d98e6197036da5681fe" title="Radially repeat copies of child objects about a z&#45;axis radius." alt="" coords="375,816,483,843"/>
+<area shape="rect" id="node20" href="$group__datatypes__iterable__operate.html#gafb1f112a3ab162d589c49d1b2de21b9e" title="Reverse the elements of an iterable value." alt="" coords="177,715,248,741"/>
+<area shape="rect" id="node21" href="$group__shapes__basic__2d.html#ga89c8cb6f39cf9b045091f8b0434b25d0" title="A rhombus." alt="" coords="390,715,469,741"/>
+<area shape="rect" id="node22" href="$group__models__3d__fastener__screws.html#ga57dcfe1241e15eaa58ccd08891504a93" title="Flat and beveled&#45;head fastener bore with nut, nut slot, and bore tolerance." alt="" coords="165,853,261,880"/>
+<area shape="rect" id="node4" href="$group__units__angle.html#ga06a917b77748dfb74e765bcd7c4c0219" title="Convert an angle from some units to another." alt="" coords="613,664,671,691"/>
+<area shape="rect" id="node8" href="$group__math__triangle.html#gaab9b812d15418fd05c9d93f3bfcc1989" title="Compute a set of vertex coordinates for a triangle given its side lengths in 2D." alt="" coords="355,309,503,336"/>
+<area shape="rect" id="node10" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="357,56,502,83"/>
+<area shape="rect" id="node11" href="$group__datatypes__iterable__operate.html#gaccab3e37e43cb1d882713b3f3d6d9e1b" title="Return the first element of an iterable value." alt="" coords="619,5,665,32"/>
+<area shape="rect" id="node12" href="$group__datatypes__scalar__test.html#ga258e8911375d30ff85a6e52df01dc1c5" title="Test if a value is a single non&#45;iterable value." alt="" coords="603,309,681,336"/>
+<area shape="rect" id="node14" href="$group__datatypes__list__operate.html#gae12565005038993506dc37249e32766d" title="Compute the sum of a list of numbers." alt="" coords="404,157,455,184"/>
+<area shape="rect" id="node13" href="$group__datatypes__iterable__operate.html#ga894d4bec62cc9cf38d5e099de3028c54" title="Return the second element of an iterable value." alt="" coords="608,56,676,83"/>
+<area shape="rect" id="node16" href="$group__tools__extrude.html#ga31947e37a3512d9814d47f8f8c960f84" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="362,664,497,691"/>
+<area shape="rect" id="node18" href="$group__datatypes__euclidean.html#ga3d5c07c70f271bcf9144f50ce8620a89" title="Compute the angle between two lines or vectors in a 3d or 2d&#45;space." alt="" coords="605,740,679,767"/>
+<area shape="rect" id="node19" href="$group__math__polygon.html#ga6aea22d31f8f086c44c7241eee3ab4c2" title="Compute coordinates for an n&#45;sided regular polygon in 2D." alt="" coords="571,816,713,843"/>
+<area shape="rect" id="node23" href="$group__datatypes__iterable__operate.html#gaa10da05023bd79eec85459298bc937c2" title="Return the list element or scalar numeric value, if either is defined, otherwise the default value." alt="" coords="369,917,490,944"/>
+<area shape="rect" id="node24" href="$group__datatypes__list__operate.html#ga7b8e6f2bbfa72ae61e39377e5ca6b5be" title="Select specified element from list or return a default." alt="" coords="390,867,469,893"/>
+</map>

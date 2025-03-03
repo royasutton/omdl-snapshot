@@ -1,0 +1,8 @@
+<map id="extrude_rotate_trs" name="extrude_rotate_trs">
+<area shape="rect" id="node1" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="5,78,148,105"/>
+<area shape="rect" id="node2" href="$group__units__angle.html#ga06a917b77748dfb74e765bcd7c4c0219" title="Convert an angle from some units to another." alt="" coords="379,28,437,54"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="211,28,316,54"/>
+<area shape="rect" id="node4" href="$group__tools__extrude.html#ga31947e37a3512d9814d47f8f8c960f84" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis." alt="" coords="196,78,331,105"/>
+<area shape="rect" id="node5" href="$group__math__utility.html#gaf9e83459b8955e67df8371e48c5c6194" title="Return facets number for the given arc radius." alt="" coords="232,129,295,156"/>
+<area shape="rect" id="node6" href="$group__datatypes__scalar__test.html#ga258e8911375d30ff85a6e52df01dc1c5" title="Test if a value is a single non&#45;iterable value." alt="" coords="224,180,303,206"/>
+</map>

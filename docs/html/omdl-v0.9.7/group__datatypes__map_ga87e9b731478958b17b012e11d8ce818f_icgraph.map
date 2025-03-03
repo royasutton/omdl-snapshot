@@ -1,0 +1,9 @@
+<map id="map_get_firstof2_or" name="map_get_firstof2_or">
+<area shape="rect" id="node1" title="Get the the first value associated with an existing key in one of two maps." alt="" coords="461,81,613,108"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html#gaae4b7ed59444eb6f6c0ae47bd36e1e9b" title="Construct a text table that is populated by rows and columns." alt="" coords="321,81,413,108"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="185,81,273,108"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="8,5,135,32"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="14,107,129,133"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="6,157,137,184"/>
+</map>

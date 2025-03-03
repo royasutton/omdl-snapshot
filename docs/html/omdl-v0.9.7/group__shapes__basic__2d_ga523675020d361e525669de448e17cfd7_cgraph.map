@@ -1,0 +1,4 @@
+<map id="ngon" name="ngon">
+<area shape="rect" id="node1" title="An n&#45;sided equiangular/equilateral regular polygon." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node2" href="$group__math__polygon.html#ga6aea22d31f8f086c44c7241eee3ab4c2" title="Compute coordinates for an n&#45;sided regular polygon in 2D." alt="" coords="108,5,251,32"/>
+</map>

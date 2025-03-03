@@ -1,0 +1,6 @@
+<map id="table_get_value" name="table_get_value">
+<area shape="rect" id="node1" title="Get the table cell value for a specified row and column identifier." alt="" coords="195,56,321,83"/>
+<area shape="rect" id="node2" href="$group__shapes__polyhedron__db.html#gaae64c8fb78026896742050d14a5e8911" title="Construct a named polyhedron." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__table.html#gaafc45abc1b8026ee1518fad87a042be3" title="Dump a table to the console." alt="" coords="27,56,125,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="29,107,123,133"/>
+</map>

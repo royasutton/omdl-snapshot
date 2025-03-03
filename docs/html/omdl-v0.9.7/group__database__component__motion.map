@@ -1,0 +1,9 @@
+<map id="Motion" name="Motion">
+<area shape="rect" id="node1" href="$group__database__component__motion__Motor.html" title=" " alt="" coords="470,5,530,31"/>
+<area shape="rect" id="node2" href="$group__database__component__motion__bearing__linear__lmxuu.html" title="[bearing] Linear motion bearing; linear_lmxuu; lm." alt="" coords="447,55,553,80"/>
+<area shape="rect" id="node3" href="$group__database__component__motion__Bearing.html" title=" " alt="" coords="464,104,536,129"/>
+<area shape="rect" id="node4" href="$group__database__component.html" title="Design component specifications." alt="" coords="5,104,103,129"/>
+<area shape="rect" id="node6" title="Mechanical motion design component specifications." alt="" coords="152,104,219,129"/>
+<area shape="rect" id="node5" href="$group__database__component__motion__bearing__radial__ball.html" title="[bearing] Radial ball bearing; radial_ball; rbb." alt="" coords="455,153,545,179"/>
+<area shape="rect" id="node7" href="$group__database__component__motion__motor__nema__stepper.html" title="[motor] Nema stepper motor; nema_stepper; stepper motor." alt="" coords="443,203,557,228"/>
+</map>

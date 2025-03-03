@@ -1,0 +1,5 @@
+<map id="is_between" name="is_between">
+<area shape="rect" id="node1" title="Test if a numerical value is between an upper and lower bounds." alt="" coords="240,31,336,57"/>
+<area shape="rect" id="node2" href="$group__parts__3d__motion__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node3" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="36,56,161,83"/>
+</map>
