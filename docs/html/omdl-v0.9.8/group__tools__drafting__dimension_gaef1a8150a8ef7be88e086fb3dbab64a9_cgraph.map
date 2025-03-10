@@ -1,0 +1,43 @@
+<map id="draft_dim_radius" name="draft_dim_radius">
+<area shape="rect" id="node1" title="Construct a radial dimension line." alt="" coords="5,1056,136,1083"/>
+<area shape="rect" id="node2" href="$group__datatypes__euclidean.html#ga3d5c07c70f271bcf9144f50ce8620a89" title="Compute the angle between two lines or vectors in a 3d or 2d&#45;space." alt="" coords="962,625,1035,652"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="565,283,671,309"/>
+<area shape="rect" id="node4" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="349,1259,439,1285"/>
+<area shape="rect" id="node5" href="$group__datatypes__euclidean.html#gaef5b930729755b4420098776467ac210" title="Compute the distance between two points." alt="" coords="784,144,884,171"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__primitive.html#ga9e80066573c9e9b2b1cf6af71cf453b0" title="Check if any identified layers are active." alt="" coords="529,1309,707,1336"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__primitive.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="188,473,271,500"/>
+<area shape="rect" id="node16" href="$group__datatypes__euclidean.html#ga299bce4158dc8d0a7a8e7d9967b8ea4e" title="Return the terminal point of a line or vector." alt="" coords="965,144,1032,171"/>
+<area shape="rect" id="node22" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="790,1005,878,1032"/>
+<area shape="rect" id="node23" href="$group__datatypes__euclidean.html#gaa686049dfa9296b441a12e225aa1537d" title="Construct a 2 dimensional directed line." alt="" coords="570,853,666,880"/>
+<area shape="rect" id="node29" href="$group__tools__drafting__primitive.html#ga9a4b6eb4b387537f7bc1cc6c4d8f4449" title="Extrude 2D drafted constructions to 3D if configured." alt="" coords="513,904,723,931"/>
+<area shape="rect" id="node30" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="185,1056,273,1083"/>
+<area shape="rect" id="node36" href="$group__datatypes__iterable__test.html#gaba1e87e102e1f9231ba30b43c8caa947" title="Test if an iterable value is empty." alt="" coords="188,1208,271,1235"/>
+<area shape="rect" id="node37" href="$group__datatypes__scalar__test.html#gac47a7785d144083733c43327ea092e1d" title="Test if a value is a number." alt="" coords="184,1259,275,1285"/>
+<area shape="rect" id="node38" href="$group__units__length.html#ga4e8b3884a104d09e926928dcedd30d03" title="Convert a value from from one units to another with dimensions." alt="" coords="198,1309,261,1336"/>
+<area shape="rect" id="node39" href="$group__datatypes__list__operate.html#ga0af5678e346d62c1163afbfb604ab62a" title="Round a list of numbers to a fixed number of decimal point digits." alt="" coords="192,1360,267,1387"/>
+<area shape="rect" id="node40" href="$group__datatypes__list__operate.html#gab8c413e8ab85026e681a97cee974aae1" title="Round a list of numbers to a fixed number of significant figures." alt="" coords="193,1411,266,1437"/>
+<area shape="rect" id="node41" href="$group__datatypes__iterable__operate.html#ga894d4bec62cc9cf38d5e099de3028c54" title="Return the second element of an iterable value." alt="" coords="195,1461,263,1488"/>
+<area shape="rect" id="node8" href="$group__datatypes__iterable__test.html#ga4dfc58aa5f208e103e622684db817ce6" title="Test if all elements of an iterable value equal a comparison value." alt="" coords="353,499,435,525"/>
+<area shape="rect" id="node9" href="$group__tools__drafting__primitive.html#ga6f12ccd4c9de0a8ab887184911f39c8f" title="Draft an arrowhead at the terminal point of a line." alt="" coords="346,701,442,728"/>
+<area shape="rect" id="node11" href="$group__tools__drafting__config.html#gabb4fa7092928ba8803b550ac6d733f64" title="Get drafting configuration default helper function." alt="" coords="771,549,897,576"/>
+<area shape="rect" id="node12" href="$group__tools__drafting__primitive.html#ga4e7c5fa02dbc244702042067553a9225" title="Draft a simple line from an initial to a terminal point." alt="" coords="565,347,671,373"/>
+<area shape="rect" id="node15" href="$group__datatypes__euclidean.html#ga8115b05f16bcc197e3e339a65f4d3e49" title="Return the initial point of a line or vector." alt="" coords="966,245,1031,272"/>
+<area shape="rect" id="node25" href="$group__datatypes__iterable__operate.html#gadb933df06b10d64dda8823069bdc84b7" title="Return a list of all n&#45;element sequential&#45;subsets of an iterable value." alt="" coords="565,803,671,829"/>
+<area shape="rect" id="node26" href="$group__datatypes__list__operate.html#gac9437fd7e3cb8797fa5e901b2ab6e58a" title="Serially merge the elements of a list." alt="" coords="355,347,433,373"/>
+<area shape="rect" id="node27" href="$group__math__polygon.html#gad35e17240bf9f3e0de4481ec467d599f" title="Compute coordinates along a line in 2D." alt="" coords="334,397,454,424"/>
+<area shape="rect" id="node28" href="$group__math__polygon.html#ga6aea22d31f8f086c44c7241eee3ab4c2" title="Compute coordinates for an n&#45;sided regular polygon in 2D." alt="" coords="323,448,465,475"/>
+<area shape="rect" id="node10" href="$group__datatypes__binary.html#ga7ce4ed94d9b389ff817ea219918b8732" title="Test if a binary bit position of an integer value equals a test bit." alt="" coords="565,600,671,627"/>
+<area shape="rect" id="node21" href="$group__tools__operation__cs.html#gafa05aca176d441020de53da835e3dd60" title="Conditionally apply the convex hull transformation." alt="" coords="585,752,651,779"/>
+<area shape="rect" id="node24" href="$group__math__polygon.html#ga0e085cf8ec515dccdeff907f84fdae55" title="Compute coordinates of an arc with constant radius between two vectors in 2D." alt="" coords="560,651,676,677"/>
+<area shape="rect" id="node13" href="$group__tools__align.html#ga7a21147611850c6cae7e95d23417099b" title="Align a line or vector to a reference line or vector." alt="" coords="799,347,869,373"/>
+<area shape="rect" id="node14" href="$group__datatypes__euclidean.html#ga882329ee346d5a7f9d0877afd115c3de" title="Compute the cross product of two lines or vectors in a 3d or 2d&#45;space." alt="" coords="963,448,1034,475"/>
+<area shape="rect" id="node17" href="$group__datatypes__list__operate.html#ga1088f9b09ff8ed12e2c844758f39c039" title="Compute the mean/average of a list of numbers." alt="" coords="969,499,1028,525"/>
+<area shape="rect" id="node18" href="$group__datatypes__euclidean.html#ga78d67c74076bef2e80a95b1e9b6eb2d7" title="Return 3d point unchanged or add a zeroed third dimension to 2d point." alt="" coords="949,296,1048,323"/>
+<area shape="rect" id="node19" href="$group__datatypes__list__operate.html#ga7b8e6f2bbfa72ae61e39377e5ca6b5be" title="Select specified element from list or return a default." alt="" coords="959,347,1038,373"/>
+<area shape="rect" id="node20" href="$group__datatypes__euclidean.html#ga6ef2a81f304d31b9ec9753ca4875ad45" title="Convert line to vector by shifting it to the origin." alt="" coords="945,397,1052,424"/>
+<area shape="rect" id="node31" href="$group__datatypes__list__operate.html#gab05ff3da4d68d30922daa197f505580d" title="Create a list of constant or incrementing elements." alt="" coords="362,1157,426,1184"/>
+<area shape="rect" id="node32" href="$group__tools__drafting__operation.html#gaae4b7ed59444eb6f6c0ae47bd36e1e9b" title="Construct a text table that is populated by rows and columns." alt="" coords="348,1107,440,1133"/>
+<area shape="rect" id="node33" href="$group__tools__drafting__primitive.html#ga86b6eb63073241bfdfb18ba221fd3ec2" title="Get table cell coordinates given a column and row." alt="" coords="543,1259,693,1285"/>
+<area shape="rect" id="node34" href="$group__datatypes__map.html#ga87e9b731478958b17b012e11d8ce818f" title="Get the the first value associated with an existing key in one of two maps." alt="" coords="542,1157,694,1184"/>
+<area shape="rect" id="node35" href="$group__datatypes__map.html#ga18d78aec6f24969b9ad51595533f78b2" title="Get the map value associated with a key." alt="" coords="557,1208,679,1235"/>
+</map>

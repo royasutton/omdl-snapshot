@@ -1,0 +1,6 @@
+<map id="polytope_limits" name="polytope_limits">
+<area shape="rect" id="node1" title="Determine the bounding limits of a polytope." alt="" coords="231,56,353,83"/>
+<area shape="rect" id="node2" href="$group__shapes__polyhedron__db.html#gaae64c8fb78026896742050d14a5e8911" title="Construct a named polyhedron." alt="" coords="23,5,165,32"/>
+<area shape="rect" id="node3" href="$group__tools__polytope.html#ga47427d4c37f872812532c329d6d5a8c4" title="The 3d or 2d bounding box shape for a polytope." alt="" coords="5,56,183,83"/>
+<area shape="rect" id="node4" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="26,107,162,133"/>
+</map>

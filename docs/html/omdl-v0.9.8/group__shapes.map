@@ -1,0 +1,8 @@
+<map id="Shapes" name="Shapes">
+<area shape="rect" id="node1" href="$group__shapes__revolved.html" title="Select 2D shapes revolved about the z&#45;axis." alt="" coords="265,22,364,48"/>
+<area shape="rect" id="node2" title="Geometric shapes and basic constructs." alt="" coords="5,172,75,197"/>
+<area shape="rect" id="node3" href="$group__shapes__basic__2d.html" title="Basic 2D shape." alt="" coords="276,86,353,112"/>
+<area shape="rect" id="node4" href="$group__shapes__basic__3d.html" title="Basic 3D shapes." alt="" coords="276,172,353,197"/>
+<area shape="rect" id="node5" href="$group__shapes__polyhedron__db.html" title="Sizable polyhedra generated from shape database." alt="" coords="253,250,376,276"/>
+<area shape="rect" id="node6" href="$group__shapes__polygon.html" title="Roundable polygons generated in 2D space." alt="" coords="274,329,355,354"/>
+</map>

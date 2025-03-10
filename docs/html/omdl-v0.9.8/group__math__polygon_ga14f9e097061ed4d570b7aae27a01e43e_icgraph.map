@@ -1,0 +1,6 @@
+<map id="polygon_regular_perimeter" name="polygon_regular_perimeter">
+<area shape="rect" id="node1" title="Compute the perimeter of an n&#45;sided regular polygon in 2D." alt="" coords="388,31,587,57"/>
+<area shape="rect" id="node2" href="$group__parts__3d__enclosure__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="185,5,329,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="173,56,340,83"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,56,125,83"/>
+</map>

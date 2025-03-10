@@ -1,0 +1,17 @@
+<map id="triangle2d_sss2ppp" name="triangle2d_sss2ppp">
+<area shape="rect" id="node1" title="Compute a set of vertex coordinates for a triangle given its side lengths in 2D." alt="" coords="561,233,709,260"/>
+<area shape="rect" id="node2" href="$group__shapes__basic__3d.html#ga8a71b8cd52ae5ef7a2510ff579734108" title="A cone." alt="" coords="424,81,477,108"/>
+<area shape="rect" id="node7" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="211,157,302,184"/>
+<area shape="rect" id="node8" href="$group__shapes__polygon.html#gad85d14f73179499777da1e9297fbcae8" title="A polygon triangle specified by angle&#45;angle&#45;size with vertex rounding." alt="" coords="388,183,513,209"/>
+<area shape="rect" id="node9" href="$group__shapes__polygon.html#ga45e8a17aef3dd6755f833f25a8937cf7" title="A polygon triangle specified by angle&#45;size&#45;angle with vertex rounding." alt="" coords="388,233,513,260"/>
+<area shape="rect" id="node10" href="$group__shapes__polygon.html#ga24be160074502dce7ff8a78361d4b074" title="A polygon triangle specified by size&#45;angle&#45;size with vertex rounding." alt="" coords="389,284,513,311"/>
+<area shape="rect" id="node14" href="$group__shapes__polygon.html#gab9843df753e0537b490ac67cec6e31a9" title="A polygon triangle specified by three side lengths with vertex rounding." alt="" coords="389,335,512,361"/>
+<area shape="rect" id="node15" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="419,385,482,412"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="215,56,299,83"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,157,125,184"/>
+<area shape="rect" id="node5" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="218,5,295,32"/>
+<area shape="rect" id="node6" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="26,5,105,32"/>
+<area shape="rect" id="node11" href="$group__parts__3d__enclosure__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="185,208,329,235"/>
+<area shape="rect" id="node12" href="$group__parts__3d__enclosure__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="188,259,325,285"/>
+<area shape="rect" id="node13" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="173,309,340,336"/>
+</map>

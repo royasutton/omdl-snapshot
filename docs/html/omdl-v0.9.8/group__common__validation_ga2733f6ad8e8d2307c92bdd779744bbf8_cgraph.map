@@ -1,0 +1,5 @@
+<map id="validate_skip" name="validate_skip">
+<area shape="rect" id="node1" title="Output that function named fn has been skipped to the test log." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$group__common__validation.html#ga780cead3c65c9c5eb9fa4a588291d583" title="Output text t to the test log." alt="" coords="163,5,265,32"/>
+<area shape="rect" id="node3" href="$group__common__console.html#ga6f133d3deda0bab6975bd2106a1a23c6" title="Output diagnostic message to console." alt="" coords="313,5,392,32"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="select_ci" name="select_ci">
+<area shape="rect" id="node1" title="Select specified element from list or return a default." alt="" coords="959,411,1037,437"/>
+<area shape="rect" id="node2" href="$group__tools__align.html#ga3f7b93a4934de605058ca07f0c22d688" title="Align an objects Cartesian axis to reference line or vector." alt="" coords="567,81,641,108"/>
+<area shape="rect" id="node3" href="$group__tools__align.html#ga7a21147611850c6cae7e95d23417099b" title="Align a line or vector to a reference line or vector." alt="" coords="783,132,852,159"/>
+<area shape="rect" id="node17" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="556,233,652,260"/>
+<area shape="rect" id="node18" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="361,259,439,285"/>
+<area shape="rect" id="node19" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="565,284,643,311"/>
+<area shape="rect" id="node20" href="$group__models__3d__motion__bearing__linear__lmxuu.html#gaee2c61ec287975e6d54ade77e3c8010c" title="Linear motion bearing model." alt="" coords="764,588,871,615"/>
+<area shape="rect" id="node21" href="$group__parts__3d__motion__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="724,639,911,665"/>
+<area shape="rect" id="node22" href="$group__parts__3d__enclosure__mounts.html#ga1a26f176e04863a2bf335960a52b39a8" title="A screw mount slot with optional cover envelope." alt="" coords="534,335,674,361"/>
+<area shape="rect" id="node25" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="559,588,649,615"/>
+<area shape="rect" id="node26" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="769,689,865,716"/>
+<area shape="rect" id="node27" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="734,537,901,564"/>
+<area shape="rect" id="node28" href="$group__models__3d__motion__bearing__radial__ball.html#ga3e39cd35457c1ceb70a6bb0e55022ee1" title="Radial ball bearing model." alt="" coords="772,740,863,767"/>
+<area shape="rect" id="node29" href="$group__models__3d__fastener__screws.html#ga57dcfe1241e15eaa58ccd08891504a93" title="Flat and beveled&#45;head fastener bore with nut, nut slot, and bore tolerance." alt="" coords="769,385,865,412"/>
+<area shape="rect" id="node33" href="$group__models__3d__fastener__screws.html#gaad990187680f7ac947e555483d854bfa" title="Gapped fastener bore with engagement cylinders for self&#45;forming threads." alt="" coords="757,436,877,463"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__primitive.html#ga4e7c5fa02dbc244702042067553a9225" title="Draft a simple line from an initial to a terminal point." alt="" coords="551,132,657,159"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__primitive.html#gaeb2a388d77f8e435b02c4235e7791eda" title="Draft an arc with configurable style and optional arrowheads." alt="" coords="187,81,266,108"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__primitive.html#ga6f12ccd4c9de0a8ab887184911f39c8f" title="Draft an arrowhead at the terminal point of a line." alt="" coords="352,132,448,159"/>
+<area shape="rect" id="node8" href="$group__tools__drafting__primitive.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="185,183,268,209"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="8,5,135,32"/>
+<area shape="rect" id="node9" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="27,309,116,336"/>
+<area shape="rect" id="node10" href="$group__tools__drafting__dimension.html#ga4866c090b81b437e2f1f707d28ad8ec7" title="Construct a center mark dimension cross." alt="" coords="5,360,137,387"/>
+<area shape="rect" id="node11" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="5,411,137,437"/>
+<area shape="rect" id="node12" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="14,56,129,83"/>
+<area shape="rect" id="node13" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="6,107,137,133"/>
+<area shape="rect" id="node14" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="16,157,127,184"/>
+<area shape="rect" id="node15" href="$group__tools__drafting__primitive.html#ga20eb57e9d25186784df7428089e3a2ae" title="Draft a rectangle with configurable style." alt="" coords="11,208,131,235"/>
+<area shape="rect" id="node16" href="$group__tools__drafting__operation.html#ga49aac81a903cd453ea9cadc85e84e414" title="Construct a drafting sheet ruler." alt="" coords="27,259,116,285"/>
+<area shape="rect" id="node23" href="$group__parts__3d__enclosure__mounts.html#gabc7cd409ab1e2e4b6b894de3cf06658f" title="A multi&#45;directional screw mount slot with optional cover envelope." alt="" coords="316,335,484,361"/>
+<area shape="rect" id="node24" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="340,461,460,488"/>
+<area shape="rect" id="node30" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="562,487,646,513"/>
+<area shape="rect" id="node31" href="$group__parts__3d__enclosure__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="532,537,676,564"/>
+<area shape="rect" id="node32" href="$group__parts__3d__enclosure__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="535,385,673,412"/>
+</map>

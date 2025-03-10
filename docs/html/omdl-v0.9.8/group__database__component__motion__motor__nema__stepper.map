@@ -1,0 +1,5 @@
+<map id="nema_stepper" name="nema_stepper">
+<area shape="rect" id="node1" href="$group__database__component__motion__Motor.html" title=" " alt="" coords="5,7,65,33"/>
+<area shape="rect" id="node3" title="[motor] Nema stepper motor; nema_stepper; stepper motor." alt="" coords="115,7,229,33"/>
+<area shape="rect" id="node2" href="$group__database__component__motion.html" title="Mechanical motion design component specifications." alt="" coords="451,7,517,33"/>
+</map>

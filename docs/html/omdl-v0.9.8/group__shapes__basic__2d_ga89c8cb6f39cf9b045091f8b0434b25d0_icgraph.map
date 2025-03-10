@@ -1,0 +1,5 @@
+<map id="rhombus" name="rhombus">
+<area shape="rect" id="node1" title="A rhombus." alt="" coords="305,5,384,32"/>
+<area shape="rect" id="node2" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="173,5,257,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,5,125,32"/>
+</map>

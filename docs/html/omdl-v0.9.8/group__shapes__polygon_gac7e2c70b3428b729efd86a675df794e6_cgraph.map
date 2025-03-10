@@ -1,0 +1,8 @@
+<map id="pg_triangle_ppp" name="pg_triangle_ppp">
+<area shape="rect" id="node1" title="A polygon triangle specified by three coordinate points with vertex rounding." alt="" coords="5,107,132,133"/>
+<area shape="rect" id="node2" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="180,5,367,32"/>
+<area shape="rect" id="node3" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="226,56,321,83"/>
+<area shape="rect" id="node4" href="$group__math__triangle.html#gac0d11ca2c5035a9e53c1144f3774b0b4" title="Compute the center coordinate of a triangle&#39;s incircle in 2D." alt="" coords="199,107,347,133"/>
+<area shape="rect" id="node5" href="$group__math__triangle.html#ga51e8d8c2004f859d216790f7966b7dfd" title="Compute the centroid of a triangle." alt="" coords="207,157,339,184"/>
+<area shape="rect" id="node6" href="$group__math__triangle.html#ga5cf2801b07faec68a51ac3cd901bc4b0" title="Compute the coordinate of a triangle&#39;s circumcenter." alt="" coords="191,208,355,235"/>
+</map>

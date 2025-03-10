@@ -1,0 +1,6 @@
+<map id="draft_table_text" name="draft_table_text">
+<area shape="rect" id="node1" title="Add text to table cell at a given a column and row." alt="" coords="5,56,131,83"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__test.html#gaf03535690f739eafba1a4cd1b56b4651" title="Test if all elements of an iterable value are strings." alt="" coords="209,5,299,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="209,56,299,83"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__primitive.html#ga86b6eb63073241bfdfb18ba221fd3ec2" title="Get table cell coordinates given a column and row." alt="" coords="179,107,329,133"/>
+</map>

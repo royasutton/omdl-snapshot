@@ -1,0 +1,11 @@
+<map id="align_ll" name="align_ll">
+<area shape="rect" id="node1" title="Align a line or vector to a reference line or vector." alt="" coords="5,183,75,209"/>
+<area shape="rect" id="node2" href="$group__datatypes__euclidean.html#ga3d5c07c70f271bcf9144f50ce8620a89" title="Compute the angle between two lines or vectors in a 3d or 2d&#45;space." alt="" coords="139,5,213,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__euclidean.html#ga882329ee346d5a7f9d0877afd115c3de" title="Compute the cross product of two lines or vectors in a 3d or 2d&#45;space." alt="" coords="141,56,211,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__euclidean.html#ga8115b05f16bcc197e3e339a65f4d3e49" title="Return the initial point of a line or vector." alt="" coords="143,107,209,133"/>
+<area shape="rect" id="node5" href="$group__datatypes__euclidean.html#ga299bce4158dc8d0a7a8e7d9967b8ea4e" title="Return the terminal point of a line or vector." alt="" coords="143,157,209,184"/>
+<area shape="rect" id="node6" href="$group__datatypes__list__operate.html#ga1088f9b09ff8ed12e2c844758f39c039" title="Compute the mean/average of a list of numbers." alt="" coords="147,208,205,235"/>
+<area shape="rect" id="node7" href="$group__datatypes__euclidean.html#ga78d67c74076bef2e80a95b1e9b6eb2d7" title="Return 3d point unchanged or add a zeroed third dimension to 2d point." alt="" coords="127,259,225,285"/>
+<area shape="rect" id="node8" href="$group__datatypes__list__operate.html#ga7b8e6f2bbfa72ae61e39377e5ca6b5be" title="Select specified element from list or return a default." alt="" coords="137,309,215,336"/>
+<area shape="rect" id="node9" href="$group__datatypes__euclidean.html#ga6ef2a81f304d31b9ec9753ca4875ad45" title="Convert line to vector by shifting it to the origin." alt="" coords="123,360,229,387"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ph_db_polyhedron" name="ph_db_polyhedron">
+<area shape="rect" id="node1" title="Construct a named polyhedron." alt="" coords="5,157,147,184"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="205,5,311,32"/>
+<area shape="rect" id="node3" href="$group__math__polytope.html#gac5d546b49b09d2da25a6a02da5ef2373" title="Determine the bounding limits of a polytope." alt="" coords="197,56,319,83"/>
+<area shape="rect" id="node4" href="$group__math__linear__algebra.html#gae678bfcdff4ec62e54ab86c569128126" title="Scale all coordinates dimensions proportionately to fit inside a region." alt="" coords="220,107,296,133"/>
+<area shape="rect" id="node5" href="$group__math__linear__algebra.html#ga79b1895195be5aab9c47a481ec43d79a" title="Rotate all coordinates about one or more axes in 2D or 3D." alt="" coords="220,157,296,184"/>
+<area shape="rect" id="node6" href="$group__datatypes__table.html#ga67088801a97d5575ebef698f06e80096" title="Test the existence of a table row identifier, table column identifier, or both." alt="" coords="207,208,309,235"/>
+<area shape="rect" id="node7" href="$group__datatypes__table.html#gaff59353c2a35021843d7a7f34d34eac9" title="Get the table cell value for a specified row and column identifier." alt="" coords="195,259,321,285"/>
+<area shape="rect" id="node8" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="211,309,305,336"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rectangle" name="rectangle">
+<area shape="rect" id="node1" title="A rectangle with corner rounds or chamfers." alt="" coords="336,56,419,83"/>
+<area shape="rect" id="node2" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="191,5,287,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="14,56,134,83"/>
+<area shape="rect" id="node4" href="$group__shapes__basic__2d.html#ga803b8196745be0e3a338def3c58e3b2b" title="A rectangle with a removed rectangular core." alt="" coords="191,107,288,133"/>
+<area shape="rect" id="node5" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="5,107,143,133"/>
+</map>

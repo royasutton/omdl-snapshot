@@ -1,0 +1,6 @@
+<map id="Motion" name="Motion">
+<area shape="rect" id="node1" href="$group__models__3d__motion__bearing__linear__lmxuu.html" title="Linear motion bearing model." alt="" coords="435,13,541,38"/>
+<area shape="rect" id="node2" href="$group__models__3d__motion__bearing__radial__ball.html" title="Rotary motion radial ball bearing model." alt="" coords="442,77,534,102"/>
+<area shape="rect" id="node3" href="$group__models__3d.html" title="3d black&#45;box models of commodity components." alt="" coords="5,45,95,70"/>
+<area shape="rect" id="node4" title="Building blocks for basic mechanical motion." alt="" coords="144,45,211,70"/>
+</map>

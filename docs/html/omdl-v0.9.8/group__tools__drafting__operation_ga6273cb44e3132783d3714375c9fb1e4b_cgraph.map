@@ -1,0 +1,7 @@
+<map id="draft_move" name="draft_move">
+<area shape="rect" id="node1" title="Move one or more child objects to sheet a reference zone." alt="" coords="5,81,101,108"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__test.html#ga2b8992c7b08651052cac8f5c4d2b4e7d" title="Test if all elements of an iterable value are numbers." alt="" coords="179,5,281,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__test.html#gaf03535690f739eafba1a4cd1b56b4651" title="Test if all elements of an iterable value are strings." alt="" coords="185,56,275,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="185,107,275,133"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__primitive.html#ga28775e787b106e31d3cbb4e9a41d3a81" title="Get sheet, sheet&#45;frame, or sheet&#45;zone reference coordinates." alt="" coords="149,157,311,184"/>
+</map>

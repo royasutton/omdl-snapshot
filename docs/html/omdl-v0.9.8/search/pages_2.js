@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['copyright_20notice_1445',['Copyright notice',['../Copyright.html',1,'']]],
+  ['current_20tests_20failures_1446',['Current Tests Failures',['../tv_fail.html',1,'tv']]],
+  ['current_20tests_20warnings_1447',['Current Tests Warnings',['../tv_warn.html',1,'tv']]]
+];

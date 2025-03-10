@@ -1,0 +1,4 @@
+<map id="polytope_bounding_box" name="polytope_bounding_box">
+<area shape="rect" id="node1" title="The 3d or 2d bounding box shape for a polytope." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$group__math__polytope.html#gac5d546b49b09d2da25a6a02da5ef2373" title="Determine the bounding limits of a polytope." alt="" coords="231,5,353,32"/>
+</map>

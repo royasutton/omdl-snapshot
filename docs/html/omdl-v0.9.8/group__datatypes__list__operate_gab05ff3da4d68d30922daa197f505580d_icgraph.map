@@ -1,0 +1,13 @@
+<map id="consts" name="consts">
+<area shape="rect" id="node1" title="Create a list of constant or incrementing elements." alt="" coords="369,208,433,235"/>
+<area shape="rect" id="node2" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="209,81,297,108"/>
+<area shape="rect" id="node7" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="198,132,309,159"/>
+<area shape="rect" id="node8" href="$group__datatypes__map.html#ga680cb75c8d9f3769064128e9c3d5800e" title="Dump each map entry to the console." alt="" coords="206,183,301,209"/>
+<area shape="rect" id="node9" href="$group__tools__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="191,233,316,260"/>
+<area shape="rect" id="node10" href="$group__tools__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="185,284,321,311"/>
+<area shape="rect" id="node11" href="$group__datatypes__table.html#gaafc45abc1b8026ee1518fad87a042be3" title="Dump a table to the console." alt="" coords="204,335,303,361"/>
+<area shape="rect" id="node3" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="8,5,135,32"/>
+<area shape="rect" id="node4" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="node5" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="14,107,129,133"/>
+<area shape="rect" id="node6" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="6,157,137,184"/>
+</map>

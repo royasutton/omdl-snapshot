@@ -1,0 +1,4 @@
+<map id="log_info" name="log_info">
+<area shape="rect" id="node1" title="Output information message to console." alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node2" href="$group__common__console.html#ga4fb6c985031c9b551777b2e9ebd2fc34" title="Format the function call stack as a string." alt="" coords="128,5,185,32"/>
+</map>

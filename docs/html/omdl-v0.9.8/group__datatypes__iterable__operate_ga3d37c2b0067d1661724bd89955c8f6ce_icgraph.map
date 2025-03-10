@@ -1,0 +1,52 @@
+<map id="defined_e_or" name="defined_e_or">
+<area shape="rect" id="node1" title="Return an element of an iterable when it exists or a default value otherwise." alt="" coords="649,1140,755,1167"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="267,406,363,432"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__clamps.html#ga8fd874789132e42e5470328d18560f1a" title="A clamp, bushing, and/or grip for wire/hose wall penetrations." alt="" coords="273,558,357,584"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="29,507,149,534"/>
+<area shape="rect" id="node5" href="$group__shapes__basic__3d.html#ga8a71b8cd52ae5ef7a2510ff579734108" title="A cone." alt="" coords="502,304,555,331"/>
+<area shape="rect" id="node6" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="276,254,353,280"/>
+<area shape="rect" id="node7" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="50,127,129,154"/>
+<area shape="rect" id="node9" href="$group__shapes__basic__3d.html#gaf1d71183e9f3fb9a5e48b8c9a67085d6" title="A cuboid with edge, round, or chamfer corners." alt="" coords="496,1216,561,1243"/>
+<area shape="rect" id="node10" href="$group__tools__drafting__primitive.html#gaeb2a388d77f8e435b02c4235e7791eda" title="Draft an arc with configurable style and optional arrowheads." alt="" coords="275,1368,354,1395"/>
+<area shape="rect" id="node11" href="$group__tools__drafting__dimension.html#ga6b8e17d22ac4a95d25a90be8a74c0689" title="Construct a angular dimension arc." alt="" coords="26,1380,153,1407"/>
+<area shape="rect" id="node12" href="$group__tools__drafting__primitive.html#ga6f12ccd4c9de0a8ab887184911f39c8f" title="Draft an arrowhead at the terminal point of a line." alt="" coords="481,1470,577,1496"/>
+<area shape="rect" id="node13" href="$group__tools__drafting__primitive.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="273,1571,356,1598"/>
+<area shape="rect" id="node14" href="$group__tools__drafting__operation.html#ga4e20419a6d4623f21c05179fc8b6df95" title="Construct drafting sheet axes." alt="" coords="45,1298,134,1324"/>
+<area shape="rect" id="node15" href="$group__tools__drafting__dimension.html#ga4866c090b81b437e2f1f707d28ad8ec7" title="Construct a center mark dimension cross." alt="" coords="23,1444,155,1471"/>
+<area shape="rect" id="node17" href="$group__tools__drafting__dimension.html#ga27a35e94597435a74e22d76789e9be5e" title="Construct a dimension line between two points." alt="" coords="32,1571,147,1598"/>
+<area shape="rect" id="node18" href="$group__tools__drafting__dimension.html#gaef1a8150a8ef7be88e086fb3dbab64a9" title="Construct a radial dimension line." alt="" coords="24,1622,155,1648"/>
+<area shape="rect" id="node20" href="$group__tools__drafting__primitive.html#ga20eb57e9d25186784df7428089e3a2ae" title="Draft a rectangle with configurable style." alt="" coords="29,1723,149,1750"/>
+<area shape="rect" id="node21" href="$group__tools__drafting__operation.html#ga49aac81a903cd453ea9cadc85e84e414" title="Construct a drafting sheet ruler." alt="" coords="45,1774,134,1800"/>
+<area shape="rect" id="node22" href="$group__tools__drafting__operation.html#gac1b780633ac5e2874a8a00177d98b305" title="Construct a text note with optional heading and boarder." alt="" coords="271,1520,359,1547"/>
+<area shape="rect" id="node23" href="$group__tools__drafting__operation.html#gabd9d0d4e3819d3bdec5e3649c8ad2c79" title="Construct a text table that is populated by predefined zones." alt="" coords="479,1824,578,1851"/>
+<area shape="rect" id="node24" href="$group__shapes__basic__2d.html#ga7d62c56f88b839dc7e879ff16f968ea2" title="An ellipse." alt="" coords="496,1014,561,1040"/>
+<area shape="rect" id="node25" href="$group__shapes__basic__2d.html#ga8925cd75276266667fbc1f0896482a7a" title="An ellipse sector." alt="" coords="275,1039,354,1066"/>
+<area shape="rect" id="node26" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="267,963,363,990"/>
+<area shape="rect" id="node27" href="$group__shapes__basic__3d.html#gae55c3490ba068ba5713b3de4302315de" title="An ellipsoid." alt="" coords="490,1115,567,1142"/>
+<area shape="rect" id="node28" href="$group__shapes__basic__3d.html#ga842bd62179b57e3d01ea32b64614f543" title="A sector of an ellipsoid." alt="" coords="269,1140,360,1167"/>
+<area shape="rect" id="node29" href="$group__tools__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="456,102,601,128"/>
+<area shape="rect" id="node30" href="$group__parts__3d__enclosure__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="246,203,383,230"/>
+<area shape="rect" id="node31" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="231,152,398,179"/>
+<area shape="rect" id="node32" href="$group__tools__extrude.html#ga78405b5fa18461a302a2f24646499ece" title="Translate, rotate, and revolve a 2d shape about the z&#45;axis with linear elongation." alt="" coords="459,659,598,686"/>
+<area shape="rect" id="node33" href="$group__tools__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="457,1926,600,1952"/>
+<area shape="rect" id="node34" href="$group__parts__3d__motion__bearing__linear__rod.html#ga48399d5e708b4894494c69b2d1e88e26" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="221,1900,408,1927"/>
+<area shape="rect" id="node35" href="$group__parts__3d__enclosure__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="243,507,387,534"/>
+<area shape="rect" id="node36" href="$group__parts__3d__enclosure__mounts.html#ga1a26f176e04863a2bf335960a52b39a8" title="A screw mount slot with optional cover envelope." alt="" coords="245,696,385,723"/>
+<area shape="rect" id="node37" href="$group__parts__3d__enclosure__mounts.html#gabc7cd409ab1e2e4b6b894de3cf06658f" title="A multi&#45;directional screw mount slot with optional cover envelope." alt="" coords="5,804,173,831"/>
+<area shape="rect" id="node38" href="$group__shapes__polygon.html#ga9c1bd914355d92f9d66ba0e5c2d9dbac" title="A polygon rectangle with vertex rounding." alt="" coords="475,203,582,230"/>
+<area shape="rect" id="node39" href="$group__shapes__polygon.html#ga22a29774c22e5cc9f3101ed0a0ed307a" title="A polygon rectangle with side rounding." alt="" coords="466,1976,591,2003"/>
+<area shape="rect" id="node40" href="$group__shapes__polygon.html#ga2ca38d6942a8955d3b483d1a60bf7ec3" title="A polygon rhombus with vertex rounding." alt="" coords="477,2027,580,2054"/>
+<area shape="rect" id="node41" href="$group__shapes__polyhedron__db.html#gaae64c8fb78026896742050d14a5e8911" title="Construct a named polyhedron." alt="" coords="458,2078,599,2104"/>
+<area shape="rect" id="node42" href="$group__shapes__basic__3d.html#gaaf63049f5c83cbb3b1f349b0a7a350e9" title="A pyramid with quadrilateral base." alt="" coords="483,2179,574,2206"/>
+<area shape="rect" id="node43" href="$group__shapes__basic__3d.html#gab99dacd3036b965579d68b1d3b7ee2d8" title="A three&#45;dimensional star." alt="" coords="283,2154,346,2180"/>
+<area shape="rect" id="node44" href="$group__shapes__basic__2d.html#ga9f679c29426c44ee83b4a13b5dd47138" title="A rectangle with corner rounds or chamfers." alt="" coords="487,811,570,838"/>
+<area shape="rect" id="node45" href="$group__shapes__basic__2d.html#ga803b8196745be0e3a338def3c58e3b2b" title="A rectangle with a removed rectangular core." alt="" coords="266,760,363,787"/>
+<area shape="rect" id="node46" href="$group__tools__repeat.html#gad3a61508128c356ec1348225ec9b3ce0" title="Repeat copies of child objects about a Cartesian grid." alt="" coords="481,2230,577,2256"/>
+<area shape="rect" id="node47" href="$group__shapes__basic__2d.html#ga89c8cb6f39cf9b045091f8b0434b25d0" title="A rhombus." alt="" coords="489,558,568,584"/>
+<area shape="rect" id="node48" href="$group__models__3d__fastener__screws.html#ga57dcfe1241e15eaa58ccd08891504a93" title="Flat and beveled&#45;head fastener bore with nut, nut slot, and bore tolerance." alt="" coords="481,406,577,432"/>
+<area shape="rect" id="node49" href="$group__models__3d__fastener__screws.html#gaad990187680f7ac947e555483d854bfa" title="Gapped fastener bore with engagement cylinders for self&#45;forming threads." alt="" coords="469,507,589,534"/>
+<area shape="rect" id="node50" href="$group__shapes__basic__2d.html#ga7452bf5414a3677ec806a31aed6b61dd" title="A two&#45;dimensional star." alt="" coords="497,2280,560,2307"/>
+<area shape="rect" id="node8" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="269,304,360,331"/>
+<area shape="rect" id="node16" href="$group__tools__drafting__dimension.html#ga5c4915c4c4464c5cdaefd501c2de261d" title="Construct a dimension leader line at a point." alt="" coords="23,1520,155,1547"/>
+<area shape="rect" id="node19" href="$group__tools__drafting__primitive.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="34,1672,145,1699"/>
+</map>

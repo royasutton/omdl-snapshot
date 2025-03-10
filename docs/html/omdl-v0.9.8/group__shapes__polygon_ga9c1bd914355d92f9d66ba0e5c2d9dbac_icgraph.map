@@ -1,0 +1,10 @@
+<map id="pg_rectangle" name="pg_rectangle">
+<area shape="rect" id="node1" title="A polygon rectangle with vertex rounding." alt="" coords="388,107,495,133"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="209,5,305,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="218,56,295,83"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="185,107,329,133"/>
+<area shape="rect" id="node6" href="$group__parts__3d__enclosure__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="188,157,325,184"/>
+<area shape="rect" id="node8" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga6a5d093d732e65556c46252220f2c4b6" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="173,208,340,235"/>
+<area shape="rect" id="node4" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="26,56,105,83"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__power__strip.html#ga191779dedf39e4fd769a8dc96b0f8c9e" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,183,125,209"/>
+</map>
