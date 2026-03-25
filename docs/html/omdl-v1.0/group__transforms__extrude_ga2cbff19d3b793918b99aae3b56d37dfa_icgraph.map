@@ -1,0 +1,4 @@
+<map id="extrude_rotate_trs" name="extrude_rotate_trs">
+<area shape="rect" id="node1" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="196,5,339,32"/>
+<area shape="rect" id="node2" href="$group__parts__3d__motion__bearing__linear__rod.html#ga0064887f7c89f8915895c0243bec4a4c" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,5,148,32"/>
+</map>

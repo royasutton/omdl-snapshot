@@ -1,0 +1,4 @@
+<map id="Common 2d" name="Common 2d">
+<area shape="rect" id="node1" title="Common 2D shape." alt="" coords="5,7,107,33"/>
+<area shape="rect" id="node2" href="$group__shapes.html" title="Common geometric shapes and foundational constructs." alt="" coords="269,7,339,33"/>
+</map>

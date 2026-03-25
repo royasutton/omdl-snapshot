@@ -1,0 +1,10 @@
+<map id="pg_triangle_sss" name="pg_triangle_sss">
+<area shape="rect" id="node1" title="A polygon triangle specified by three side lengths with vertex rounding." alt="" coords="5,132,128,159"/>
+<area shape="rect" id="node2" href="$group__shapes__polygon.html#gac7e2c70b3428b729efd86a675df794e6" title="A polygon triangle specified by three coordinate points with vertex rounding." alt="" coords="187,107,313,133"/>
+<area shape="rect" id="node8" href="$group__math__triangle.html#gaab9b812d15418fd05c9d93f3bfcc1989" title="Compute a set of vertex coordinates for a triangle given its side lengths in 2D." alt="" coords="176,157,324,184"/>
+<area shape="rect" id="node3" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="372,5,559,32"/>
+<area shape="rect" id="node4" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="418,56,513,83"/>
+<area shape="rect" id="node5" href="$group__math__triangle.html#gac0d11ca2c5035a9e53c1144f3774b0b4" title="Compute the center coordinate of a triangle&#39;s incircle in 2D." alt="" coords="391,107,539,133"/>
+<area shape="rect" id="node6" href="$group__math__triangle.html#ga51e8d8c2004f859d216790f7966b7dfd" title="Compute the centroid of a triangle." alt="" coords="399,157,531,184"/>
+<area shape="rect" id="node7" href="$group__math__triangle.html#ga5cf2801b07faec68a51ac3cd901bc4b0" title="Compute the coordinate of a triangle&#39;s circumcenter." alt="" coords="383,208,547,235"/>
+</map>

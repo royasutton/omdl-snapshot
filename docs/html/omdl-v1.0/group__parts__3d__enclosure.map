@@ -1,0 +1,7 @@
+<map id="Enclosure" name="Enclosure">
+<area shape="rect" id="node1" title="Project boxes, housings and enclosures." alt="" coords="129,98,215,123"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__enclosure__stand__rectangle.html" title="Stand maker for rectangular prism enclosures." alt="" coords="478,12,645,52"/>
+<area shape="rect" id="node4" href="$group__parts__3d__enclosure__power__strip.html" title="Electrical receptacle power strip generator." alt="" coords="513,106,609,131"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__project__box__rectangle.html" title="Rectangular prism project box generator." alt="" coords="472,170,651,195"/>
+<area shape="rect" id="node2" href="$group__parts__3d.html" title="3d parts, part generators, and small assemblies." alt="" coords="5,98,80,123"/>
+</map>

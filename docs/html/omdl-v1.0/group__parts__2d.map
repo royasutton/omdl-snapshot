@@ -1,0 +1,5 @@
+<map id="2d Parts" name="2d Parts">
+<area shape="rect" id="node1" title="2d parts, part generators, and small assemblies." alt="" coords="108,5,183,31"/>
+<area shape="rect" id="node3" href="$group__parts__2d__enclosure.html" title="Project boxes, housings and enclosures." alt="" coords="231,5,316,31"/>
+<area shape="rect" id="node2" href="$group__parts.html" title="Parametric design parts, generators, and small assemblies." alt="" coords="5,5,60,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Tools" name="Tools">
+<area shape="rect" id="node1" href="$group__tools__common.html" title="Common design tools and workflow utilities." alt="" coords="108,5,189,31"/>
+<area shape="rect" id="node2" href="$group__tools__2d.html" title="2d design tools and workflow utilities." alt="" coords="111,55,186,80"/>
+<area shape="rect" id="node3" title="Design workflow tools and design utilities." alt="" coords="5,31,60,56"/>
+</map>

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['radial_20ball_621',['Radial Ball',['../group__models__3d__motion__bearing__radial__ball.html',1,'']]],
+  ['radial_5fball_622',['radial_ball',['../group__database__component__motion__bearing__radial__ball.html',1,'(Global Namespace)'],['../group__models__3d__motion__bearing__radial__ball.html#ga3e39cd35457c1ceb70a6bb0e55022ee1',1,'radial_ball(n, a=1, s=false, c=true):&#160;bearing_radial_ball.scad']]],
+  ['rectangle_623',['rectangle',['../group__shapes__common__2d.html#ga8d313ecffdd059e84d007824ae89ff41',1,'common_2d.scad']]],
+  ['rectangle_5fc_624',['rectangle_c',['../group__shapes__common__2d.html#gaf840c9cc7a1bcdb09f023aa6543d36d2',1,'common_2d.scad']]],
+  ['rectangular_20enclosure_20stand_625',['Rectangular Enclosure Stand',['../group__parts__3d__enclosure__enclosure__stand__rectangle.html',1,'']]],
+  ['rectangular_20project_20box_626',['Rectangular Project Box',['../group__parts__3d__enclosure__project__box__rectangle.html',1,'']]],
+  ['repeat_627',['Repeat',['../group__transforms__repeat.html',1,'']]],
+  ['repeat_2escad_628',['repeat.scad',['../repeat_8scad.html',1,'']]],
+  ['repeat_5fgrid_629',['repeat_grid',['../group__transforms__repeat.html#gad3a61508128c356ec1348225ec9b3ce0',1,'repeat.scad']]],
+  ['repeat_5fradial_630',['repeat_radial',['../group__transforms__repeat.html#ga8da1e3a852a1b25ba93437a6fe46745f',1,'repeat.scad']]],
+  ['replace_5ffirst_631',['replace_first',['../group__datatypes__iterable__operate.html#gabe6c36f8b75e9a26cc4e6259fbc406bf',1,'iterable_operate.scad']]],
+  ['resize_5fp_632',['resize_p',['../group__math__linear__algebra.html#gac14f8e19291d8e58501461fc0c402310',1,'linear_algebra.scad']]],
+  ['results_633',['Results',['../tv_datatypes_binary_r.html',1,'tv_datatypes_binary'],['../tv_datatypes_euclidean_r.html',1,'tv_datatypes_euclidean'],['../tv_datatypes_iterable_operate_r.html',1,'tv_datatypes_iterable_operate'],['../tv_datatypes_iterable_test_r.html',1,'tv_datatypes_iterable_test'],['../tv_datatypes_list_inspect_r.html',1,'tv_datatypes_list_inspect'],['../tv_datatypes_list_operate_r.html',1,'tv_datatypes_list_operate'],['../tv_datatypes_map_r.html',1,'tv_datatypes_map'],['../tv_datatypes_scalar_operate_r.html',1,'tv_datatypes_scalar_operate'],['../tv_datatypes_scalar_test_r.html',1,'tv_datatypes_scalar_test'],['../tv_datatypes_table_r.html',1,'tv_datatypes_table'],['../tv_math_linear_algebra_r.html',1,'tv_math_linear_algebra'],['../tv_math_polygon_r.html',1,'tv_math_polygon'],['../tv_math_polyhedron_r.html',1,'tv_math_polyhedron'],['../tv_math_polytope_r.html',1,'tv_math_polytope'],['../tv_math_triangle_r.html',1,'tv_math_triangle'],['../tv_math_utility_r.html',1,'tv_math_utility'],['../tv_units_angle_r.html',1,'tv_units_angle'],['../tv_units_coordinate_r.html',1,'tv_units_coordinate'],['../tv_units_length_r.html',1,'tv_units_length']]],
+  ['reverse_634',['reverse',['../group__datatypes__iterable__operate.html#gafb1f112a3ab162d589c49d1b2de21b9e',1,'iterable_operate.scad']]],
+  ['revolutions_635',['Revolutions',['../group__shapes__revolved.html',1,'']]],
+  ['revolved_2escad_636',['revolved.scad',['../revolved_8scad.html',1,'']]],
+  ['rhombus_637',['rhombus',['../group__shapes__common__2d.html#ga418d0856a660b285e273037b014d31f7',1,'common_2d.scad']]],
+  ['riser_5faaapcie4hub_638',['riser_AAAPCIE4HUB',['../group__parts__3d__computer__pcie__expansion.html#gac25cbf090b20e1ec23c45da534ffb4d9',1,'pcie_expansion.scad']]],
+  ['riser_5fpcb_5fdef_639',['riser_pcb_def',['../group__parts__3d__computer__pcie__expansion.html#ga02391b43e0619504ed090196025e2dea',1,'pcie_expansion.scad']]],
+  ['riser_5fpce164p_5fno3_5fver_5f007_640',['riser_PCE164P_NO3_VER_007',['../group__parts__3d__computer__pcie__expansion.html#ga5a353f95e5d2429f18378510f15927af',1,'pcie_expansion.scad']]],
+  ['riser_5fsff_5f8612_5f4x_5fto_5fpci_5fe_5f16x_641',['riser_SFF_8612_4X_to_PCI_E_16X',['../group__parts__3d__computer__pcie__expansion.html#ga72073fca5d0ec43aacde1b6c5a8cf511',1,'pcie_expansion.scad']]],
+  ['rotate_5fp_642',['rotate_p',['../group__math__linear__algebra.html#ga47831370680bac8efb1fe7ab256978bb',1,'linear_algebra.scad']]],
+  ['round_5fd_643',['round_d',['../group__datatypes__list__operate.html#ga0af5678e346d62c1163afbfb604ab62a',1,'list_operate.scad']]],
+  ['round_5fs_644',['round_s',['../group__datatypes__list__operate.html#gab8c413e8ab85026e681a97cee974aae1',1,'list_operate.scad']]],
+  ['rsc_645',['rsc',['../group__database__component__structural__utility__pipe__rsc.html',1,'']]]
+];

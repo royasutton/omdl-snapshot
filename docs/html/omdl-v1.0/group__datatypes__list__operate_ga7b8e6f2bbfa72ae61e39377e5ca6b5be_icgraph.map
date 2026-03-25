@@ -1,0 +1,29 @@
+<map id="select_ci" name="select_ci">
+<area shape="rect" id="node1" title="Select specified element from list or return a default." alt="" coords="685,566,764,593"/>
+<area shape="rect" id="node2" href="$group__transforms__align.html#ga8a1b75b5a53478f7ce1ca287cc479364" title="Align an objects Cartesian axis to reference line or vector." alt="" coords="271,34,344,61"/>
+<area shape="rect" id="node3" href="$group__transforms__align.html#gac695554e76def13eeb5a15a349f5fa12" title="Align a line or vector to a reference line or vector." alt="" coords="505,60,574,86"/>
+<area shape="rect" id="node4" href="$group__parts__3d__motion__bearing__linear__rod.html#ga0064887f7c89f8915895c0243bec4a4c" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="468,110,611,137"/>
+<area shape="rect" id="node5" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="259,212,355,238"/>
+<area shape="rect" id="node6" href="$group__parts__3d__fastener__clamps.html#gac715fdab9961aff45be668fb23556835" title="A one piece zip tie clamp to secure wires or provide strain relief." alt="" coords="487,693,591,720"/>
+<area shape="rect" id="node7" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="28,718,151,745"/>
+<area shape="rect" id="node8" href="$group__parts__3d__enclosure__enclosure__stand__rectangle.html#gaa6bbb5648edd144f66059f9b31aa2865" title="A stand maker for rectangular project boxes, housings, and enclosures." alt="" coords="441,845,637,872"/>
+<area shape="rect" id="node9" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="50,212,129,238"/>
+<area shape="rect" id="node10" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="269,262,346,289"/>
+<area shape="rect" id="node11" href="$group__models__2d__joint__box__screw.html#ga78ef0c1346c6e79260781ee9a9fff0bf" title="Create 2d edge profiles for screw and nut box joint construction." alt="" coords="468,896,611,922"/>
+<area shape="rect" id="node13" href="$group__models__2d__joint__dovetail.html#gadccba989c93e8e44be057de39d99758a" title="Create 2D edge profiles for dovetail joint construction." alt="" coords="476,744,603,770"/>
+<area shape="rect" id="node14" href="$group__models__3d__joint__dovetail__screw.html#ga20f61ef0d29434a144ec653c6320f77f" title="Construct a 3d dovetail joint with optional screw and nut fastener." alt="" coords="221,313,393,340"/>
+<area shape="rect" id="node15" href="$group__models__3d__motion__bearing__linear__lmxuu.html#gaee2c61ec287975e6d54ade77e3c8010c" title="Linear motion bearing model." alt="" coords="486,946,593,973"/>
+<area shape="rect" id="node16" href="$group__parts__3d__fastener__mounts.html#ga1a26f176e04863a2bf335960a52b39a8" title="A screw mount slot with optional cover envelope." alt="" coords="237,364,377,390"/>
+<area shape="rect" id="node19" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="262,617,353,644"/>
+<area shape="rect" id="node20" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="491,997,587,1024"/>
+<area shape="rect" id="node21" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="224,668,391,694"/>
+<area shape="rect" id="node22" href="$group__models__3d__motion__bearing__radial__ball.html#ga3e39cd35457c1ceb70a6bb0e55022ee1" title="Radial ball bearing model." alt="" coords="494,1048,585,1074"/>
+<area shape="rect" id="node23" href="$group__models__3d__fastener__screws.html#ga57dcfe1241e15eaa58ccd08891504a93" title="Flat and beveled&#45;head fastener bore with nut, nut slot, and bore tolerance." alt="" coords="491,414,587,441"/>
+<area shape="rect" id="node27" href="$group__models__3d__fastener__screws.html#gaad990187680f7ac947e555483d854bfa" title="Gapped fastener bore with engagement cylinders for self&#45;forming threads." alt="" coords="479,541,599,568"/>
+<area shape="rect" id="node12" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="236,896,379,922"/>
+<area shape="rect" id="node17" href="$group__parts__3d__fastener__mounts.html#gabc7cd409ab1e2e4b6b894de3cf06658f" title="A multi&#45;directional screw mount slot with optional cover envelope." alt="" coords="5,364,173,390"/>
+<area shape="rect" id="node18" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="29,490,149,517"/>
+<area shape="rect" id="node24" href="$group__parts__3d__fastener__clamps.html#gad5d667c41776480785c62759c61a137e" title="A clamp, bushing, and/or grip for wire, hose, and/or pipe wall penetrations." alt="" coords="265,516,349,542"/>
+<area shape="rect" id="node25" href="$group__parts__3d__fastener__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="235,566,379,593"/>
+<area shape="rect" id="node26" href="$group__parts__3d__fastener__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="239,465,376,492"/>
+</map>

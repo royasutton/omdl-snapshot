@@ -1,0 +1,16 @@
+<map id="strl" name="strl">
+<area shape="rect" id="node1" title="Convert a list of values to a concatenated string." alt="" coords="633,302,676,328"/>
+<area shape="rect" id="node2" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="188,99,331,126"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="440,352,536,379"/>
+<area shape="rect" id="node4" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="220,428,299,455"/>
+<area shape="rect" id="node5" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="449,403,527,430"/>
+<area shape="rect" id="node6" href="$group__transforms__layout.html#gad8eb4ce3a4707e71e80f4f5c8c3faa32" title="A transform sequence to place a child shape." alt="" coords="433,504,543,531"/>
+<area shape="rect" id="node7" href="$group__transforms__layout.html#ga36a7e290a310a680c8e9834c8e10bec3" title="A transform sequence to replicate and place a child shape." alt="" coords="431,99,545,126"/>
+<area shape="rect" id="node8" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="176,175,343,202"/>
+<area shape="rect" id="node9" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="5,131,128,158"/>
+<area shape="rect" id="node10" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="7,219,127,246"/>
+<area shape="rect" id="node11" href="$group__shapes__select__common__2d.html#gadde46fda315aab438eda3f752fec2aed" title="Select configure and construct one of the available 2d shapes." alt="" coords="391,150,585,176"/>
+<area shape="rect" id="node12" href="$group__shapes__select__common__3d.html#ga3fd7f214eff2f5935ad1bb56415a4aaf" title="Select configure and construct one of the available 3d shapes." alt="" coords="391,251,585,278"/>
+<area shape="rect" id="node13" href="$group__datatypes__table.html#gab0c2216f9d2258132556413c9a4317e5" title="Dump a table to the console." alt="" coords="439,555,537,582"/>
+<area shape="rect" id="node14" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="441,606,535,632"/>
+</map>

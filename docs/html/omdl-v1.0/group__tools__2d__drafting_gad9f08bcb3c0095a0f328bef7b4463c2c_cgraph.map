@@ -1,0 +1,7 @@
+<map id="draft_rectangle" name="draft_rectangle">
+<area shape="rect" id="node1" title="Draft a rectangle with configurable style." alt="" coords="5,56,125,83"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="328,5,433,32"/>
+<area shape="rect" id="node3" href="$group__tools__2d__drafting.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="185,56,268,83"/>
+<area shape="rect" id="node5" href="$group__datatypes__iterable__operate.html#gadb933df06b10d64dda8823069bdc84b7" title="Return a list of all n&#45;element sequential&#45;subsets of an iterable value." alt="" coords="173,107,280,133"/>
+<area shape="rect" id="node4" href="$group__datatypes__iterable__test.html#ga4dfc58aa5f208e103e622684db817ce6" title="Test if all elements of an iterable value equal a comparison value." alt="" coords="340,56,421,83"/>
+</map>

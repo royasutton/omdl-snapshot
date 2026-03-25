@@ -1,0 +1,15 @@
+<map id="sum" name="sum">
+<area shape="rect" id="node1" title="Compute the sum of a list of numbers." alt="" coords="611,299,661,325"/>
+<area shape="rect" id="node2" href="$group__transforms__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="412,223,563,249"/>
+<area shape="rect" id="node12" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="197,400,364,427"/>
+<area shape="rect" id="node3" href="$group__parts__3d__motion__bearing__linear__rod.html#ga0064887f7c89f8915895c0243bec4a4c" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="209,147,352,173"/>
+<area shape="rect" id="node4" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="233,197,329,224"/>
+<area shape="rect" id="node5" href="$group__parts__3d__fastener__clamps.html#gad5d667c41776480785c62759c61a137e" title="A clamp, bushing, and/or grip for wire, hose, and/or pipe wall penetrations." alt="" coords="239,248,323,275"/>
+<area shape="rect" id="node8" href="$group__parts__3d__fastener__clamps.html#gac715fdab9961aff45be668fb23556835" title="A one piece zip tie clamp to secure wires or provide strain relief." alt="" coords="229,96,333,123"/>
+<area shape="rect" id="node9" href="$group__parts__3d__fastener__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="5,20,149,47"/>
+<area shape="rect" id="node10" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="235,349,326,376"/>
+<area shape="rect" id="node11" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="233,299,329,325"/>
+<area shape="rect" id="node13" href="$group__models__3d__fastener__screws.html#gaad990187680f7ac947e555483d854bfa" title="Gapped fastener bore with engagement cylinders for self&#45;forming threads." alt="" coords="221,45,341,72"/>
+<area shape="rect" id="node6" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="16,248,139,275"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="17,349,137,376"/>
+</map>

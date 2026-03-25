@@ -1,0 +1,7 @@
+<map id="pg_trapezoid" name="pg_trapezoid">
+<area shape="rect" id="node1" title="A polygon trapezoid with individual vertex rounding and arc facets." alt="" coords="5,81,112,108"/>
+<area shape="rect" id="node2" href="$group__math__polygon.html#gadd2e4f80e8c8f0aafa04f9a70a7c617e" title="Compute the center of mass of a polygon in a Euclidean 2d&#45;space." alt="" coords="186,5,321,32"/>
+<area shape="rect" id="node3" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="160,56,347,83"/>
+<area shape="rect" id="node4" href="$group__math__polygon.html#ga45b00b87d541c116f7d4a403f5fcd2f5" title="Compute the coordinates for a rounded trapezoid in 2D space." alt="" coords="175,107,332,133"/>
+<area shape="rect" id="node5" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="206,157,301,184"/>
+</map>

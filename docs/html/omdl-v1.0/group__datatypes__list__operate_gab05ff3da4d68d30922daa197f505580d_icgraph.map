@@ -1,0 +1,6 @@
+<map id="consts" name="consts">
+<area shape="rect" id="node1" title="Create a list of constant or incrementing elements." alt="" coords="189,56,253,83"/>
+<area shape="rect" id="node2" href="$group__tools__common__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="11,5,136,32"/>
+<area shape="rect" id="node3" href="$group__tools__common__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="5,56,141,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__table.html#gab0c2216f9d2258132556413c9a4317e5" title="Dump a table to the console." alt="" coords="24,107,123,133"/>
+</map>

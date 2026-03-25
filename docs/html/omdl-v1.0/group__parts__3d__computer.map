@@ -1,0 +1,6 @@
+<map id="Computer" name="Computer">
+<area shape="rect" id="node1" href="$group__parts__3d.html" title="3d parts, part generators, and small assemblies." alt="" coords="5,41,80,67"/>
+<area shape="rect" id="node4" title="Mechanical computer parts." alt="" coords="129,41,216,67"/>
+<area shape="rect" id="node2" href="$group__parts__3d__computer__pci__bracket.html" title="PCI slot cover bracket generator." alt="" coords="414,9,509,35"/>
+<area shape="rect" id="node3" href="$group__parts__3d__computer__pcie__expansion.html" title="PCI Express expansion chassis and/or enclosure generator." alt="" coords="400,73,523,99"/>
+</map>

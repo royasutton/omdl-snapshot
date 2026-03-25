@@ -1,0 +1,5 @@
+<map id="ngon" name="ngon">
+<area shape="rect" id="node1" title="An n&#45;sided equiangular/equilateral regular polygon." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="127,5,232,32"/>
+<area shape="rect" id="node3" href="$group__math__polygon.html#ga8c717f95615525c0b53693ba1f5fdb69" title="Compute coordinates for an n&#45;sided regular polygon in 2D." alt="" coords="108,56,251,83"/>
+</map>

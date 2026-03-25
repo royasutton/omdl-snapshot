@@ -1,0 +1,5 @@
+<map id="line_ip" name="line_ip">
+<area shape="rect" id="node1" title="Return the initial point of a line or vector." alt="" coords="244,5,309,32"/>
+<area shape="rect" id="node2" href="$group__transforms__align.html#gac695554e76def13eeb5a15a349f5fa12" title="Align a line or vector to a reference line or vector." alt="" coords="127,5,196,32"/>
+<area shape="rect" id="node3" href="$group__transforms__align.html#ga8a1b75b5a53478f7ce1ca287cc479364" title="Align an objects Cartesian axis to reference line or vector." alt="" coords="5,5,79,32"/>
+</map>

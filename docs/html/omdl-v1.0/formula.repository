@@ -1,0 +1,9 @@
+\_form#0=53x9:$ \mathbf{p}_0, \mathbf{p}_1, \mathbf{p}_2 $
+\_form#1=114x26:\[ V_i = \frac{1}{6}\, \mathbf{p}_0 \cdot (\mathbf{p}_1 \times \mathbf{p}_2) \]
+\_form#2=58x28:\[ V = \sum_i V_i \]
+\_form#3=104x14:\[ w_i = \mathbf{p}_0 \cdot (\mathbf{p}_1 \times \mathbf{p}_2) \]
+\_form#4=124x14:\[ \mathbf{g}_i = (\mathbf{p}_0 + \mathbf{p}_1 + \mathbf{p}_2)\, w_i \]
+\_form#5=61x43:\[ \mathbf{G} = \frac{\displaystyle\sum_i \mathbf{g}_i}{24\,V} \]
+\_form#6=10x10:$ V $
+\_form#7=31x15:$ O(h^2) $
+\_form#8=8x10:$ h $

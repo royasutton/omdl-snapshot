@@ -1,0 +1,6 @@
+<map id="orient_ll" name="orient_ll">
+<area shape="rect" id="node1" title="Orient a line or vector to a reference line or vector." alt="" coords="5,56,80,83"/>
+<area shape="rect" id="node2" href="$group__datatypes__euclidean.html#ga3d5c07c70f271bcf9144f50ce8620a89" title="Compute the angle between two lines or vectors in a 3d or 2d&#45;space." alt="" coords="145,5,218,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__euclidean.html#ga78d67c74076bef2e80a95b1e9b6eb2d7" title="Return 3d point unchanged or add a zeroed third dimension to 2d point." alt="" coords="132,56,231,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__euclidean.html#ga6ef2a81f304d31b9ec9753ca4875ad45" title="Convert line to vector by shifting it to the origin." alt="" coords="128,107,235,133"/>
+</map>

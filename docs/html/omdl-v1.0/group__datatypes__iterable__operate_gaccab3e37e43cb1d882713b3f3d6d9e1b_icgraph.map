@@ -1,0 +1,34 @@
+<map id="first" name="first">
+<area shape="rect" id="node1" title="Return the first element of an iterable value." alt="" coords="899,541,945,568"/>
+<area shape="rect" id="node2" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="209,705,352,732"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="233,47,329,73"/>
+<area shape="rect" id="node4" href="$group__parts__3d__fastener__clamps.html#gac715fdab9961aff45be668fb23556835" title="A one piece zip tie clamp to secure wires or provide strain relief." alt="" coords="229,401,333,428"/>
+<area shape="rect" id="node5" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="16,401,139,428"/>
+<area shape="rect" id="node6" href="$group__tools__2d__drafting.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="697,199,808,225"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__enclosure__stand__rectangle.html#gaa6bbb5648edd144f66059f9b31aa2865" title="A stand maker for rectangular project boxes, housings, and enclosures." alt="" coords="655,249,851,276"/>
+<area shape="rect" id="node8" href="$group__transforms__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="434,199,585,225"/>
+<area shape="rect" id="node11" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="17,553,137,580"/>
+<area shape="rect" id="node14" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="233,97,329,124"/>
+<area shape="rect" id="node15" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="197,452,364,479"/>
+<area shape="rect" id="node17" href="$group__transforms__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="680,579,825,605"/>
+<area shape="rect" id="node18" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="471,807,548,833"/>
+<area shape="rect" id="node21" href="$group__parts__3d__fastener__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="441,857,578,884"/>
+<area shape="rect" id="node22" href="$group__shapes__polygon.html#ga22a29774c22e5cc9f3101ed0a0ed307a" title="A polygon rectangle with side rounding." alt="" coords="690,515,815,541"/>
+<area shape="rect" id="node24" href="$group__shapes__polyhedron__db.html#gae2635420611b120f6f9332ae9fd3c3d1" title="Construct a named polyhedron." alt="" coords="682,432,823,459"/>
+<area shape="rect" id="node26" href="$group__tools__common__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="690,959,815,985"/>
+<area shape="rect" id="node27" href="$group__tools__common__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="685,1009,821,1036"/>
+<area shape="rect" id="node28" href="$group__datatypes__table.html#ga8a4429649e8b06d9f492e1a0d2653656" title="Perform basic format checks on a table and output errors to console." alt="" coords="703,1060,803,1087"/>
+<area shape="rect" id="node31" href="$group__datatypes__table.html#gab0c2216f9d2258132556413c9a4317e5" title="Dump a table to the console." alt="" coords="703,1111,802,1137"/>
+<area shape="rect" id="node32" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="705,1161,800,1188"/>
+<area shape="rect" id="node9" href="$group__parts__3d__motion__bearing__linear__rod.html#ga0064887f7c89f8915895c0243bec4a4c" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="209,249,352,276"/>
+<area shape="rect" id="node10" href="$group__parts__3d__fastener__clamps.html#gad5d667c41776480785c62759c61a137e" title="A clamp, bushing, and/or grip for wire, hose, and/or pipe wall penetrations." alt="" coords="239,300,323,327"/>
+<area shape="rect" id="node12" href="$group__parts__3d__fastener__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="5,173,149,200"/>
+<area shape="rect" id="node13" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="235,351,326,377"/>
+<area shape="rect" id="node16" href="$group__models__3d__fastener__screws.html#gaad990187680f7ac947e555483d854bfa" title="Gapped fastener bore with engagement cylinders for self&#45;forming threads." alt="" coords="221,148,341,175"/>
+<area shape="rect" id="node20" href="$group__models__3d__joint__dovetail__screw.html#ga20f61ef0d29434a144ec653c6320f77f" title="Construct a 3d dovetail joint with optional screw and nut fastener." alt="" coords="423,604,595,631"/>
+<area shape="rect" id="node19" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="241,807,320,833"/>
+<area shape="rect" id="node23" href="$group__shapes__select__common__2d.html#gadde46fda315aab438eda3f752fec2aed" title="Select configure and construct one of the available 2d shapes." alt="" coords="412,503,607,529"/>
+<area shape="rect" id="node25" href="$group__shapes__select__common__3d.html#ga3fd7f214eff2f5935ad1bb56415a4aaf" title="Select configure and construct one of the available 3d shapes." alt="" coords="412,401,607,428"/>
+<area shape="rect" id="node29" href="$group__datatypes__table.html#ga7a45ee72b36421f4e73cfba4488f14be" title="Dump table getter functions to the console." alt="" coords="433,1035,585,1061"/>
+<area shape="rect" id="node30" href="$group__common__validation.html#ga19d0234700fba9de9fb0cba52a3d8e17" title="Test data structure db and output the start of test to the test log." alt="" coords="433,1085,585,1112"/>
+</map>

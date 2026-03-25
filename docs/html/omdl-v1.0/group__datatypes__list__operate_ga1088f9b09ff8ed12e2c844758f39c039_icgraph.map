@@ -1,0 +1,6 @@
+<map id="mean" name="mean">
+<area shape="rect" id="node1" title="Compute the mean/average of a list of numbers." alt="" coords="311,31,369,57"/>
+<area shape="rect" id="node2" href="$group__transforms__align.html#gac695554e76def13eeb5a15a349f5fa12" title="Align a line or vector to a reference line or vector." alt="" coords="160,5,229,32"/>
+<area shape="rect" id="node4" href="$group__tools__common__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="127,56,263,83"/>
+<area shape="rect" id="node3" href="$group__transforms__align.html#ga8a1b75b5a53478f7ce1ca287cc479364" title="Align an objects Cartesian axis to reference line or vector." alt="" coords="5,5,79,32"/>
+</map>

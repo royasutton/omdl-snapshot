@@ -1,0 +1,33 @@
+<map id="polygon_round_eve_all_p" name="polygon_round_eve_all_p">
+<area shape="rect" id="node1" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="1051,668,1237,695"/>
+<area shape="rect" id="node2" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="188,846,331,872"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="440,390,536,416"/>
+<area shape="rect" id="node4" href="$group__parts__3d__fastener__clamps.html#gad5d667c41776480785c62759c61a137e" title="A clamp, bushing, and/or grip for wire, hose, and/or pipe wall penetrations." alt="" coords="217,136,301,163"/>
+<area shape="rect" id="node5" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="5,592,128,619"/>
+<area shape="rect" id="node7" href="$group__shapes__common__3d.html#ga5075cfcc6967fb610e308f08da3fb059" title="A cone." alt="" coords="669,238,723,264"/>
+<area shape="rect" id="node10" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="443,35,533,62"/>
+<area shape="rect" id="node13" href="$group__parts__3d__enclosure__enclosure__stand__rectangle.html#gaa6bbb5648edd144f66059f9b31aa2865" title="A stand maker for rectangular project boxes, housings, and enclosures." alt="" coords="807,618,1003,644"/>
+<area shape="rect" id="node14" href="$group__models__2d__joint__dovetail.html#gadccba989c93e8e44be057de39d99758a" title="Create 2D edge profiles for dovetail joint construction." alt="" coords="425,998,551,1024"/>
+<area shape="rect" id="node15" href="$group__models__3d__joint__dovetail__screw.html#ga20f61ef0d29434a144ec653c6320f77f" title="Construct a 3d dovetail joint with optional screw and nut fastener." alt="" coords="402,440,574,467"/>
+<area shape="rect" id="node16" href="$group__shapes__polygon.html#ga3587861a50ac45aeabace1df584094d1" title="A n&#45;sided regular polygon with vertex rounding." alt="" coords="866,820,943,847"/>
+<area shape="rect" id="node18" href="$group__shapes__polygon.html#ga9c1bd914355d92f9d66ba0e5c2d9dbac" title="A polygon rectangle with vertex rounding." alt="" coords="643,491,749,518"/>
+<area shape="rect" id="node23" href="$group__shapes__polygon.html#ga2ca38d6942a8955d3b483d1a60bf7ec3" title="A polygon rhombus with vertex rounding." alt="" coords="853,896,956,923"/>
+<area shape="rect" id="node24" href="$group__shapes__polygon.html#ga155ae943a1aa91432b1992fd1de364c2" title="A polygon trapezoid with individual vertex rounding and arc facets." alt="" coords="643,1099,749,1126"/>
+<area shape="rect" id="node26" href="$group__shapes__polygon.html#gac7e2c70b3428b729efd86a675df794e6" title="A polygon triangle specified by three coordinate points with vertex rounding." alt="" coords="841,668,968,695"/>
+<area shape="rect" id="node31" href="$group__shapes__common__2d.html#ga0e810e30a9ec109e004677036012c428" title="A two&#45;dimensional star." alt="" coords="873,744,936,771"/>
+<area shape="rect" id="node6" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="7,238,127,264"/>
+<area shape="rect" id="node8" href="$group__parts__3d__fastener__hinges.html#ga7e350f2c55116094108b99dd8103fc04" title="A print&#45;in&#45;place single&#45;fold hinge generator." alt="" coords="449,339,527,366"/>
+<area shape="rect" id="node11" href="$group__shapes__select__common__3d.html#ga3fd7f214eff2f5935ad1bb56415a4aaf" title="Select configure and construct one of the available 3d shapes." alt="" coords="391,288,585,315"/>
+<area shape="rect" id="node9" href="$group__parts__3d__fastener__hinges.html#ga1ffc82e0bbac466d1dc4fbe6c214b765" title="A print&#45;in&#45;place bi&#45;fold hinge generator." alt="" coords="220,339,299,366"/>
+<area shape="rect" id="node12" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="176,643,343,670"/>
+<area shape="rect" id="node17" href="$group__shapes__select__common__2d.html#gadde46fda315aab438eda3f752fec2aed" title="Select configure and construct one of the available 2d shapes." alt="" coords="391,846,585,872"/>
+<area shape="rect" id="node19" href="$group__parts__3d__fastener__clamps.html#gac715fdab9961aff45be668fb23556835" title="A one piece zip tie clamp to secure wires or provide strain relief." alt="" coords="207,542,311,568"/>
+<area shape="rect" id="node20" href="$group__models__2d__joint__box__screw.html#ga78ef0c1346c6e79260781ee9a9fff0bf" title="Create 2d edge profiles for screw and nut box joint construction." alt="" coords="417,643,559,670"/>
+<area shape="rect" id="node21" href="$group__parts__3d__fastener__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="416,795,560,822"/>
+<area shape="rect" id="node22" href="$group__parts__3d__fastener__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="419,694,557,720"/>
+<area shape="rect" id="node25" href="$group__shapes__revolved.html#ga69b374bbebd7d87cfcd06b6bd3278404" title="A trapezoidal cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="415,1099,561,1126"/>
+<area shape="rect" id="node27" href="$group__shapes__polygon.html#gad85d14f73179499777da1e9297fbcae8" title="A polygon triangle specified by angle&#45;angle&#45;size with vertex rounding." alt="" coords="633,592,759,619"/>
+<area shape="rect" id="node28" href="$group__shapes__polygon.html#ga45e8a17aef3dd6755f833f25a8937cf7" title="A polygon triangle specified by angle&#45;size&#45;angle with vertex rounding." alt="" coords="633,542,759,568"/>
+<area shape="rect" id="node29" href="$group__shapes__polygon.html#ga24be160074502dce7ff8a78361d4b074" title="A polygon triangle specified by size&#45;angle&#45;size with vertex rounding." alt="" coords="634,643,758,670"/>
+<area shape="rect" id="node30" href="$group__shapes__polygon.html#gab9843df753e0537b490ac67cec6e31a9" title="A polygon triangle specified by three side lengths with vertex rounding." alt="" coords="635,694,757,720"/>
+</map>

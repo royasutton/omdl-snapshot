@@ -1,0 +1,156 @@
+      
+project_name = omdl       
+project_version = v1.0       
+project_brief = OpenSCAD Mechanical Design Library      
+     
+os = Linux       
+arch = x86_64      
+     
+date = 260324       
+time = 1908   
+       
+[release_files] 
+   README.md 
+   gnu-lgpl-v2.1.txt      
+      
+[release_archive_files] 
+   README.md 
+   gnu-lgpl-v2.1.txt 
+   docs_home.scad 
+   docs_topics.scad 
+   omdl-base.scad 
+   common/docs_group.scad 
+   common/console.scad 
+   common/constants.scad 
+   common/validation.scad 
+   datatypes/docs_group.scad 
+   datatypes/scalar_test.scad 
+   datatypes/scalar_operate.scad 
+   datatypes/iterable_test.scad 
+   datatypes/iterable_operate.scad 
+   datatypes/list_operate.scad 
+   datatypes/list_inspect.scad 
+   datatypes/euclidean.scad 
+   datatypes/binary.scad 
+   datatypes/map.scad 
+   datatypes/table.scad 
+   math/docs_group.scad 
+   math/linear_algebra.scad 
+   math/polygon.scad 
+   math/polyhedron.scad 
+   math/polytope.scad 
+   math/triangle.scad 
+   math/utility.scad 
+   models/docs_group.scad 
+   models/2d/docs_group.scad 
+   models/2d/joint/docs_group.scad 
+   models/2d/joint/dovetail.scad 
+   models/2d/joint/box_screw.scad 
+   models/3d/docs_group.scad 
+   models/3d/fastener/docs_group.scad 
+   models/3d/fastener/screws.scad 
+   models/3d/joint/docs_group.scad 
+   models/3d/joint/dovetail_screw.scad 
+   models/3d/misc/docs_group.scad 
+   models/3d/misc/omdl_logo.scad 
+   models/3d/motion/docs_group.scad 
+   models/3d/motion/bearing_linear_lmxuu.scad 
+   models/3d/motion/bearing_radial_ball.scad 
+   parts/docs_group.scad 
+   parts/2d/docs_group.scad 
+   parts/2d/enclosure/docs_group.scad 
+   parts/2d/enclosure/box_finger_joint.scad 
+   parts/3d/docs_group.scad 
+   parts/3d/computer/docs_group.scad 
+   parts/3d/computer/pci_bracket.scad 
+   parts/3d/computer/pcie_expansion.scad 
+   parts/3d/enclosure/docs_group.scad 
+   parts/3d/enclosure/power_strip.scad 
+   parts/3d/enclosure/project_box_rectangle.scad 
+   parts/3d/enclosure/enclosure_stand_rectangle.scad 
+   parts/3d/fastener/docs_group.scad 
+   parts/3d/fastener/catch_latch.scad 
+   parts/3d/fastener/clamps.scad 
+   parts/3d/fastener/hinges.scad 
+   parts/3d/fastener/mounts.scad 
+   parts/3d/motion/docs_group.scad 
+   parts/3d/motion/bearing_linear_rod.scad 
+   shapes/docs_group.scad 
+   shapes/common_2d.scad 
+   shapes/common_3d.scad 
+   shapes/polygon.scad 
+   shapes/revolved.scad 
+   shapes/polyhedron_db.scad 
+   shapes/select_common_2d.scad 
+   shapes/select_common_3d.scad 
+   tools/docs_group.scad 
+   tools/common/docs_group.scad 
+   tools/common/polytope.scad 
+   tools/2d/docs_group.scad 
+   tools/2d/turtle_path.scad 
+   tools/2d/drafting/docs_group.scad 
+   tools/2d/drafting/config.scad 
+   tools/2d/drafting/primitive.scad 
+   tools/2d/drafting/operation.scad 
+   tools/2d/drafting/dimension.scad 
+   tools/2d/drafting/draft-base.scad 
+   transforms/docs_group.scad 
+   transforms/align.scad 
+   transforms/base_cs.scad 
+   transforms/extrude.scad 
+   transforms/layout.scad 
+   transforms/repeat.scad 
+   units/docs_group.scad 
+   units/angle.scad 
+   units/coordinate.scad 
+   units/length.scad 
+   database/docs_group.scad 
+   database/component/docs_group.scad 
+   database/component/battery/docs_group.scad 
+   database/component/battery/button.scad 
+   database/component/battery/cylindrical.scad 
+   database/component/fastener/docs_group.scad 
+   database/component/fastener/ansi_b18_3_5m.scad 
+   database/component/fastener/din_125a.scad 
+   database/component/fastener/din_982_hp.scad 
+   database/component/fastener/din_982_rp.scad 
+   database/component/fastener/din_985.scad 
+   database/component/fastener/iso_4014a.scad 
+   database/component/fastener/iso_4014b.scad 
+   database/component/fastener/iso_4032.scad 
+   database/component/fastener/iso_4033.scad 
+   database/component/fastener/iso_4035.scad 
+   database/component/fastener/iso_4161.scad 
+   database/component/fastener/iso_4762.scad 
+   database/component/fastener/iso_7046_1p.scad 
+   database/component/fastener/iso_7046_1s.scad 
+   database/component/fastener/iso_7089.scad 
+   database/component/fastener/iso_7091.scad 
+   database/component/fastener/iso_7092.scad 
+   database/component/fastener/iso_7093.scad 
+   database/component/fastener/iso_7380.scad 
+   database/component/fastener/iso_8677.scad 
+   database/component/fastener/iso_8678.scad 
+   database/component/motion/docs_group.scad 
+   database/component/motion/bearing_linear_lmxuu.scad 
+   database/component/motion/bearing_radial_ball.scad 
+   database/component/motion/motor_nema_stepper.scad 
+   database/component/structural/docs_group.scad 
+   database/component/structural/utility_pipe_emt.scad 
+   database/component/structural/utility_pipe_rsc.scad 
+   database/component/structural/utility_pipe_pvc.scad 
+   database/component/structural/utility_pipe_ip.scad 
+   database/geometry/docs_group.scad 
+   database/geometry/polyhedra/polyhedra_all.scad 
+   database/geometry/polyhedra/anti_prisms.scad 
+   database/geometry/polyhedra/archimedean_duals.scad 
+   database/geometry/polyhedra/archimedean.scad 
+   database/geometry/polyhedra/cupolas.scad 
+   database/geometry/polyhedra/dipyramids.scad 
+   database/geometry/polyhedra/johnson.scad 
+   database/geometry/polyhedra/platonic.scad 
+   database/geometry/polyhedra/prisms.scad 
+   database/geometry/polyhedra/pyramids.scad 
+   database/geometry/polyhedra/trapezohedron.scad 
+   build/docs/html      
+ 

@@ -1,0 +1,8 @@
+<map id="Transforms" name="Transforms">
+<area shape="rect" id="node1" href="$group__transforms__base__cs.html" title="Conditional version of base transformations." alt="" coords="243,14,315,40"/>
+<area shape="rect" id="node2" title="Geometric transformation and shape replication." alt="" coords="5,164,100,189"/>
+<area shape="rect" id="node3" href="$group__transforms__align.html" title="Shape alignment tools." alt="" coords="235,78,324,104"/>
+<area shape="rect" id="node4" href="$group__transforms__extrude.html" title="Shape extrusion operations." alt="" coords="243,164,315,189"/>
+<area shape="rect" id="node5" href="$group__transforms__repeat.html" title="Shape repetition tools." alt="" coords="245,242,313,268"/>
+<area shape="rect" id="node6" href="$group__transforms__layout.html" title="Ordered sequences of geometric transforms as a single composite operation." alt="" coords="246,321,313,346"/>
+</map>

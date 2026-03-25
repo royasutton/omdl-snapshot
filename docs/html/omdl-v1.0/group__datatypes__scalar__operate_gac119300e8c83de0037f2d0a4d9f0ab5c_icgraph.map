@@ -1,0 +1,21 @@
+<map id="defined_or" name="defined_or">
+<area shape="rect" id="node1" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="821,412,912,438"/>
+<area shape="rect" id="node2" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="188,133,331,160"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="655,488,751,514"/>
+<area shape="rect" id="node4" href="$group__tools__2d__drafting.html#ga6273cb44e3132783d3714375c9fb1e4b" title="Move one or more child objects to a sheet reference zone." alt="" coords="655,538,751,565"/>
+<area shape="rect" id="node5" href="$group__transforms__layout.html#gad8eb4ce3a4707e71e80f4f5c8c3faa32" title="A transform sequence to place a child shape." alt="" coords="648,589,759,616"/>
+<area shape="rect" id="node6" href="$group__transforms__layout.html#ga36a7e290a310a680c8e9834c8e10bec3" title="A transform sequence to replicate and place a child shape." alt="" coords="431,133,545,160"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="176,184,343,210"/>
+<area shape="rect" id="node8" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="5,108,128,134"/>
+<area shape="rect" id="node10" href="$group__parts__3d__fastener__mounts.html#ga1a26f176e04863a2bf335960a52b39a8" title="A screw mount slot with optional cover envelope." alt="" coords="633,336,773,362"/>
+<area shape="rect" id="node12" href="$group__parts__3d__fastener__mounts.html#gae1cc60f3ff242fb07c5a50d34be8c051" title="A mount tab with screw hole and support brace." alt="" coords="191,361,328,388"/>
+<area shape="rect" id="node13" href="$group__parts__3d__computer__pci__bracket.html#gaf56631cf80d8e5f0b77736b17b94ecd9" title="PCI slot cover and adapter card bracket generator." alt="" coords="655,640,751,666"/>
+<area shape="rect" id="node14" href="$group__shapes__polygon.html#ga22a29774c22e5cc9f3101ed0a0ed307a" title="A polygon rectangle with side rounding." alt="" coords="641,184,766,210"/>
+<area shape="rect" id="node16" href="$group__tools__common__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="641,690,766,717"/>
+<area shape="rect" id="node17" href="$group__tools__common__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="635,741,771,768"/>
+<area shape="rect" id="node18" href="$group__shapes__common__2d.html#gaf840c9cc7a1bcdb09f023aa6543d36d2" title="A rectangle with a removed rectangular core." alt="" coords="655,437,752,464"/>
+<area shape="rect" id="node9" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="7,322,127,349"/>
+<area shape="rect" id="node11" href="$group__parts__3d__fastener__mounts.html#gabc7cd409ab1e2e4b6b894de3cf06658f" title="A multi&#45;directional screw mount slot with optional cover envelope." alt="" coords="404,336,572,362"/>
+<area shape="rect" id="node15" href="$group__shapes__select__common__2d.html#gadde46fda315aab438eda3f752fec2aed" title="Select configure and construct one of the available 2d shapes." alt="" coords="391,184,585,210"/>
+<area shape="rect" id="node19" href="$group__shapes__revolved.html#gad587c003585db775fd441468954b7c43" title="A rectangular cross&#45;sectional profile revolved about the z&#45;axis." alt="" coords="419,488,557,514"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="validate_log" name="validate_log">
+<area shape="rect" id="node1" title="Output text t to the test log." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$group__common__console.html#ga6f133d3deda0bab6975bd2106a1a23c6" title="Output diagnostic message to console." alt="" coords="156,5,235,32"/>
+</map>

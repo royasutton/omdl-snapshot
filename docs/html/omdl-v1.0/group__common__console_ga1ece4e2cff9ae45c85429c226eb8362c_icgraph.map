@@ -1,0 +1,8 @@
+<map id="log_warn" name="log_warn">
+<area shape="rect" id="node1" title="Output warning message to console." alt="" coords="373,56,455,83"/>
+<area shape="rect" id="node2" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="205,5,325,32"/>
+<area shape="rect" id="node3" href="$group__transforms__repeat.html#gad3a61508128c356ec1348225ec9b3ce0" title="Repeat copies of child objects about a Cartesian grid." alt="" coords="217,56,313,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__table.html#ga8a4429649e8b06d9f492e1a0d2653656" title="Perform basic format checks on a table and output errors to console." alt="" coords="215,107,315,133"/>
+<area shape="rect" id="node5" href="$group__datatypes__table.html#ga7a45ee72b36421f4e73cfba4488f14be" title="Dump table getter functions to the console." alt="" coords="5,81,157,108"/>
+<area shape="rect" id="node6" href="$group__common__validation.html#ga19d0234700fba9de9fb0cba52a3d8e17" title="Test data structure db and output the start of test to the test log." alt="" coords="5,132,157,159"/>
+</map>

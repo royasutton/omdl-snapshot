@@ -1,0 +1,9 @@
+<map id="layout_grid_p" name="layout_grid_p">
+<area shape="rect" id="node1" title="A transform sequence to place a child shape." alt="" coords="5,107,116,133"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="168,5,273,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="175,56,266,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__list__inspect.html#ga375eb2baadaf7684ae16559a2513d313" title="Return the value of an indexed list element with output defaults and list composition." alt="" coords="164,107,277,133"/>
+<area shape="rect" id="node5" href="$group__common__console.html#gacb9540a228d2c15623784ff0b0653722" title="Output information message to console." alt="" coords="183,157,258,184"/>
+<area shape="rect" id="node7" href="$group__datatypes__list__operate.html#gab842ea235bf5fc40a14512083b49c8d2" title="Convert a list of values to a concatenated string." alt="" coords="199,208,242,235"/>
+<area shape="rect" id="node6" href="$group__common__console.html#ga4fb6c985031c9b551777b2e9ebd2fc34" title="Format the function call stack as a string." alt="" coords="325,157,383,184"/>
+</map>

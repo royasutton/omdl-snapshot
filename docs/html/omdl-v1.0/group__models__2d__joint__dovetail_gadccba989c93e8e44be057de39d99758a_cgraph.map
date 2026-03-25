@@ -1,0 +1,12 @@
+<map id="joint2d_dovetail" name="joint2d_dovetail">
+<area shape="rect" id="node1" title="Create 2D edge profiles for dovetail joint construction." alt="" coords="5,157,132,184"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="417,56,522,83"/>
+<area shape="rect" id="node3" href="$group__transforms__base__cs.html#gaa90356c8ee306403464fe2b03ad7849c" title="Conditionally apply the difference intersection operation." alt="" coords="194,5,314,32"/>
+<area shape="rect" id="node5" href="$group__shapes__polygon.html#ga9c1bd914355d92f9d66ba0e5c2d9dbac" title="A polygon rectangle with vertex rounding." alt="" coords="201,107,307,133"/>
+<area shape="rect" id="node6" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="376,157,563,184"/>
+<area shape="rect" id="node8" href="$group__datatypes__list__operate.html#ga7b8e6f2bbfa72ae61e39377e5ca6b5be" title="Select specified element from list or return a default." alt="" coords="215,208,293,235"/>
+<area shape="rect" id="node9" href="$group__math__triangle.html#gaab9b812d15418fd05c9d93f3bfcc1989" title="Compute a set of vertex coordinates for a triangle given its side lengths in 2D." alt="" coords="180,259,328,285"/>
+<area shape="rect" id="node10" href="$group__math__triangle.html#ga33761959a2184db852e773ca2330811b" title="Compute the side lengths of a triangle given two sides and the included angle." alt="" coords="189,309,319,336"/>
+<area shape="rect" id="node4" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="425,5,513,32"/>
+<area shape="rect" id="node7" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="422,107,517,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="tailn" name="tailn">
+<area shape="rect" id="node1" title="Return a list containing all but the first n elements of an iterable value." alt="" coords="807,150,857,177"/>
+<area shape="rect" id="node2" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="188,125,331,152"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__catch__latch.html#ga26a9933aa6d33599daab1be8d632c430" title="A catch latch generator with configurable profile." alt="" coords="648,74,744,101"/>
+<area shape="rect" id="node4" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="5,74,128,101"/>
+<area shape="rect" id="node5" href="$group__shapes__polygon.html#ga22a29774c22e5cc9f3101ed0a0ed307a" title="A polygon rectangle with side rounding." alt="" coords="633,176,759,202"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="176,176,343,202"/>
+<area shape="rect" id="node9" href="$group__datatypes__table.html#ga8d212217f9acb803e3107f488d5523e6" title="Write formatted map entries to the console." alt="" coords="649,277,743,304"/>
+<area shape="rect" id="node6" href="$group__shapes__select__common__2d.html#gadde46fda315aab438eda3f752fec2aed" title="Select configure and construct one of the available 2d shapes." alt="" coords="391,176,585,202"/>
+<area shape="rect" id="node8" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="7,176,127,202"/>
+</map>

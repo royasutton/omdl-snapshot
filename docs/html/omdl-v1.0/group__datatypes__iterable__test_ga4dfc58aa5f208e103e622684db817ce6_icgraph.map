@@ -1,0 +1,7 @@
+<map id="all_equal" name="all_equal">
+<area shape="rect" id="node1" title="Test if all elements of an iterable value equal a comparison value." alt="" coords="304,31,385,57"/>
+<area shape="rect" id="node2" href="$group__tools__2d__drafting.html#gac08f304cd201a44444b6364e039c9b74" title="Draft an arc with configurable style and optional arrowheads." alt="" coords="175,5,254,32"/>
+<area shape="rect" id="node3" href="$group__tools__2d__drafting.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="173,56,256,83"/>
+<area shape="rect" id="node4" href="$group__tools__2d__drafting.html#gada1e771ce89ef86b6241c43dc01bf62d" title="Draft a polygon with configurable style." alt="" coords="10,31,121,57"/>
+<area shape="rect" id="node5" href="$group__tools__2d__drafting.html#gad9f08bcb3c0095a0f328bef7b4463c2c" title="Draft a rectangle with configurable style." alt="" coords="5,81,125,108"/>
+</map>

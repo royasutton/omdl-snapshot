@@ -1,0 +1,5 @@
+<map id="mount_screw_slot" name="mount_screw_slot">
+<area shape="rect" id="node1" title="A screw mount slot with optional cover envelope." alt="" coords="221,31,361,57"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__mounts.html#gabc7cd409ab1e2e4b6b894de3cf06658f" title="A multi&#45;directional screw mount slot with optional cover envelope." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node3" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="29,56,149,83"/>
+</map>

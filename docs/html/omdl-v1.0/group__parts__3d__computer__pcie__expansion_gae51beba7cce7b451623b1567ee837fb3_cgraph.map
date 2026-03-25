@@ -1,0 +1,4 @@
+<map id="pcie_expansion_rbs_keys" name="pcie_expansion_rbs_keys">
+<area shape="rect" id="node1" title="Get list of slot key locations of all riser boards." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$group__datatypes__map.html#ga4a3d0704d80be0d9e8bae1fcb3ab7958" title="Perform basic format checks on a map and output errors to console." alt="" coords="240,5,336,32"/>
+</map>

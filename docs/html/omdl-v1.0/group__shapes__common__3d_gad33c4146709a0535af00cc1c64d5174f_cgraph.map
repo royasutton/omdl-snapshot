@@ -1,0 +1,4 @@
+<map id="pyramid_t" name="pyramid_t">
+<area shape="rect" id="node1" title="A pyramid with trilateral base formed by four equilateral triangles." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="141,5,247,32"/>
+</map>

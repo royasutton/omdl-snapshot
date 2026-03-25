@@ -1,0 +1,8 @@
+<map id="Imperial" name="Imperial">
+<area shape="rect" id="node1" href="$group__database__component__fastener__Imperial__Washers.html" title=" " alt="" coords="255,5,332,31"/>
+<area shape="rect" id="node2" href="$group__database__component__fastener__Imperial__Nuts.html" title=" " alt="" coords="267,55,319,80"/>
+<area shape="rect" id="node3" href="$group__database__component__fastener__Imperial__Bolts.html" title=" " alt="" coords="266,104,321,129"/>
+<area shape="rect" id="node4" href="$group__database__component__fastener__Imperial__Screws.html" title=" " alt="" coords="259,153,327,179"/>
+<area shape="rect" id="node5" title=" " alt="" coords="131,80,207,105"/>
+<area shape="rect" id="node6" href="$group__database__component__fastener.html" title="Mechanical fastener specifications." alt="" coords="5,80,83,105"/>
+</map>

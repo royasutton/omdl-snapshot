@@ -1,0 +1,7 @@
+<map id="intersection_cs" name="intersection_cs">
+<area shape="rect" id="node1" title="Conditionally apply the difference intersection operation." alt="" coords="387,31,507,57"/>
+<area shape="rect" id="node2" href="$group__models__2d__joint__box__screw.html#ga78ef0c1346c6e79260781ee9a9fff0bf" title="Create 2d edge profiles for screw and nut box joint construction." alt="" coords="196,5,339,32"/>
+<area shape="rect" id="node4" href="$group__models__2d__joint__dovetail.html#gadccba989c93e8e44be057de39d99758a" title="Create 2D edge profiles for dovetail joint construction." alt="" coords="204,56,331,83"/>
+<area shape="rect" id="node3" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node5" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="15,56,138,83"/>
+</map>

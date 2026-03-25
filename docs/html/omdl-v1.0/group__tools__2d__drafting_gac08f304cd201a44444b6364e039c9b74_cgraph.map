@@ -1,0 +1,12 @@
+<map id="draft_arc" name="draft_arc">
+<area shape="rect" id="node1" title="Draft an arc with configurable style and optional arrowheads." alt="" coords="5,208,84,235"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__test.html#ga4dfc58aa5f208e103e622684db817ce6" title="Test if all elements of an iterable value equal a comparison value." alt="" coords="174,5,255,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="345,81,451,108"/>
+<area shape="rect" id="node4" href="$group__tools__2d__drafting.html#ga6f12ccd4c9de0a8ab887184911f39c8f" title="Draft an arrowhead at the terminal point of a line." alt="" coords="167,107,263,133"/>
+<area shape="rect" id="node5" href="$group__tools__2d__drafting.html#ga4e7c5fa02dbc244702042067553a9225" title="Draft a simple line from an initial to a terminal point." alt="" coords="161,157,268,184"/>
+<area shape="rect" id="node6" href="$group__datatypes__iterable__operate.html#ga10badea95b6bf88048b4a0b347b2d291" title="Return a list containing the first n elements of an iterable value." alt="" coords="187,208,242,235"/>
+<area shape="rect" id="node7" href="$group__datatypes__iterable__operate.html#gaa735a2d01ca5c17ff07616657eb0aa83" title="Return a list containing the last n elements of an iterable value." alt="" coords="187,259,242,285"/>
+<area shape="rect" id="node8" href="$group__math__polygon.html#ga128d01889534a62bba46ad30ef83a67f" title="Compute coordinates of an arc with constant radius between two vectors in 2D." alt="" coords="132,309,297,336"/>
+<area shape="rect" id="node9" href="$group__datatypes__iterable__operate.html#gafb1f112a3ab162d589c49d1b2de21b9e" title="Reverse the elements of an iterable value." alt="" coords="179,360,250,387"/>
+<area shape="rect" id="node10" href="$group__datatypes__iterable__operate.html#gadb933df06b10d64dda8823069bdc84b7" title="Return a list of all n&#45;element sequential&#45;subsets of an iterable value." alt="" coords="161,411,268,437"/>
+</map>

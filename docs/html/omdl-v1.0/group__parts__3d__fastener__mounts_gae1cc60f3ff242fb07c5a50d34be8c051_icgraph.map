@@ -1,0 +1,4 @@
+<map id="mount_screw_tab" name="mount_screw_tab">
+<area shape="rect" id="node1" title="A mount tab with screw hole and support brace." alt="" coords="173,5,311,32"/>
+<area shape="rect" id="node2" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="5,5,125,32"/>
+</map>

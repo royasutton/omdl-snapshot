@@ -1,0 +1,22 @@
+<map id="angle_ll" name="angle_ll">
+<area shape="rect" id="node1" title="Compute the angle between two lines or vectors in a 3d or 2d&#45;space." alt="" coords="980,157,1053,184"/>
+<area shape="rect" id="node2" href="$group__transforms__align.html#ga8f52a6a936d0f5e248f836d19df14a9f" title="Orient a line or vector to a reference line or vector." alt="" coords="841,81,915,108"/>
+<area shape="rect" id="node7" href="$group__transforms__repeat.html#ga8da1e3a852a1b25ba93437a6fe46745f" title="Radially repeat copies of child objects about a z&#45;axis radius." alt="" coords="824,284,932,311"/>
+<area shape="rect" id="node19" href="$group__shapes__common__2d.html#ga418d0856a660b285e273037b014d31f7" title="A rhombus." alt="" coords="449,157,527,184"/>
+<area shape="rect" id="node3" href="$group__transforms__align.html#gac695554e76def13eeb5a15a349f5fa12" title="Align a line or vector to a reference line or vector." alt="" coords="670,5,739,32"/>
+<area shape="rect" id="node5" href="$group__tools__common__polytope.html#ga530c86f9c90ce074aa7adc29834f0539" title="Assemble a polytope skeletal frame using child objects." alt="" coords="642,56,767,83"/>
+<area shape="rect" id="node6" href="$group__tools__common__polytope.html#ga00b574079f19251be7281151d11db8fa" title="Label the vertices, paths, and edges of a polytope." alt="" coords="637,107,773,133"/>
+<area shape="rect" id="node4" href="$group__transforms__align.html#ga8a1b75b5a53478f7ce1ca287cc479364" title="Align an objects Cartesian axis to reference line or vector." alt="" coords="451,5,525,32"/>
+<area shape="rect" id="node8" href="$group__parts__3d__motion__bearing__linear__rod.html#ga0064887f7c89f8915895c0243bec4a4c" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="633,259,776,285"/>
+<area shape="rect" id="node9" href="$group__parts__3d__fastener__clamps.html#gad5d667c41776480785c62759c61a137e" title="A clamp, bushing, and/or grip for wire, hose, and/or pipe wall penetrations." alt="" coords="217,208,301,235"/>
+<area shape="rect" id="node12" href="$group__models__3d__misc__omdl__logo.html#gab176f64dad7e83d4fb056be44b71f630" title="Standard omdl logo." alt="" coords="443,411,533,437"/>
+<area shape="rect" id="node13" href="$group__shapes__common__2d.html#ga0e810e30a9ec109e004677036012c428" title="A two&#45;dimensional star." alt="" coords="673,360,736,387"/>
+<area shape="rect" id="node17" href="$group__shapes__common__3d.html#ga4ce7dbd0b00fa303b5a6fdb8c4c34ab2" title="A three&#45;dimensional star." alt="" coords="673,309,736,336"/>
+<area shape="rect" id="node10" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="5,208,128,235"/>
+<area shape="rect" id="node11" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="7,309,127,336"/>
+<area shape="rect" id="node14" href="$group__shapes__select__common__2d.html#gadde46fda315aab438eda3f752fec2aed" title="Select configure and construct one of the available 2d shapes." alt="" coords="391,360,585,387"/>
+<area shape="rect" id="node15" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="188,360,331,387"/>
+<area shape="rect" id="node16" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="176,309,343,336"/>
+<area shape="rect" id="node18" href="$group__shapes__select__common__3d.html#ga3fd7f214eff2f5935ad1bb56415a4aaf" title="Select configure and construct one of the available 3d shapes." alt="" coords="391,309,585,336"/>
+<area shape="rect" id="node20" href="$group__parts__3d__fastener__clamps.html#gac715fdab9961aff45be668fb23556835" title="A one piece zip tie clamp to secure wires or provide strain relief." alt="" coords="207,157,311,184"/>
+</map>

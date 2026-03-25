@@ -1,0 +1,5 @@
+<map id="ellipsoid_s" name="ellipsoid_s">
+<area shape="rect" id="node1" title="A sector of an ellipsoid." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="269,5,375,32"/>
+<area shape="rect" id="node3" href="$group__shapes__common__3d.html#gae19b5c3317cb94e9e7b1bd443f3582e5" title="An ellipsoid." alt="" coords="144,31,221,57"/>
+</map>

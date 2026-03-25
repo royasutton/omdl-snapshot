@@ -1,0 +1,12 @@
+var angle_8scad =
+[
+    [ "angle_unit_name", "group__units__angle.html#gaa4ae50f2eb22b8b640b3a4ea581aced7", null ],
+    [ "_angle_unit_d2", "group__units__angle.html#gac46a5ab8db9b17136eecc9ad135f700b", null ],
+    [ "_angle_unit_2d", "group__units__angle.html#gae834407d2ba6d34b3baaca36b0e95265", null ],
+    [ "angle", "group__units__angle.html#ga06a917b77748dfb74e765bcd7c4c0219", null ],
+    [ "angle_inv", "group__units__angle.html#gae442774384e3397d2f6979be5eb4e39e", null ],
+    [ "a_deg", "group__units__angle.html#gacb2dc52671c5d204ae068a2976aa4090", null ],
+    [ "a_rad", "group__units__angle.html#ga6e67ee3118517a5dc84425d3d26a6cf4", null ],
+    [ "angle_unit_base", "group__units__angle.html#gac84ea96a83e38be4799ec51e1bdc364f", null ],
+    [ "angle_unit_default", "group__units__angle.html#ga7619a1937db850eed1d6e02a211ab741", null ]
+];

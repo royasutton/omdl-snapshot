@@ -1,0 +1,9 @@
+<map id="get_fn" name="get_fn">
+<area shape="rect" id="node1" title="Return facets number for the given arc radius." alt="" coords="411,56,473,83"/>
+<area shape="rect" id="node2" href="$group__transforms__extrude.html#ga2cbff19d3b793918b99aae3b56d37dfa" title="Translate, rotate, scale, and revolve a 2d shape about the z&#45;axis." alt="" coords="208,5,351,32"/>
+<area shape="rect" id="node4" href="$group__parts__3d__fastener__mounts.html#ga0cbac43259ec43fff7785057277bcef3" title="A screw mount post with screw bore and optional fins." alt="" coords="207,56,351,83"/>
+<area shape="rect" id="node5" href="$group__parts__3d__enclosure__project__box__rectangle.html#ga24cdfe5fd4bb74b75409d9afdbe1f0c0" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="196,107,363,133"/>
+<area shape="rect" id="node3" href="$group__parts__3d__motion__bearing__linear__rod.html#ga0064887f7c89f8915895c0243bec4a4c" title="Transform 2d or 3d shape into a linear rod ball or sled bearing." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node6" href="$group__parts__3d__computer__pcie__expansion.html#gab6fb1c9f8f6550633467f4ec0bd3f983" title="Generate a PCI Express expansion open chassis or closed enclosure." alt="" coords="15,81,138,108"/>
+<area shape="rect" id="node7" href="$group__parts__3d__enclosure__power__strip.html#ga33509a1811b27fe7f3687957d4d32460" title="A power strip generator for single gang electrical receptacles." alt="" coords="17,132,137,159"/>
+</map>

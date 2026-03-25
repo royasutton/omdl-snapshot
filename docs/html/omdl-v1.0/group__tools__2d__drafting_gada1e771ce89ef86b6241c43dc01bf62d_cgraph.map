@@ -1,0 +1,11 @@
+<map id="draft_polygon" name="draft_polygon">
+<area shape="rect" id="node1" title="Draft a polygon with configurable style." alt="" coords="5,157,116,184"/>
+<area shape="rect" id="node2" href="$group__tools__2d__drafting.html#ga060910368142d6371cf4f3f30be7561e" title="Draft a line with configurable style and optional arrowheads." alt="" coords="207,31,289,57"/>
+<area shape="rect" id="node5" href="$group__datatypes__iterable__operate.html#gaccab3e37e43cb1d882713b3f3d6d9e1b" title="Return the first element of an iterable value." alt="" coords="225,81,271,108"/>
+<area shape="rect" id="node6" href="$group__datatypes__list__operate.html#ga82aaa9bc9dcda9231b41d6c40be67651" title="Selected element indices of a given list according to a selection scheme." alt="" coords="206,132,290,159"/>
+<area shape="rect" id="node7" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="204,183,292,209"/>
+<area shape="rect" id="node8" href="$group__math__polytope.html#ga3acbef4dac1e9b9c464566f80b52a4f6" title="List the edge coordinate index pairs of a polytope." alt="" coords="164,233,332,260"/>
+<area shape="rect" id="node9" href="$group__datatypes__iterable__operate.html#ga894d4bec62cc9cf38d5e099de3028c54" title="Return the second element of an iterable value." alt="" coords="214,284,282,311"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__test.html#ga4dfc58aa5f208e103e622684db817ce6" title="Test if all elements of an iterable value equal a comparison value." alt="" coords="392,5,473,32"/>
+<area shape="rect" id="node4" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="380,56,485,83"/>
+</map>

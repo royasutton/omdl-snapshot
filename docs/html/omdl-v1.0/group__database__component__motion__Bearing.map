@@ -1,0 +1,6 @@
+<map id="Bearing" name="Bearing">
+<area shape="rect" id="node1" href="$group__database__component__motion__bearing__linear__lmxuu.html" title="[bearing] Linear motion bearing; linear_lmxuu; lm." alt="" coords="240,5,347,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="120,31,192,56"/>
+<area shape="rect" id="node3" href="$group__database__component__motion__bearing__radial__ball.html" title="[bearing] Radial ball bearing; radial_ball; rbb." alt="" coords="248,55,339,80"/>
+<area shape="rect" id="node4" href="$group__database__component__motion.html" title="Mechanical motion design component specifications." alt="" coords="5,31,72,56"/>
+</map>

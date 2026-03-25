@@ -1,0 +1,4 @@
+<map id="shapes/polygon.scad" name="shapes/polygon.scad">
+<area shape="rect" id="node1" title="Roundable polygons generated in 2D space." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$omdl-base_8scad.html" title="Include wrapper of base library components." alt="" coords="22,80,147,107"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="project_box_rectangle" name="project_box_rectangle">
+<area shape="rect" id="node1" title="A rectangular box maker for project boxes, enclosures and housings." alt="" coords="5,1231,172,1258"/>
+<area shape="rect" id="node2" href="$group__datatypes__binary.html#ga7ce4ed94d9b389ff817ea219918b8732" title="Test if a binary bit position of an integer value equals a test bit." alt="" coords="684,395,789,422"/>
+<area shape="rect" id="node3" href="$group__datatypes__binary.html#ga0a002009bcaa8d53f301c6966bdf1134" title="Decode the binary bits of a bit window to an integer value." alt="" coords="271,1383,368,1410"/>
+<area shape="rect" id="node4" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="899,927,1005,954"/>
+<area shape="rect" id="node5" href="$group__datatypes__iterable__operate.html#ga340ba36792acd5fffcca6c6576225f06" title="Returns an element from an iterable if it exists and is a iterable, otherwise returns a default value..." alt="" coords="265,1434,374,1460"/>
+<area shape="rect" id="node6" href="$group__datatypes__iterable__operate.html#gaa10da05023bd79eec85459298bc937c2" title="Returns the list element or scalar numeric value if defined, otherwise returns the default value." alt="" coords="480,1130,601,1156"/>
+<area shape="rect" id="node7" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="691,471,782,498"/>
+<area shape="rect" id="node8" href="$group__transforms__base__cs.html#ga3900ae7c9ca268f0224a65f56387059f" title="Conditionally apply the difference boolean operation." alt="" coords="265,1484,373,1511"/>
+<area shape="rect" id="node9" href="$group__datatypes__scalar__test.html#ga51d7fdb800c10f4b7479d23b89ab8d22" title="Test if a value is defined." alt="" coords="497,1788,585,1815"/>
+<area shape="rect" id="node10" href="$group__transforms__extrude.html#ga45661244067bf945b684550c3263ee45" title="Linearly extrude a 2d shape with multi&#45;segment uniformly&#45;spaced profile scaling." alt="" coords="244,218,395,244"/>
+<area shape="rect" id="node11" href="$group__transforms__extrude.html#gab2442cfaf1ad44d6e295ab0979d9e03d" title="Linearly extrude a 2d shape with uniformly&#45;spaced profile scaling." alt="" coords="468,116,613,143"/>
+<area shape="rect" id="node12" href="$group__datatypes__iterable__operate.html#gaccab3e37e43cb1d882713b3f3d6d9e1b" title="Return the first element of an iterable value." alt="" coords="713,268,760,295"/>
+<area shape="rect" id="node13" href="$group__datatypes__scalar__test.html#ga258e8911375d30ff85a6e52df01dc1c5" title="Test if a value is a single non&#45;iterable value." alt="" coords="697,167,776,194"/>
+<area shape="rect" id="node14" href="$group__datatypes__iterable__operate.html#ga894d4bec62cc9cf38d5e099de3028c54" title="Return the second element of an iterable value." alt="" coords="703,40,771,67"/>
+<area shape="rect" id="node15" href="$group__datatypes__list__operate.html#gae12565005038993506dc37249e32766d" title="Compute the sum of a list of numbers." alt="" coords="515,268,566,295"/>
+<area shape="rect" id="node16" href="$group__transforms__extrude.html#gaf8c07d65b440b889fbc3e030dcc8112c" title="Return the total extrusion height for extrude_linear_mss()." alt="" coords="230,1586,409,1612"/>
+<area shape="rect" id="node17" href="$group__math__utility.html#ga26fadb1879c636fcf701192f2216282a" title="Return facets number for the given arc radius." alt="" coords="288,1636,351,1663"/>
+<area shape="rect" id="node18" href="$group__datatypes__iterable__operate.html#ga4f04409e3fce7bf8226e4fde98f514c0" title="Return the last element of an iterable value." alt="" coords="713,978,760,1004"/>
+<area shape="rect" id="node19" href="$group__transforms__layout.html#ga36a7e290a310a680c8e9834c8e10bec3" title="A transform sequence to replicate and place a child shape." alt="" coords="262,572,377,599"/>
+<area shape="rect" id="node22" href="$group__datatypes__list__operate.html#gab842ea235bf5fc40a14512083b49c8d2" title="Convert a list of values to a concatenated string." alt="" coords="519,674,562,700"/>
+<area shape="rect" id="node23" href="$group__datatypes__list__operate.html#ga9ca257ff58d64bacffa01387c9effa0e" title="Limit a list of numbers between an upper and lower bounds." alt="" coords="293,1687,345,1714"/>
+<area shape="rect" id="node24" href="$group__datatypes__list__operate.html#gac9437fd7e3cb8797fa5e901b2ab6e58a" title="Serially merge the elements of a list." alt="" coords="280,1738,359,1764"/>
+<area shape="rect" id="node25" href="$group__shapes__polygon.html#ga9c1bd914355d92f9d66ba0e5c2d9dbac" title="A polygon rectangle with vertex rounding." alt="" coords="683,1535,790,1562"/>
+<area shape="rect" id="node28" href="$group__shapes__polygon.html#ga24be160074502dce7ff8a78361d4b074" title="A polygon triangle specified by size&#45;angle&#45;size with vertex rounding." alt="" coords="479,1687,603,1714"/>
+<area shape="rect" id="node32" href="$group__math__polygon.html#ga14f9e097061ed4d570b7aae27a01e43e" title="Compute the perimeter of an n&#45;sided regular polygon in 2D." alt="" coords="220,1788,419,1815"/>
+<area shape="rect" id="node33" href="$group__datatypes__iterable__operate.html#gafb1f112a3ab162d589c49d1b2de21b9e" title="Reverse the elements of an iterable value." alt="" coords="284,1839,355,1866"/>
+<area shape="rect" id="node34" href="$group__datatypes__list__operate.html#ga7b8e6f2bbfa72ae61e39377e5ca6b5be" title="Select specified element from list or return a default." alt="" coords="280,1890,359,1916"/>
+<area shape="rect" id="node35" href="$group__shapes__select__common__2d.html#gadde46fda315aab438eda3f752fec2aed" title="Select configure and construct one of the available 2d shapes." alt="" coords="222,1231,417,1258"/>
+<area shape="rect" id="node40" href="$group__datatypes__iterable__operate.html#gafacf0ab6a646e99fcf55351ca693823f" title="Return a list containing all but the first n elements of an iterable value." alt="" coords="711,1130,762,1156"/>
+<area shape="rect" id="node44" href="$group__shapes__select__common__3d.html#ga3fd7f214eff2f5935ad1bb56415a4aaf" title="Select configure and construct one of the available 3d shapes." alt="" coords="222,876,417,903"/>
+<area shape="rect" id="node49" href="$group__datatypes__iterable__operate.html#gae2adb6abb5add072deae18223c861218" title="Circularly shift the elements of an iterable, with an optional element drop." alt="" coords="283,1940,355,1967"/>
+<area shape="rect" id="node50" href="$group__datatypes__iterable__operate.html#ga4a000b3543933067bb00c6950e9122b3" title="Return the third element of an iterable value." alt="" coords="293,1991,345,2018"/>
+<area shape="rect" id="node20" href="$group__datatypes__list__inspect.html#ga375eb2baadaf7684ae16559a2513d313" title="Return the value of an indexed list element with output defaults and list composition." alt="" coords="484,522,597,548"/>
+<area shape="rect" id="node21" href="$group__common__console.html#gacb9540a228d2c15623784ff0b0653722" title="Output information message to console." alt="" coords="503,775,578,802"/>
+<area shape="rect" id="node26" href="$group__math__polygon.html#ga7a0eff64929a142fc507615f83e3bd58" title="Compute coordinates that round all of the vertices between each adjacent edges in 2D." alt="" coords="859,1434,1045,1460"/>
+<area shape="rect" id="node27" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="905,1535,999,1562"/>
+<area shape="rect" id="node29" href="$group__shapes__polygon.html#gac7e2c70b3428b729efd86a675df794e6" title="A polygon triangle specified by three coordinate points with vertex rounding." alt="" coords="673,1586,800,1612"/>
+<area shape="rect" id="node30" href="$group__math__triangle.html#gaab9b812d15418fd05c9d93f3bfcc1989" title="Compute a set of vertex coordinates for a triangle given its side lengths in 2D." alt="" coords="663,1484,811,1511"/>
+<area shape="rect" id="node31" href="$group__math__triangle.html#ga33761959a2184db852e773ca2330811b" title="Compute the side lengths of a triangle given two sides and the included angle." alt="" coords="671,1662,802,1688"/>
+<area shape="rect" id="node36" href="$group__shapes__polygon.html#ga27def935f8b9e4be2e0b6a632b680c4c" title="A polygon edge round with constant radius between two vectors." alt="" coords="475,1282,606,1308"/>
+<area shape="rect" id="node37" href="$group__shapes__polygon.html#ga9198015701fe49179f744884a6884443" title="A polygon elliptical sector." alt="" coords="467,1484,615,1511"/>
+<area shape="rect" id="node38" href="$group__shapes__polygon.html#ga3587861a50ac45aeabace1df584094d1" title="A n&#45;sided regular polygon with vertex rounding." alt="" coords="698,1712,775,1739"/>
+<area shape="rect" id="node39" href="$group__shapes__polygon.html#ga22a29774c22e5cc9f3101ed0a0ed307a" title="A polygon rectangle with side rounding." alt="" coords="478,1028,603,1055"/>
+<area shape="rect" id="node41" href="$group__shapes__polygon.html#ga2ca38d6942a8955d3b483d1a60bf7ec3" title="A polygon rhombus with vertex rounding." alt="" coords="685,1332,788,1359"/>
+<area shape="rect" id="node42" href="$group__shapes__polygon.html#gab9843df753e0537b490ac67cec6e31a9" title="A polygon triangle specified by three side lengths with vertex rounding." alt="" coords="479,1535,602,1562"/>
+<area shape="rect" id="node43" href="$group__shapes__common__2d.html#ga0e810e30a9ec109e004677036012c428" title="A two&#45;dimensional star." alt="" coords="509,1383,572,1410"/>
+<area shape="rect" id="node45" href="$group__shapes__common__3d.html#ga5075cfcc6967fb610e308f08da3fb059" title="A cone." alt="" coords="514,1079,567,1106"/>
+<area shape="rect" id="node46" href="$group__shapes__common__3d.html#ga9041dbb11863f4e55466564aac6f0342" title="A cuboid with edge, round, or chamfer corners." alt="" coords="508,724,573,751"/>
+<area shape="rect" id="node47" href="$group__shapes__common__3d.html#gae19b5c3317cb94e9e7b1bd443f3582e5" title="An ellipsoid." alt="" coords="698,927,775,954"/>
+<area shape="rect" id="node48" href="$group__shapes__common__3d.html#ga3b0b3b2d184c8d771dbbf2463f5c4baf" title="A sector of an ellipsoid." alt="" coords="495,876,586,903"/>
+</map>

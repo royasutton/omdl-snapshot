@@ -1,0 +1,4 @@
+<map id="PCIe Expansion" name="PCIe Expansion">
+<area shape="rect" id="node1" title="PCI Express expansion chassis and/or enclosure generator." alt="" coords="5,7,128,33"/>
+<area shape="rect" id="node2" href="$group__parts__3d__computer.html" title="Mechanical computer parts." alt="" coords="312,7,399,33"/>
+</map>

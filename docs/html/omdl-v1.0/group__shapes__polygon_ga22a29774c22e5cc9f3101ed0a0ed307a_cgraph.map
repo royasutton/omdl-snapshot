@@ -1,0 +1,11 @@
+<map id="pg_rectangle_rs" name="pg_rectangle_rs">
+<area shape="rect" id="node1" title="A polygon rectangle with side rounding." alt="" coords="5,183,131,209"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="209,5,314,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__scalar__operate.html#gac119300e8c83de0037f2d0a4d9f0ab5c" title="Return given value, if defined, or a secondary value, if primary is not defined." alt="" coords="216,56,307,83"/>
+<area shape="rect" id="node4" href="$group__datatypes__euclidean.html#gaef5b930729755b4420098776467ac210" title="Compute the distance between two points." alt="" coords="211,107,311,133"/>
+<area shape="rect" id="node5" href="$group__datatypes__iterable__operate.html#gaccab3e37e43cb1d882713b3f3d6d9e1b" title="Return the first element of an iterable value." alt="" coords="238,157,285,184"/>
+<area shape="rect" id="node6" href="$group__datatypes__iterable__operate.html#ga4f04409e3fce7bf8226e4fde98f514c0" title="Return the last element of an iterable value." alt="" coords="238,208,285,235"/>
+<area shape="rect" id="node7" href="$group__math__polygon.html#ga128d01889534a62bba46ad30ef83a67f" title="Compute coordinates of an arc with constant radius between two vectors in 2D." alt="" coords="179,259,344,285"/>
+<area shape="rect" id="node8" href="$group__datatypes__iterable__operate.html#gafacf0ab6a646e99fcf55351ca693823f" title="Return a list containing all but the first n elements of an iterable value." alt="" coords="236,309,287,336"/>
+<area shape="rect" id="node9" href="$group__math__linear__algebra.html#gaeabe74699fd0a437bad9a1d442bfd111" title="Translate all coordinates dimensions." alt="" coords="214,360,309,387"/>
+</map>

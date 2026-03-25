@@ -1,0 +1,6 @@
+<map id="Joint" name="Joint">
+<area shape="rect" id="node1" href="$group__models__2d__joint__dovetail.html" title="Models for generating dovetailed joints in 2d." alt="" coords="349,9,433,34"/>
+<area shape="rect" id="node2" title="Models for connecting 2d planar members." alt="" coords="144,41,195,66"/>
+<area shape="rect" id="node3" href="$group__models__2d__joint__box__screw.html" title="Models for generating 2d box joints fastened with screw and nut." alt="" coords="345,73,436,98"/>
+<area shape="rect" id="node4" href="$group__models__2d.html" title="2d black&#45;box models of design components." alt="" coords="5,41,95,66"/>
+</map>

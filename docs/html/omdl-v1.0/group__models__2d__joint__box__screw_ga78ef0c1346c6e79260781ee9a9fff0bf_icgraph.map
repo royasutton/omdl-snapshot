@@ -1,0 +1,4 @@
+<map id="joint2d_box_screw" name="joint2d_box_screw">
+<area shape="rect" id="node1" title="Create 2d edge profiles for screw and nut box joint construction." alt="" coords="196,5,339,32"/>
+<area shape="rect" id="node2" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="5,5,148,32"/>
+</map>

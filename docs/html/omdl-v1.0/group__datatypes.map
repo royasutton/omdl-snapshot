@@ -1,0 +1,13 @@
+<map id="Types" name="Types">
+<area shape="rect" id="node1" href="$group__datatypes__list__inspect.html" title="List inspection operations." alt="" coords="269,29,385,54"/>
+<area shape="rect" id="node2" title="Data type identification and operations." alt="" coords="5,375,64,401"/>
+<area shape="rect" id="node3" href="$group__datatypes__map.html" title="Map data type and operations." alt="" coords="298,93,355,118"/>
+<area shape="rect" id="node4" href="$group__datatypes__binary.html" title="Base&#45;2 binary numbers tests and operations." alt="" coords="263,178,390,203"/>
+<area shape="rect" id="node5" href="$group__datatypes__euclidean.html" title="Tests and operations for Euclidean 3d space." alt="" coords="284,257,369,282"/>
+<area shape="rect" id="node6" href="$group__datatypes__list__operate.html" title="Operations for list data types." alt="" coords="267,335,387,361"/>
+<area shape="rect" id="node7" href="$group__datatypes__scalar__operate.html" title="Operations for scalar data types." alt="" coords="258,414,395,439"/>
+<area shape="rect" id="node8" href="$group__datatypes__iterable__test.html" title="Tests to differentiate iterable data types." alt="" coords="272,493,381,518"/>
+<area shape="rect" id="node9" href="$group__datatypes__scalar__test.html" title="Tests to differentiate scalar data types." alt="" coords="277,571,376,597"/>
+<area shape="rect" id="node10" href="$group__datatypes__iterable__operate.html" title="Operations for iterable data types." alt="" coords="253,650,400,675"/>
+<area shape="rect" id="node11" href="$group__datatypes__table.html" title="Table data type and operations." alt="" coords="295,729,358,754"/>
+</map>

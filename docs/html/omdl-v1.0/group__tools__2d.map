@@ -1,0 +1,6 @@
+<map id="2d Tools" name="2d Tools">
+<area shape="rect" id="node1" href="$group__tools__2d__turtle__path.html" title="Turtle&#45;style step language to generate coordinate points for polygon construction...." alt="" coords="345,5,404,31"/>
+<area shape="rect" id="node2" title="2d design tools and workflow utilities." alt="" coords="109,25,184,51"/>
+<area shape="rect" id="node3" href="$group__tools__2d__drafting.html" title="Drafting and drawing tools for graphical design documentation." alt="" coords="337,69,412,95"/>
+<area shape="rect" id="node4" href="$group__tools.html" title="Design workflow tools and design utilities." alt="" coords="5,25,60,51"/>
+</map>

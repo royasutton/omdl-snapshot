@@ -1,0 +1,8 @@
+<map id="Fastener" name="Fastener">
+<area shape="rect" id="node1" href="$group__parts__3d.html" title="3d parts, part generators, and small assemblies." alt="" coords="5,127,80,152"/>
+<area shape="rect" id="node4" title="Fasteners, connectors, joiners, latches, and hinges." alt="" coords="129,127,207,152"/>
+<area shape="rect" id="node2" href="$group__parts__3d__fastener__mounts.html" title="Screw mounts tabs, mount slots, mount posts, etc." alt="" coords="376,16,447,42"/>
+<area shape="rect" id="node3" href="$group__parts__3d__fastener__hinges.html" title="Print&#45;in&#45;place hinge generators." alt="" coords="378,80,445,106"/>
+<area shape="rect" id="node5" href="$group__parts__3d__fastener__catch__latch.html" title="Catch latch generator." alt="" coords="364,166,459,191"/>
+<area shape="rect" id="node6" href="$group__parts__3d__fastener__clamps.html" title="Clamps, bushings, and grips for wires and hoses." alt="" coords="376,244,447,270"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Structural" name="Structural">
+<area shape="rect" id="node1" href="$group__database__component__structural__utility__pipe__pvc.html" title="[utility_pipe] Polyvinyl chloride pipe; pvc; sch40 sch80 sch120." alt="" coords="453,5,498,31"/>
+<area shape="rect" id="node2" href="$group__database__component__structural__utility__pipe__ip.html" title="[utility_pipe] Iron pipe; ip; steel." alt="" coords="456,55,495,80"/>
+<area shape="rect" id="node3" href="$group__database__component__structural__utility__pipe__rsc.html" title="[utility_pipe] Rigid steel conduit; rsc; heavy wall." alt="" coords="455,104,496,129"/>
+<area shape="rect" id="node4" href="$group__database__component__structural__utility__pipe__emt.html" title="[utility_pipe] Electrical metalic conduit; emt; thin wall." alt="" coords="451,153,499,179"/>
+<area shape="rect" id="node5" href="$group__database__component.html" title="Design component specifications." alt="" coords="5,104,103,129"/>
+<area shape="rect" id="node7" title="Structural component specifications." alt="" coords="152,104,237,129"/>
+<area shape="rect" id="node6" href="$group__database__component__structural__Utility__Pipe.html" title=" " alt="" coords="427,203,524,228"/>
+</map>

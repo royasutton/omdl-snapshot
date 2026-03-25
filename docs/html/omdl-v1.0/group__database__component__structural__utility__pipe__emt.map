@@ -1,0 +1,5 @@
+<map id="emt" name="emt">
+<area shape="rect" id="node1" title="[utility_pipe] Electrical metalic conduit; emt; thin wall." alt="" coords="152,7,200,33"/>
+<area shape="rect" id="node3" href="$group__database__component__structural.html" title="Structural component specifications." alt="" coords="389,7,475,33"/>
+<area shape="rect" id="node2" href="$group__database__component__structural__Utility__Pipe.html" title=" " alt="" coords="5,7,103,33"/>
+</map>

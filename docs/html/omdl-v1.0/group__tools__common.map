@@ -1,0 +1,5 @@
+<map id="Common" name="Common">
+<area shape="rect" id="node1" title="Common design tools and workflow utilities." alt="" coords="109,5,191,31"/>
+<area shape="rect" id="node2" href="$group__tools__common__polytope.html" title="Polygon and polyhedron tools." alt="" coords="331,5,409,31"/>
+<area shape="rect" id="node3" href="$group__tools.html" title="Design workflow tools and design utilities." alt="" coords="5,5,60,31"/>
+</map>

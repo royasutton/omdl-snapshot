@@ -1,0 +1,6 @@
+<map id="length" name="length">
+<area shape="rect" id="node1" title="Convert a length value from one unit to another, with optional dimensional scaling." alt="" coords="416,31,479,57"/>
+<area shape="rect" id="node2" href="$group__parts__2d__enclosure__box__finger__joint.html#gacc1bfb220bc3cfed46dcaa3b84898020" title="Generate a 2D box design using screw&#45;based finger joint (box&#45;joint)." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node3" href="$group__models__2d__joint__box__screw.html#ga78ef0c1346c6e79260781ee9a9fff0bf" title="Create 2d edge profiles for screw and nut box joint construction." alt="" coords="211,31,353,57"/>
+<area shape="rect" id="node4" href="$group__models__3d__joint__dovetail__screw.html#ga20f61ef0d29434a144ec653c6320f77f" title="Construct a 3d dovetail joint with optional screw and nut fastener." alt="" coords="196,81,368,108"/>
+</map>

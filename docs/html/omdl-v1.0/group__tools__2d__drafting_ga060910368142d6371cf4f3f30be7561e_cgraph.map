@@ -1,0 +1,5 @@
+<map id="draft_line" name="draft_line">
+<area shape="rect" id="node1" title="Draft a line with configurable style and optional arrowheads." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node2" href="$group__datatypes__iterable__test.html#ga4dfc58aa5f208e103e622684db817ce6" title="Test if all elements of an iterable value equal a comparison value." alt="" coords="148,5,229,32"/>
+<area shape="rect" id="node3" href="$group__datatypes__iterable__operate.html#ga3d37c2b0067d1661724bd89955c8f6ce" title="Returns an element from an iterable if it exists, or a default value if not." alt="" coords="136,56,241,83"/>
+</map>
